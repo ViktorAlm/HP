@@ -1,0 +1,480 @@
+[
+    {
+        "question": "",
+        "options": [
+            "omtänksam",
+            "utan vinstintresse",
+            "kompromisslös",
+            "utan svagheter",
+            "demokratisk"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "petitess",
+        "options": [
+            "hemlighet",
+            "skrivelse",
+            "önskemål",
+            "avvikelse",
+            "obetydlighet"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "hämma",
+        "options": [
+            "neka",
+            "hindra",
+            "dölja",
+            "tystna",
+            "fördöma"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "legering",
+        "options": [
+            "nedbantning",
+            "förgasning",
+            "värmebehandling",
+            "färgning",
+            "metallblandning"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "tämligen",
+        "options": [
+            "lagom",
+            "utan tvekan",
+            "typiskt",
+            "rätt så",
+            "faktiskt"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "kommission",
+        "options": [
+            "domstolsjury",
+            "utlandstjänst",
+            "grupp av sakkunniga",
+            "intresseförening",
+            "handelsbolag"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "handfallen",
+        "options": [
+            "ledsen",
+            "förälskad",
+            "rådlös",
+            "längtansfull",
+            "praktisk"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "påföljd",
+        "options": [
+            "avslut",
+            "börda",
+            "tillskott",
+            "straff",
+            "orsak"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "alster",
+        "options": [
+            "verk",
+            "insekt",
+            "princip",
+            "redskap",
+            "fält"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "slå sina lovar kring",
+        "options": [
+            "sprida ut",
+            "undvika",
+            "imponera på",
+            "överblicka",
+            "kretsa runt – 2 – – 3 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vilken inställning tycks Lennart Svensson ha till Piagets och Vygotskijs teorier?",
+        "options": [
+            "Även om teorierna har mycket gemensamt är det viktigare att betona skillnaderna.",
+            "Båda teorierna är tänkvärda var för sig, men bäst fungerar de tillsammans.",
+            "Även om teorierna skiljer sig åt är det viktigare att betona likheterna.",
+            "Båda teorierna är relevanta i dag, men de går inte att förena."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "I vilken av följande frågor skiljer sig Piaget och Vygotskij tydligt åt, enligt texten?",
+        "options": [
+            "I frågan huruvida små barns språk speglar deras tänkande eller inte.",
+            "I frågan huruvida små barns tänkande är väl utvecklat eller inte.",
+            "I frågan huruvida små barns språk har egocent­ riska inslag eller inte.",
+            "I frågan huruvida små barns tänkande är deras eget eller inte."
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Vad anger textförfattaren som den främsta förklaringen till omsvängningen i Frankrikes inställning till Libyen?",
+        "options": [
+            "Trycket från en enig omvärld.",
+            "Den franska befolkningens protester.",
+            "Prestige och viljan till makt.",
+            "Insikten om gamla felsteg och misstag."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Vad tycks ligga till grund för Frankrikes utrikes- politik, så som den framställs i texten?",
+        "options": [
+            "Landets omstridda roll i EU.",
+            "Landets förkärlek för dramatiska ledare.",
+            "Landets koloniala förflutna.",
+            "Landets relativa oberoende av USA."
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Varför ville den franska regeringen dölja att landets militära trupper spelade en avgörande roll i Elfenbenskusten 2011, enligt texten?",
+        "options": [
+            "Resultatet av den franska insatsen blev inte det som regeringen hade hoppats på.",
+            "Regeringen ville inte skylta med att den egent­ ligen bara hade handlat på uppdrag av FN.",
+            "Resultatet av den gemensamma FN­insatsen överensstämde inte med regeringens utlovade ",
+            "Regeringen ville undvika anklagelser om att fortfarande bedriva sin kritiserade Françafrique­"
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Hur kan man bäst karakterisera Sarkozys utri- kespolitik, utifrån hur den framställs i texten?",
+        "options": [
+            "Som populistisk och aningslös.",
+            "Som välvillig men eftergiven.",
+            "Som ombytlig och motsägelsefull.",
+            "Som principfast men omdömeslös. – 6 – – 7 –"
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vad kan, enligt texten, sägas vara kärnan i den evidensbaserade medicinen?",
+        "options": [
+            "Att den tillämpas på en teoretisk och överordnad nivå.",
+            "Att den bygger på en sammanfattad kunskapsbas.",
+            "Att den utvärderar fakta som är svåra att doku­ mentera i forskning.",
+            "Att den utgår från det som visat sig praktiskt möjligt."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Textförfattarna resonerar kring förutsättning- arna för evidensbaserad naturvård genom att peka på ett antal skillnader mellan forskning inom naturvård respektive medicin. Vilket svarsförslag anger en av dessa skillnader?",
+        "options": [
+            "Forskningsmöjligheterna är färre inom naturvår­ den.",
+            "Praktiska åtgärder utvärderas mer sällan inom naturvården.",
+            "Kraven på bevisvärde är lägre inom naturvården.",
+            "Avståndet mellan teori och praktik är kortare inom naturvården. "
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Vad vill textförfattarna visa på när de nämner de tre studierna om dårgräsfjärilens värdväxt, ved­ levande skalbaggar och skötsel av ängsmark?",
+        "options": [
+            "Att det finns systematiska översikter inom praktisk naturvård.",
+            "Att det finns odokumenterad kunskap inom ",
+            "Att det finns publicerad forskning inom praktisk naturvård.",
+            "Att det finns förbisedda studier inom praktisk "
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Vad skulle naturvården framför allt kunna uppnå genom ett evidensbaserat arbetssätt, enligt texten?",
+        "options": [
+            "Mer effektiva insatser.",
+            "Större engagemang.",
+            "Ökad samverkan.",
+            "Höjd vetenskaplig status. – 8 – – 9 –"
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Bevarandet av den biologiska _____ är den moderna naturvårdens och natur­ skyddets främsta uppgift.",
+        "options": [
+            "ekologin",
+            "mångfalden",
+            "atmosfären",
+            "hållbarheten"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "Kvinnan använde sin hyresrätt till förvaring av arvegods, istället för att bo där. Det får man inte enligt _____ och hon fråntas därför lägenheten. Hyresvärden har vid två tillfällen varit inne i lägenheten, som då varit så smutsig och _____ med saker att det knappt gått att komma in.",
+        "options": [
+            "kontraktet – nedsliten",
+            "vicevärden – förtäckt",
+            "hyreslagen – belamrad",
+            "bostadsrätten – uppfylld"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Författaren pekar på hur personer som kritiserar respektive förespråkar läkemedel mot ångest utgår från helt skilda idétraditioner: å ena sidan en _____ som utmärks av luthersk pliktkänsla, asketisk självförnekelse och skepsis mot läkemedel; å andra sidan en allt starkare tro på att varje individ har _____ till lycka och självförverkli­ gande, och att ångest och nedstämdhet därmed bör _____.",
+        "options": [
+            "puritanism – rätt – elimineras",
+            "idealism – motivation – accepteras",
+            "humanism – chans – förebyggas",
+            "negativism – potential – ignoreras"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "”Vi vill inte blanda oss i ryktesspridningen. Det där vill jag distansera mig ifrån och _____. Ingenting av det stämmer.”",
+        "options": [
+            "deformera",
+            "recitera",
+            "dementera",
+            "redigera"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Vart rör sig den globala ekonomin? Den stora frågan är om vi har levt på _____, om de senaste 20–30 åren bara varit en bubbla på kredit och om vi nu nått _____.",
+        "options": [
+            "små marginaler – målet",
+            "lånad tid – vägs ände",
+            "gammal skåpmat – kulmen",
+            "egna villkor – ända fram"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Nyligen kom nyheten om att det på månen, i motsats till vad man tidigare trott, kan finnas vattenmolekyler. Nu har nya rön _____ som kan förklara hur dessa vatten­ molekyler skapats.",
+        "options": [
+            "genomförts",
+            "avslöjats",
+            "publicerats",
+            "upptäckts"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Men lika mycket som en enig kritikerkår i Danmark har hyllat dikternas konstnärliga kvalitet, lika _____ omöjligt har det varit för de danska läsarna att enbart _____ dikternas estetiska kvalitet och _____ den smärtsamma verklighet som de skildrar.",
+        "options": [
+            "komplett – förhålla sig till – förbigå",
+            "genuint – bortse från – försumma",
+            "direkt – påverkas av – förorda",
+            "fatalt – liera sig med – förstärka"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "På åttiotalet gick jag ur den svenska statskyrkan, mycket som ett resultat av debat­ ten om kvinnliga präster. Det _____ var att detta ledde till ett större engagemang i trosfrågor och ett växande intresse för världsreligionerna. Jag kom snart fram till att jag hörde hemma i de ateistiska leden, även om jag _____ för uttrycket som sådant.",
+        "options": [
+            "reaktionära – vacklade",
+            "fundamentala – duckade",
+            "konsekventa – backade",
+            "paradoxala – ryggade – 10 – – 11 –"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Att politiker och högt uppsatta tjänstemän kan byta yrkesbana är bra. Personal­ politiskt växelbruk har många fördelar, och även för allmänheten ligger det ett värde i att offentliga beslutsfattare inte döms till livstid inom samma _____.",
+        "options": [
+            "tablå",
+            "sejour",
+            "gebit",
+            "matris"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "En konstnärlig utbildning _____ bör förmedla kunskaper och färdigheter som _____ under en fortlöpande personlig mognadsprocess, genom kontinuerligt arbete med olika typer av övningsuppgifter som utförs med lärarledd handledning.",
+        "options": [
+            "med status – tillägnas",
+            "sedd utifrån – erhålls",
+            "under utveckling – skapas",
+            "värd namnet – förvärvas – 11 –"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "What is the main point here?",
+        "options": [
+            " There is an urgent need to reform higher educa­ tion in many countries. ",
+            " More money for the education of young children will pay off later on. ",
+            " The number of well­educated, skilled workers seems to be increasing.",
+            " More money to be spent equally on all kinds of education is necessary."
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "What is the main point in this text?",
+        "options": [
+            " Immortality­related dilemmas may appear whether eternal life is achieved or not. ",
+            " It is questionable whether human beings will become immortal.",
+            " Philosophers quarrel about whether immortality would be a positive or a negative thing. ",
+            " Predicting whether humans will ever achieve immortality is impossible."
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "What is the main point in the opening paragraph?",
+        "options": [
+            " The origins of moral religions have long been considered a mystery.",
+            " Moral values provide a cornerstone for all reli­ gious beliefs.",
+            " There are now competing views on the emer­ gence of moral religions. ",
+            " Morality can be seen as a side effect of religious thinking."
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "What is said about the new study mentioned?",
+        "options": [
+            " Its main argument is based on the conflict between wealth and morality.",
+            " It stresses the relevance of material conditions for the appearance of modern religions. ",
+            " Its reference to population statistics has sur­ prised many researchers.",
+            " It is openly critical of previous attempts to explain the beginnings of modern religions."
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "How does Barbara King regard Nicolas Baumard’s research? According to King, …",
+        "options": [
+            " Baumard is unaware of moral thinking prior to modern religions. ",
+            " Baumard’s calorie statistics do not stand up to close scrutiny.",
+            " Baumard’s explanation is supported by other branches of research.",
+            " Baumard overstates the abruptness of the appearance of morality. "
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "How does Bernard J. Crespi view Nicolas Baumard’s findings?",
+        "options": [
+            " Crespi thinks Baumard’s evidence for affluence giving rise to religion is insufficient. ",
+            " Crespi accepts Baumard’s account with only minor reservations.",
+            " Crespi agrees that Baumard’s point about the role of affluence is of crucial importance.",
+            " Crespi considers Baumard’s statistical data interesting but irrelevant."
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "What is the writer’s overall attitude to Nicolas Baumard’s research?",
+        "options": [
+            " He is on the whole positive but has some serious objections.",
+            " He is less convinced by its main argument than Bernard J. Crespi.",
+            " He is clearly impressed but avoids taking a stand on a key issue. ",
+            " He is more sceptical about its conclusions than Barbara King."
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "What is the main point here in relation to autistic people?",
+        "options": [
+            " They tend to express emotion more through their voices rather than by their faces.",
+            " Their difficulties in distinguishing feelings may relate to what can be seen. ",
+            " They are generally better than non­autistic people at determining people’s emotions.",
+            " Their visual deficits are less difficult to treat than their corresponding aural deficits. "
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "Which of the following phrases best characterizes China’s overall progress, as described in the text?",
+        "options": [
+            " One­dimensional.",
+            " Extremely varied.",
+            " Environment­friendly.",
+            " Basically unethical. Autism"
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

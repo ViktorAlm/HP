@@ -1,0 +1,479 @@
+[
+    {
+        "question": "",
+        "options": [
+            "verkningslöst preparat",
+            "naturläkemedel",
+            "kemiskt rent preparat",
+            "örtmedicin",
+            "syntetiskt vitaminpreparat"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "kortege",
+        "options": [
+            "förtrupp",
+            "konstutställning",
+            "långt följe",
+            "utomhusteater",
+            "slutet sällskap"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "friska i",
+        "options": [
+            "tillta i styrka",
+            "ta sig an något nytt",
+            "förbättra",
+            "gripa tag i",
+            "gå till överdrift"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "bohemisk",
+        "options": [
+            "sökande",
+            "obunden av normer",
+            "hemkär",
+            "öppen för idéer",
+            "vemodig"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "kännbar",
+        "options": [
+            "lättsam",
+            "mottaglig",
+            "förmodad",
+            "påtaglig",
+            "utmärkande"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "cellofan",
+        "options": [
+            "täckmassa",
+            "omslagsmaterial",
+            "hudplåster",
+            "absorberande material",
+            "lösningsmedel"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "enkom",
+        "options": [
+            "framför allt",
+            "bestämt",
+            "med besvär",
+            "uteslutande",
+            "uppenbarligen"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "vanmakt",
+        "options": [
+            "osjälvständighet",
+            "skamkänsla",
+            "respektlöshet",
+            "lidande",
+            "hjälplöshet"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "jökel",
+        "options": [
+            "vulkan",
+            "brant stup",
+            "glaciär",
+            "liten kulle",
+            "bäck"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "bejaka",
+        "options": [
+            "bevisa att något är sant",
+            "säga sin mening",
+            "ge förlåtelse",
+            "vara positiv till",
+            "bete sig inställsamt – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vilket påstående överensstämmer med re- sonemanget i texten?",
+        "options": [
+            "Goda översättningar blir allt mer sällsynta.",
+            "Dålig litteratur förtjänar dåliga översättningar.",
+            "God litteratur bör hellre läsas på originalspråk än i översättning.",
+            "Merparten av den översatta litteraturen är av dålig kvalitet."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Vad vill textförfattaren säga med resone- manget som avslutas med exemplet ”en blå såpa”?",
+        "options": [
+            "Att standarden på svenska översättningar uppenbart har sjunkit.",
+            "Att det är svårt att förhindra att felöversätt- ningar hamnar i tryck.",
+            "Att alla former av skrivande rymmer sina speci- ella fallgropar.",
+            "Att egna felskrivningar kan vara svåra att upp- täcka för skribenten själv."
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Texten liknar alkonblåvingens liv vid ett lotteri. Vad är det i den liknelsen som mot- svarar de pengar man köper en lott för?",
+        "options": [
+            "Födan som myrorna ger larven. ",
+            "Doften som larven avsöndrar.",
+            "Blåvingehonans ägg.",
+            "Blomkosten från klockgentianan."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Författaren återger resultatet av ett blått lotteri. Hur gick det?",
+        "options": [
+            "Dragningen fl yttades till nästkommande sommar.",
+            "Det blev vinst, men i form av andra blåvingesor- ter.",
+            "Dragningen pågick under för kort tid för att ge ett godkänt resultat.",
+            "Det gick över förväntan.. Fjärilen alkonblåvinge"
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Vad har enligt texten utgjort ett problem med många av de studier som behandlat sambandet mellan resande och DVT?",
+        "options": [
+            "De har varit inriktade enbart på vissa transport- sätt.",
+            "De har bortsett från det faktum att resorna blivit allt längre.",
+            "De har gjort jämförelser mellan grupper på ett diskutabelt sätt.",
+            "De har endast kunnat bekräfta sambandet bland dem som faktiskt drabbats."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Vad skiljer enligt texten den redovisade metaanalysen från tidigare metaanalyser inom fältet?",
+        "options": [
+            "Den behandlar fl er studier.",
+            "Den utesluter rena fallrapporter.",
+            "Den beaktar skillnaden mellan olika resformer.",
+            "Den godtar inte kontrollgruppernas sammansätt- ning."
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "I vilken egenskap skriver textförfattaren framför allt?",
+        "options": [
+            "Som lagstiftare i ett statligt departement.",
+            "Som representant för kommuner och landsting.",
+            "Som representant för privata markägarintressen.",
+            "Som utredare vid länsstyrelsen."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "I vilken fråga har Sveriges Kommuner och Landsting en annan uppfattning än Miljö- och samhällsbyggnadsdepartementet?",
+        "options": [
+            "Vem som ska ha rätt att fatta beslut i ärenden som rör strandskyddet.",
+            "Hur stort infl ytande enskilda markägare ska ha i ärenden som rör strandskyddet.",
+            "I vilka delar av landet det ska vara möjligt att göra undantag från strandskyddet.",
+            "Hur noggrann prövning som krävs för att göra undantag från strandskyddet. "
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Vilken instans borde enligt textförfattaren fatta beslut om undantag från strandskyd- det?",
+        "options": [
+            "Kommunen",
+            "Länsstyrelsen",
+            "Miljö- och samhällsbyggnadsdepartementet",
+            "Sveriges Kommuner och Landsting"
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Vilken syn på strandskyddet stämmer överens med textförfattarens ståndpunkt?",
+        "options": [
+            "Strandskyddet ska gälla inte bara mindre utan även större byggprojekt.",
+            "Strandskyddet bör långsamt avvecklas och ersättas av en översiktsplan.",
+            "Strandskyddet är en viktig princip som emel- lertid kan försvåra tätorters tillväxt.",
+            "Strandskyddet kan hejda avfolkningen och gör stränderna tillgängliga för allmänheten."
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Som så ofta ____ man i sin omvärdering att överbetona sådant som tidigare förbi- setts, och inte förrän 1946 kom bilden av Gustav IV Adolf att bli mer nyanserad.",
+        "options": [
+            "evaluerade",
+            "karikerade",
+            "tenderade",
+            "estimerade"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "Vid tiden för de tidiga hästböckernas ____ dominerade fortfarande idealbilder om en passiv, ljuv, känslosam och skör kvinnonatur. Men till dessa nya böckers fl ickor knyts en rad kaxiga egenskaper: de är modiga, aktiva, starka, förnuftiga och självtillräckliga. Och hästen dundrar fram över scenen som ____ fl ickornas särart. Kittys ”oklemiga” natur illustreras av att hon rider i galopp utan vare sig ____ eller sadel.",
+        "options": [
+            "föreläggande – en gestaltning av – tömmar",
+            "utgåva – ett exempel på – sporrar",
+            "publicering – en motvikt till – stigbyglar",
+            "tillkomst – en symbol för – tyglar"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Innan tandfyllningsmaterialet ____ läggs ett skikt av isoleringsmaterial i den uppbor- rade kaviteten för att hindra att substanser från till exempel kompositmaterial genom tandbenets kanaler når in till den känsliga ____.",
+        "options": [
+            "fi xeras – hinnan",
+            "justeras – roten",
+            "appliceras – pulpan",
+            "stelnar – nerven"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "De åtta vokalerna i fi nskans ljudsystem är korta eller långa och kombineras dessutom i ett stort antal ____.",
+        "options": [
+            "diftonger",
+            "nasaler ",
+            "kvinter",
+            "tremulanter NY PROVDEL"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "I sommar inför Fiskeriverket en ny regel som innebär att den som fi skar med hand- redskap får ta upp högst tre gäddor per dag. Dessutom ____ alla stora gäddor helt.",
+        "options": [
+            "regleras",
+            "undantas",
+            "fredas",
+            "svartlistas"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Jämförande eller komparativ folklivsforskning var inte en tom formulering. Det var ____ ett kunskapsfält som en teoretisk och praktisk metod som du fostrades in i redan från inträdet i ämnet, då du inte bara skulle ____ empiriska kunskaper om förhållanden i Sverige och Norden, utan också genom kurslitteraturen fi ck ta del av forskning om motsvarande ____ på andra håll i Europa.",
+        "options": [
+            "snarare – diskutera – resultat",
+            "dels – redogöra för – förhållanden ",
+            "såväl – tillägna dig – företeelser",
+            "även – inhämta – kunskaper"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Vid det här laget befann sig Auletes inte längre i Rom. Frustrerad över senatens oför- måga att komma till beslut och hårt ansatt av sina kreditorer hade han ____ att avvika från Italien.",
+        "options": [
+            "funnit för gott",
+            "kommit dithän",
+            "bidat sin tid",
+            "beseglat sitt öde"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Tillgång till kunskap anses vara en grundläggande förutsättning för demokratiska, jämlika och fredliga samhällen, samtidigt som kunskap också ofta används i diametralt ____ syften.",
+        "options": [
+            "politiska ",
+            "avsedda",
+            "motsatta",
+            "själviska"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Idag har vi rekordmycket mediefl immer, vilket ____ av medie- och kommunikations- bolagens konvergens och konsolidering. I en värld där sändningsmedier allt mer redu- ceras till underhållning och nyhetssnuttar hungrar ____ individer efter identitet. Min förhoppning är att trycksvärtan ska återta sin roll som främsta källa till jagidentitet och social tillhörighet.",
+        "options": [
+            "överförs – frustrerade",
+            "förstärks – alienerade",
+            "avtrubbas – resignerade",
+            "förskönas – konfunderade"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "Ersättning utgår i paritet med andelen uppodlad mark. Följden blir att det på min gård kan dimpa ner fyra personer med måttband för att kontrollera mina ____. Dessa måste ha exakt samma storlek som jag har ____, annars följer sanktioner.",
+        "options": [
+            "kreatur – uppmätt",
+            "skiften – angivit",
+            "ägor – inhägnat ",
+            "räkenskaper – redovisat"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "31.",
+        "options": [
+            "resisting",
+            "destroying",
+            "including ",
+            "glorifying"
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "32.",
+        "options": [
+            "in connection with ",
+            "rather than ",
+            "resulting from",
+            "as well as"
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "33.",
+        "options": [
+            "determined",
+            "concealed",
+            "justifi ed",
+            "revealed "
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "34.",
+        "options": [
+            "opposition to ",
+            "dependence on",
+            "approval of",
+            "liberation from"
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "35.",
+        "options": [
+            "pro-Government",
+            "unguarded ",
+            "anti-revolutionary",
+            "contented – 11 – FORTSÄTT PÅ NÄSTSID»"
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "What are we told in the fi rst paragraph?",
+        "options": [
+            "Maxine Ankrah had published a well-known book on HIV and sexual behaviour ",
+            "American and Canadian research on AIDS tended to focus on different issues ",
+            "Helen Epstein had discovered relevant and thorough research on AIDS and HIV ",
+            "Many AIDS researchers had overemphasised the importance of sexual behaviour"
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "How is The Invisible Cure best described?",
+        "options": [
+            "It is based on investigations of AIDS and provides plausible explanations ",
+            "It is a research article reporting on AIDS in the heartlands of Africa",
+            "It is focused on different global fi nancial pro- grams for AIDS research ",
+            "It is a medical handbook on AIDS and the devel- op ment of HIV in Africa "
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "What is the reviewer’s general attitude to books on AIDS?",
+        "options": [
+            "He dislikes them because they do not agree with his views",
+            "They rarely describe the true horror of the deadly disease ",
+            "He regards them as important emotional and convincing documents ",
+            "They often give insights into previously unknown research in the area "
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What is said about Helen Epstein’s work and writings? A She has been employed as a scientist since the late 1980s",
+        "options": [
+            "Her work has been criticized for not taking African perspectives into account",
+            "She has constantly questioned the implementa- tion of previous research ",
+            "Her writings have highlighted the importance of obligatory prevention programs "
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

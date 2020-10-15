@@ -1,0 +1,482 @@
+[
+    {
+        "question": "",
+        "options": [
+            "vanlig",
+            "okritisk",
+            "inåtvänd",
+            "omogen",
+            "kräsen"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "plagiat",
+        "options": [
+            "draghjälp",
+            "förändring",
+            "missbruk",
+            "efterapning",
+            "tillägg"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "solidaritet",
+        "options": [
+            "starkt ledarskap",
+            "aktivt motstånd",
+            "uppskattad insats",
+            "självvald isolering",
+            "känsla av samhörighet"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "mota",
+        "options": [
+            "avstå",
+            "bråka",
+            "förbjuda",
+            "stoppa",
+            "välkomna"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "elementa",
+        "options": [
+            "dammpartiklar",
+            "grundkunskaper",
+            "vågrörelser",
+            "förenklingar",
+            "väderfenomen"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "med råge",
+        "options": [
+            "framför allt",
+            "i stort sett",
+            "med eftertryck",
+            "på rätt sätt",
+            "väl tilltaget"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "kognition",
+        "options": [
+            "motoriska egenskaper",
+            "formuleringskonst",
+            "känslomässiga uttryck",
+            "överlevnadsinstinkt",
+            "intellektuella funktioner"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "regenerera",
+        "options": [
+            "återfinna",
+            "återbilda",
+            "återhämta",
+            "återkalla",
+            "återberätta"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "oförvanskad",
+        "options": [
+            "oförbätterlig",
+            "uppenbar",
+            "ofördärvad",
+            "innehållslös",
+            "otvetydig"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "resning",
+        "options": [
+            "diskussion",
+            "varning",
+            "omprövning",
+            "domslut",
+            "ställningstagande – 2 – – 3 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vilket är det övergripande målet med de för­ ändringar av PBL som utredningen föreslår, enligt texten?",
+        "options": [
+            "Att öka delaktigheten i och kunskapen om planfrågor.",
+            "Att stärka skyddet för värdefulla miljöer.",
+            "Att förenkla och förkorta planeringen av byggprojekt.",
+            "Att främja ett långsiktigt bostadsbyggande."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Textförfattaren är positiv till utredningens för­ slag. Vad framstår som huvudanledningen till det?",
+        "options": [
+            "Förslaget innebär en möjlighet att förverkliga just de ändringar i plan- och bygglovsprocessen ",
+            "Förslaget utgör ett snabbt och uppriktigt försök att rätta till det som har kritiserats sedan PBL ",
+            "Förslaget visar på en medvetenhet om att be - stämmelserna måste skärpas för att ge bebygg-",
+            "Förslaget signalerar en tydlig kursändring som tar avstånd från detaljreglering i plan- och "
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Vilken omständighet gör almsjukan svårare att hantera i dag än i början av 1900­talet, enligt texten?",
+        "options": [
+            "Motståndskraften hos almarna har försämrats.",
+            "Fler arter av almsplintborre sprider sjukdomen.",
+            "Det har skett en kraftig tillväxt i almbeståndet.",
+            "Svampen som orsakar sjukdomen har förändrats."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Vilket av följande är ett synligt tecken på alm­ sjuka, enligt texten?",
+        "options": [
+            "Fläckvisa områden med död ytterbark.",
+            "Utebliven tillväxt av nya kvistar och löv i grenverket.",
+            "Vissnade grenar i spridda delar av kronan.",
+            "Blånad och mörka ränder i bladens kärlsträngar."
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Vad av följande är enligt texten en helt verk­ ningslös åtgärd om man vill bekämpa alm­ sjuka?",
+        "options": [
+            "Att sterilisera utrustning som har använts vid avverkning.",
+            "Att beskära rötter på angripna träd.",
+            "Att frakta bort gamla döda träd.",
+            "Att använda biologiska bekämpningsmedel."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Kan, av texten att döma, en alm som har drab­ bats av almsjuka överleva, och i så fall hur?",
+        "options": [
+            "Ja, genom att man kapar de längsta rötterna.",
+            "Ja, med hjälp av speciella bekämpningsmedel.",
+            "Ja, om åtgärderna sätts in tidigt på våren.",
+            "Nej, ett sådant träd tycks inte kunna räddas. – 6 – – 7 –"
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vad förenar enligt texten de olika skribenternas bidrag till antologin?",
+        "options": [
+            "Att de behandlar äktenskapet i relation till politik och andra maktförhållanden.",
+            "Att de tar ställning mot äktenskapet som insti tu- tion.",
+            "Att de behandlar äktenskapet som en religiös angelägenhet.",
+            "Att de tar ställning mot statlig makt över äkten- skapet."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Enligt recensenten innehåller antologin mot­ stridiga synsätt i en viss fråga. Vilken?",
+        "options": [
+            "Hur stor roll mäns klasstillhörighet spelade för deras val av maka under 1600–1800-talet.",
+            "Hur stort handlingsutrymme kvinnor hade i frågor kring äktenskap under 1700-talet.",
+            "Hur stort det samhälleliga trycket att ingå äktenskap var i det gamla kristna Sverige.",
+            "Hur stor påverkan religionen hade på männi- skors levnadssätt före sekulariseringen."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Vilket svarsförslag anger ett av de forsknings­ resultat som recensenten hittar i antologins andra del?",
+        "options": [
+            "Att utvecklingen mot jämställdhet har tagit av- görande steg framåt också genom ändringar i ",
+            "Att införandet av kvinnlig rösträtt påverkade lagstiftningen kring äktenskap till att bli mer ",
+            "Att jämställdheten först blev lagstadgad inom äktenskapets ram och därifrån spred sig till ",
+            "Att rösträtten blev åtkomlig för kvinnor tack vare de reformer av äktenskapslagarna som "
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Vad skiljer antologins tredje del från den första och den andra, enligt texten?",
+        "options": [
+            "Kapitlen saknar ett samlande teoretiskt tema.",
+            "Jämförelser sker inte geografiskt utan över tid.",
+            "Innehållet avser inte någon särskilt angiven period.",
+            "Perspektivet vidgas till att inte enbart omfatta Norden."
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Sedan 1996 finns Beredskapsmuseet på plats i Djuramossa, och både nostalgiker och skolklasser _____ hit varje år. Det hela bygger på Johans hobby samt på viljan att ta vara på mängder av historiska föremål och dokument som, om det velat sig illa, annars lätt hade _____ till soptippen.",
+        "options": [
+            "hänvisas – sonderats",
+            "vallfärdar – förpassats",
+            "skockas – lokaliserats",
+            "flanerar – förmultnats"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "Vid empiriska studier har det visat sig att människor i skilda länder har en likartad uppfattning om olika yrkens anseende. _____ är således ungefär densamma världen över.",
+        "options": [
+            "Yrkesgemenskapen",
+            "Yrkeshierarkin",
+            "Yrkestillhörigheten",
+            "Yrkesstoltheten"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Läroverken och deras motsvarigheter fick en nyckelroll i fördelningen av det kulturella kapital som _____ i utbildning, eftersom vägen till högre utbildning och prestigefyllda _____ gick genom dessa skolor.",
+        "options": [
+            "favoriserats – producenter",
+            "dompterats – prepositioner",
+            "institutionaliserats – professioner",
+            "adjungerats – prematurer"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Denna _____ av bemötandet, det nära mötets nivå, rör den enskilda handläggarens etiska grunder och förmåga till _____ i det individuella mötet med den funktions- nedsatta människan. Hans eller hennes förhållningssätt avgör vilka förutsättningar som finns för att konkret förverkliga handikappolitikens _____.",
+        "options": [
+            "tolkning – fokus – praktik",
+            "premiss – samspel – grundvalar",
+            "vinkel – välvilja – principer",
+            "aspekt – empati – intentioner – 8 – – 9 –"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Borrelios är en bakteriell infektionssjukdom där bakterierna sprids med fästingar. Fästingbettet _____ ofta eftersom fästinglarver och fästingnymfer är mycket små och knappt synliga. Diagnos ställs genom att _____ påvisas i blod och hjärnhinne- vätska. Någon undersökning som direkt påvisar bakterierna eller deras DNA har ännu inte kunnat genomföras.",
+        "options": [
+            "försvinner – fästingvirus",
+            "förbises – antikroppar",
+            "förringas – kromosomer",
+            "förminskas – bakterier"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Finlandssvenskarna utgör en grupp om cirka 300 000 finländska medborgare som har svenska som modersmål. Till många finlandssvenskars _____ har folk från Sverige ofta problem med att riktigt greppa detta, kanske beroende på att de är alltför snabba med att koppla språk till nation.",
+        "options": [
+            "förtret",
+            "fördom",
+            "förvirring",
+            "försakelse"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Det verkar finnas en outtalad ledarskapsteori som går ut på att man inte bör, knappt ens kan, agera _____ eftersom det inte är någon idé att _____ en katastrof som inte har uppstått.",
+        "options": [
+            "provokativt – förorsaka",
+            "preventivt – förebygga",
+            "progressivt – förkunna",
+            "presumtivt – förebåda "
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Diskussionen som följde kändes mest som en upprepning av den så kallade Actum- debatten som drog genom spalterna för några år sedan. Ja, i själva verket som ett _____ på en serie andra pennfejder som rasat de senaste åren.",
+        "options": [
+            "da capo",
+            "carpe diem",
+            "status quo",
+            "alter ego – 10 –"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Det framkom att cheferna _____ bidrar till att skapa en kultur som främjar implementering av så kallad evidensbaserad praktik inom fysioterapi. I stället tycks forskningsrelaterade frågor _____ vara beroende av enskilda engagerade fysioterapeuter som håller sig _____ med aktuell forskning och informerar sina kollegor om de senaste forskningsrönen.",
+        "options": [
+            "i enstaka fall – för det mesta – i schack",
+            "i de flesta sammanhang – nästan aldrig – uppdaterade",
+            "i alltför hög grad – alltför sällan – i framkant",
+            "i mer begränsad utsträckning – till stor del – à jour"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "Att genomskåda _____ är ofta svårt, särskilt om personen uppger ett enkelt symtom som värk, vars _____ inte kan motbevisas genom läkarundersökning eller teknisk diagnostik.",
+        "options": [
+            "fobi – exponering",
+            "placebo – varaktighet",
+            "simulering – befintlighet",
+            "hypokondri – argument – 11 –"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "31.",
+        "options": [
+            " improve",
+            " move",
+            "adjust",
+            "cope "
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "32.",
+        "options": [
+            "the same",
+            " an obvious ",
+            "the opposite",
+            " an insignificant"
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "33.",
+        "options": [
+            " ration",
+            "workout ",
+            " portion ",
+            "rundown"
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "34.",
+        "options": [
+            "emerged ",
+            "declined",
+            " vanished",
+            "increased "
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "35.",
+        "options": [
+            "obscures",
+            "determines",
+            "reinforces ",
+            " disproves – 12 – – 13 –",
+            "review of Billie Holiday: The Musician & the Myth by John Szwed",
+            "recording from the 1950s captures Billie Holiday in conversation with some fellow musicians at a rehears-"
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "What can be concluded about Billie Holiday in the opening paragraph?",
+        "options": [
+            " Her lasting fame in jazz circles remains a mystery to this day.",
+            "Her special way of singing sets her apart from other female performers. ",
+            " Her technical limitations were obviously a mat­ ter of pride to her.",
+            " Her abilities as a jazz singer are severely ques­ tioned by Szwed. "
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "Which of the following statements is in agree­ ment with Szwed’s views?",
+        "options": [
+            "Billie Holiday’s life had more than its fair share of misery. ",
+            " The impact of Billie Holiday’s artistry derives from the life she led.",
+            " The Billie Holiday legend bears little resemblance to her sad life.",
+            "Billie Holiday’s musical success was based on fiction rather than fact."
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "What is John Szwed’s opinion concerning Billie Holiday’s music?",
+        "options": [
+            "Its heartbreaking moods were mostly due to mere playacting.",
+            " Her way of singing had its roots in her relations to other people.",
+            " The personal qualities of her voice have often been overstated. ",
+            "There need not be a clear link between her life and her singing. "
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What are we told in connection with Billie Holiday’s treatment of lyrics?",
+        "options": [
+            " The words mattered much less to her than the music.",
+            "She used to add her own words to the songs she sang.",
+            " She tended to pronounce words in unconven­ tional ways. ",
+            " It was often hard to hear what words she was singing."
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

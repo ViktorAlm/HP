@@ -1,0 +1,480 @@
+[
+    {
+        "question": "",
+        "options": [
+            "förklarad",
+            "utesluten",
+            "bearbetad",
+            "avskriven",
+            "företrädd"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "alter ego",
+        "options": [
+            "andra jag",
+            "nya jag",
+            "sämre jag",
+            "rätta jag",
+            "gamla jag"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "bestyrka",
+        "options": [
+            "intyga",
+            "tillägga",
+            "förbättra",
+            "inpränta",
+            "härda"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "gordisk knut",
+        "options": [
+            "missförstånd",
+            "svårlöst uppgift",
+            "huvudfråga",
+            "svag punkt",
+            "förbannelse"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "kufisk",
+        "options": [
+            "opålitlig",
+            "underlig",
+            "inställsam",
+            "ovänlig",
+            "egenkär"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "ellips",
+        "options": [
+            "elektrisk laddning",
+            "sjukdomstillstånd",
+            "matematiskt bevis",
+            "planetformation",
+            "geometrisk figur"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "nagga",
+        "options": [
+            "utvidga",
+            "höja upp",
+            "gnaga",
+            "hugga tag i",
+            "fästa"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "svinn",
+        "options": [
+            "frosseri",
+            "vårdslöshet",
+            "avkastning",
+            "struntsak",
+            "förlust"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "med ens",
+        "options": [
+            "som vanligt",
+            "plötsligt",
+            "likafullt",
+            "ständigt",
+            "allt eftersom"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "patina",
+        "options": [
+            "åldrad yta",
+            "sirlig inristning",
+            "kort musikstycke",
+            "handsydda detaljer",
+            "tunn pappskiva – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vad utmärker enligt texten utbildnings- policyn i Sverige om man jämför med övriga Europa?",
+        "options": [
+            "Fokuseringen på utbildningens former och resultat snarare än på dess innehåll.",
+            "Den stora krismedvetenheten och satsningen på standardiserade prov.",
+            "Det växande intresset för likvärdig bedömning och en centraliserad skola.",
+            "Diskussionen om lärarrollen och betoningen av ämnesspecifika kunskaper."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Vad framstår som det främsta syftet med avhandlingen?",
+        "options": [
+            "Att ifrågasätta nyttan med kunskapsstyrning i skolan.",
+            "Att reflektera över den nya läroplanens nyckel- begrepp.",
+            "Att undersöka de strukturella orsakerna till skolans kris.",
+            "Att studera hur begreppet kunskap används inom skolområdet."
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Vilket antagande beträffande konstnärsrol- len står i fokus för textförfattarens resone- mang?",
+        "options": [
+            "Att konstnärsrollen behöver förnyas.",
+            "Att konstnärsrollen bör definieras.",
+            "Att konstnärsrollen är föränderlig.",
+            "Att konstnärsrollen förlorat sin betydelse."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Vilket av följande tar textförfattaren upp som ett exempel på den förändring som konsten genomgått de senaste decennier- na?",
+        "options": [
+            "Att de flesta utövande konstnärer numera egentligen sysslar med information.",
+            "Att kvaliteten inte längre nödvändigtvis bestäms av hur ensamt i sitt slag konstverket är.",
+            "Att konsten intresserat sig allt mer för det ursprungliga och enkla.",
+            "Att förnuftet förlorat sin betydelse som konst- närlig drivkraft."
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Vilka egenskaper präglade en sann konst- när enligt den mytbild som tog form på 1700-talet?",
+        "options": [
+            "Andlighet och vishet.",
+            "Förfining och elegans.",
+            "Mod och nyfikenhet.",
+            "Egensinne och frihet."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Vilket av följande gav enligt textförfat- taren upphov till 1800-talets romantiska konstnärsmyt?",
+        "options": [
+            "Önskan att framställa konstnärligt skapande som en unik form av kreativ verksamhet.",
+            "Försöket att återupprätta det individuella uttrycket i en tid då kollektiva konstnärliga ",
+            "Behovet av att befria det konstnärliga uttrycket och göra konstbegreppet mer gränslöst.",
+            "Protesten mot den moderna framstegsoptimism som hyllade allt nytt men föraktade det primitiva "
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vad är innebörden i den nya upptäckt som Ingemar Björkhem och hans forskargrupp gjort?",
+        "options": [
+            "Att kolesterol transporteras ut till cellerna snabbare än man tidigare trott.",
+            "Att kolesterol bryts ner på fler sätt än man hittills känt till.",
+            "Att kolesterol bara är ett av flera ämnen som orsakar åderförkalkning.",
+            "Att kolesterol orsakar skador bara i vissa typer av celler."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Vad är sterol 27-hydroxylas?",
+        "options": [
+            "En metabolit.",
+            "En typ av makrofag.",
+            "Ett enzym.",
+            "Ett slags kolesterol."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Vilken inverkan tror man, enligt texten, att sterol 27-hydroxylas har på lungsurfak- tant?",
+        "options": [
+            "Det påverkar lungsurfaktantens halt av kolesterol.",
+            "Det påverkar lungsurfaktantens förmåga att reglera kolesterolets ytspänning. ",
+            "Det påverkar lungsurfaktantens ytspänning.",
+            "Det påverkar lungsurfaktantens förmåga att transportera kolesterol."
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Vilken av följande alternativa rubriker sammanfattar bäst textens innehåll?",
+        "options": [
+            "Så blir kolesterolet ett försvar mot åderförkalk- ning",
+            "Så påverkar kolesterolet vår cirkulation",
+            "Så regleras kolesterolet i vår kropp",
+            "Så kan kolesterolet användas Reg vt 2016 verbal del 2.indd 7 2016-01-18 13:53:01"
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Blindtarmsinflammation beror på att blindtarmsbihanget blivit inflammerat. Bihanget, som är ungefär lika stort som ett lillfinger, sitter nära tunntarmens ____ i tjocktarmen.",
+        "options": [
+            "fästing",
+            "kröning",
+            "flexion",
+            "mynning"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "”Vad handlar det här om?” frågade den amerikanska kusinen. ”Bruce Springsteen från New Jersey spelar och tidningarna behandlar det som om ett världskrig hade brutit ut!” Jag blev svarslös, men faktum är att kusinen satte ____ på en egenhet med svensk journalistik: Det finns ytterst få ____ hur många spaltmeter de svenska kvällstidning- arna viker åt Bruce Springsteen när chansen ges.",
+        "options": [
+            "tummen – bortförklaringar till",
+            "spiken – kritikerröster mot",
+            "fingret – begränsningar för",
+            "ljuset – kommentarer om"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Målsättningen med denna lönsamhetsanalys är att söka få en ____ om de ____ eko- nomiska effekter som uppstår för den offentliga ekonomins budget ____ den arbets- marknadsutbildning som man har studerat.",
+        "options": [
+            "bakgrund – negativa – tack vare",
+            "kunskap – grundläggande – i motsättning till",
+            "tillämpning – oväntade – på grund av",
+            "uppfattning – primära – till följd av"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Med rufsigt grått hår, orange kofta och klara blåa ögon stod han där på den psykia- triska akutmottagningen, en av Sveriges främsta bildkonstnärer. Han ____ myten om kreativitet och galenskap. Vissa forskare hävdar att tanken på ett sådant ____ bara är en myt, andra menar att det är en realitet.",
+        "options": [
+            "förkroppsligade – samband",
+            "skapade – tillstånd",
+            "förhärligade – utspel",
+            "punkterade – skapande"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Tangoresenären ställs inför ett klassiskt turistproblem: den _____ man reser till en plats för att finna riskerar att förstöras av ens egen närvaro.",
+        "options": [
+            "stringens",
+            "autenticitet",
+            "konsensus",
+            "frivolitet"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Det är tabu att diskutera kollegors vikt, men en överviktig chef kan uppfattas som mindre ____ eftersom många antar att övervikt har en ____ inverkan på hälsa och arbetsförmåga.",
+        "options": [
+            "kapabel – menlig",
+            "ineffektiv – fatal",
+            "dominant – emfatisk",
+            "tillförlitlig – trivial"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Arbetsförmedlingen har inte lyckats ____ så många som det var tänkt till folkhög- skolornas motivationshöjande kurser för ungdomar utan betyg, trots att dessa kurser visat sig vara framgångsrika.",
+        "options": [
+            "anvisa",
+            "anpassa",
+            "anordna",
+            "anknyta"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Allt land som i dag ligger ____ högsta kustlinjen har ____ landhöjningen påverkats av havet. Uppgrundade gamla strandvallar och kalspolade klapperstensfält, som i dag kan återfinnas ____, är exempel på havsvågornas arbete genom tiderna.",
+        "options": [
+            "nära – tack vare – på havets botten",
+            "på – i motsats till – i de fjällnära skogarna",
+            "under – på grund av – långt in i landet",
+            "inom – trots – vid stränderna"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Under det att man i efterkrigstidens Sverige talade om ”det svenska körundret”, hävdade den tyske musikteoretikern Theodor Adorno att nazisternas användning av körsången ____ denna genre i Tyskland under lång tid.",
+        "options": [
+            "reserverade",
+            "överskattade",
+            "föranstaltade ",
+            "misskrediterade"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "Oavsett vad man anser om de hårda ord som Sveriges statsminister använde vid detta tillfälle var det ingen tvekan om vem som ____ frågan. Statsministern kunde följa upp sitt uttalande med ____ av diplomatiska åtgärder.",
+        "options": [
+            "ställde – ett stall",
+            "formade – en laddning",
+            "ägde – ett batteri",
+            "angick – ett uppslag"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "31.",
+        "options": [
+            "doubt",
+            "problem",
+            "surprise ",
+            "harm"
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "32.",
+        "options": [
+            "supported",
+            "increased",
+            "reduced",
+            "allocated"
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "33.",
+        "options": [
+            "teachers",
+            "reformers",
+            "funders",
+            "improvers "
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "34.",
+        "options": [
+            "once ",
+            "since",
+            "though ",
+            "before"
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "35.",
+        "options": [
+            "transferred",
+            "covered",
+            "replaced",
+            "boosted Verbaldel-ELF16del2.indd 11 2016-01-07 13:23:34"
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "What is implied about the Shona people in the first two paragraphs?",
+        "options": [
+            "The majority of them now work and live in the big cities of Zimbabwe. ",
+            "They used to make a living as miners in ancient times.",
+            "Their brilliant sculpture is a relatively modern phenomenon.",
+            "Few of them can now remember their old way of life."
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "What, according to the text, is the key motivation for Shona sculpture?",
+        "options": [
+            "The commercial potential of African sculpture in the western art world. ",
+            "The religious idea that rocks are inhabited by specific spiritual beings. ",
+            "The striking colours and shapes of many rocks in the Inyanga Mountains.",
+            "The amazing individual creativity of present-day Zimbabwean artists. "
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "Which of the following statements is most in line with the text?",
+        "options": [
+            "Modern Shona sculpture seems to be related to other artistic expressions from older times. ",
+            "Sculptural ornamentation was a prominent feature of Great Zimbabwe. ",
+            "Traditional images of mysterious beasts are a per- ma nent source of inspiration for Shona sculptors. ",
+            "The mythical city of Great Zimbabwe was full of impressive bird statues. "
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What are we told about the muvesis in comparison with present-day Shona artists?",
+        "options": [
+            "Today’s Shona sculpture has further developed the practical aims of the muvesis.",
+            "The dream element of today’s Shona sculpture was largely missing from the objects created by ",
+            "Basically the same materials were used by the muvesis as by recent Shona sculptors.",
+            "The artistic work of the muvesis was more close ly related to everyday life than that of modern Shona "
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

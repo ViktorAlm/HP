@@ -1,0 +1,480 @@
+[
+    {
+        "question": "",
+        "options": [
+            "tillsättning av vätska",
+            "ansamling av vätska",
+            "bortledning av vätska",
+            "läckage av vätska",
+            "avdunstning av vätska"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "symtomatisk",
+        "options": [
+            "förstärkande",
+            "övertygande",
+            "förklarande",
+            "kännetecknande",
+            "förlåtande"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "eskapism",
+        "options": [
+            "storhetsvansinne",
+            "ödestro",
+            "självplågeri",
+            "lyckorus",
+            "verklighetsflykt"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "ögonblickligen",
+        "options": [
+            "för tillfället",
+            "utan dröjsmål",
+            "alldeles nyss",
+            "utan eftertanke",
+            "i förbifarten"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "jämkning",
+        "options": [
+            "betalning",
+            "avgörande",
+            "förbättring",
+            "genomgång",
+            "anpassning"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "anvisa",
+        "options": [
+            "tilldela",
+            "påminna",
+            "tyda",
+            "åtfölja",
+            "driva"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "skröna",
+        "options": [
+            "tomt skryt",
+            "olöst mysterium",
+            "fantasifull berättelse",
+            "traditionell folkvisa",
+            "gammalt visdomsord"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "missunnsam",
+        "options": [
+            "orättvis",
+            "anspråkslös",
+            "ovärdig",
+            "självcentrerad",
+            "ogenerös"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "representera",
+        "options": [
+            "motsvara",
+            "understödja",
+            "tillträda",
+            "introducera",
+            "medverka"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "deduktion",
+        "options": [
+            "inverkan",
+            "skildring",
+            "upplägg",
+            "härledning",
+            "iakttagelse – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vilket är det huvudsakliga syftet med den handbok som texten refererar till?",
+        "options": [
+            "Att föreslå en uppdaterad lagstiftning för sam- arbetet mellan forskare och företag.",
+            "Att klargöra samhällets juridiska intressen i förhållande till forskning och marknad.",
+            "Att föreslå lagar för en verksamhet som inte tidigare omfattats av lagstiftningen.",
+            "Att ge råd om hur man förebygger tänkbara konflikter inom ett forskningsprojekt."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Vilken slutsats är mest rimlig att dra av texten?",
+        "options": [
+            "Patenträtten har länge varit otillräckligt reglerad i Sverige.",
+            "Bra avtal och regler skyddar både forskare och företag.",
+            "Patenträtten är ofta en förutsättning för projekt- finansiering.",
+            "Bra avtal och regler garanterar forskningens samhällsnytta."
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Hur kan man utifrån texten bäst sam- manfatta forskarnas nya rön beträffande cytokiner?",
+        "options": [
+            "Cytokinerna tillhör nervsystemet och inte immunsystemet, vilket man tidigare trott.",
+            "Cytokinerna har en mer omfattande och varie- rad funktion än man tidigare trott.",
+            "Cytokinernas verksamhet är, tvärtemot vad man tidigare trott, till nytta för kroppen.",
+            "Cytokinernas uppbyggnad och sammansättning är helt annorlunda än vad man tidigare trott."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Hur beskrevs begreppet stress från början, av texten att döma?",
+        "options": [
+            "Som en prioritering av aktiviteter.",
+            "Som en anpassning till förändrade omständig- heter.",
+            "Som en fysiskt eller psykiskt orsakad obalans.",
+            "Som en aktivering av skyddsmekanismer."
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Vilken ny kunskap om stressreaktioner presenteras i texten?",
+        "options": [
+            "Stressreaktionerna kan leda till att kroppens eget försvar mobiliseras inför en eventuell skada.",
+            "Stressreaktionerna stimulerar de försvagande funktionerna hos nerv- och immunsystemet.",
+            "Stressreaktionerna kan hjälpa till att motverka de skadliga följderna av akut sjukdomsrespons.",
+            "Stressreaktionerna har en i huvudsak negativ inverkan på immunförsvaret."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Vad kan på ett övergripande sätt sägas känneteckna de fysiologiska processer som beskrivs i texten?",
+        "options": [
+            "Kommunikation och samverkan.",
+            "Isolering och förstärkning.",
+            " Balans och uteslutning.",
+            "Försvar och nedbrytning. Reg 17 Version 6 jm.indd 5 2017-01-18 09:13:52"
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vad är det som Bagge, enligt recensenten, framför allt vill skapa klarhet i genom sin studie av de två biografierna från 1200- talet?",
+        "options": [
+            "Religionens betydelse för dåtidens kungar.",
+            "Biografiernas historiska trovärdighet.",
+            "De dåtida människornas syn på kungamakten.",
+            "Den historiska produktionen av källmaterial och berättelser."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Hur tolkar Bagge de övernaturliga insla- gen i Sverres saga, enligt recensenten?",
+        "options": [
+            "Han ser dem som uttryck för kung Sverres egentliga gudstro.",
+            "Han anser dem vara tillägg som i efterhand fogats till originaltexten.",
+            "Han förstår dem som tecken på en förändrad syn på kungadömet.",
+            "Han uppfattar dem som resultatet av en an- passning från upphovsmannens sida."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Vilken kritik riktar recensenten mot Bag- ges diskussion av slaget vid Fimreite?",
+        "options": [
+            "Bagge bortser från att kung Sverre är en person som faktiskt existerat.",
+            "Bagge drar för långtgående slutsatser kring det verkliga historiska förloppet.",
+            "Bagge driver en så vag tes att han inte förmår utnyttja källmaterialet fullt ut.",
+            "Bagge behandlar sina två huvudkällor på alltför olika sätt."
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Vilket svarsförslag sammanfattar bäst vad recensenten anser om Bagges studie?",
+        "options": [
+            "Han tycker den har förtjänster men anser att argumentationen är för svag.",
+            "Han tycker den är intressant men menar att slutsatsen inte framkommer tydligt nog.",
+            "Han tycker den är i stort sett övertygande men finner att det saknas vissa kompletterande ",
+            "Han tycker den är tankeväckande men bedömer att den i huvudsak bekräftar det som redan är "
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Parkinsons sjukdom beräknas drabba cirka en procent av den äldre befolkningen. Sjukdomen påverkar vissa system i hjärnan och framkallar ____ störningar i form av skakningar.",
+        "options": [
+            "motoriska",
+            "kognitiva",
+            "rapsodiska",
+            "hypokritiska"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "Däggdjurens spillning är, med ____ form och storlek, som regel tämligen typisk för ____ djurart.",
+        "options": [
+            "referens till – en särpräglad",
+            "hänsyn till – dominerande",
+            "beskrivning av – en hotad",
+            "avseende på – respektive"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Huvuduppgiften för de första universiteten i Europa var att utbilda präster, och snart hade de lyckats höja bildningsnivån hos prästerskapet högst ____.",
+        "options": [
+            "individuellt",
+            "fanatiskt",
+            "avsevärt",
+            "storartat"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "____ tyskarna anser att de har betalat enorma belopp för att hålla spendersamma stater över vattenytan är reaktionen hos mottagarna den omvända: de ser sig som ____ och nedtryckta, fastlåsta i en halvfärdig ____ union där andra slår fast spel- reglerna.",
+        "options": [
+            "När – omhuldade – komplex",
+            "Eftersom – drabbade – diplomatisk",
+            "Om – expansiva – stagnerad",
+            "Medan – hunsade – monetär"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Genom ____ avstånd kan publiken känna medlidande på ett sätt som vore omöjligt i en ____ situation.",
+        "options": [
+            "realismens – surrealistisk",
+            "fiktionens – verklig",
+            "populismens – traditionell",
+            "tragikens – allvarlig"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Narkosläkarna föreslog att vi skulle ge sevofluran. Det är ett läkemedel som används inom _____ för att söva ner patienter, men som också har en potent luftrörsvidgande effekt.",
+        "options": [
+            "ontologin",
+            "liturgin",
+            "anestesin",
+            "osteopatin"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Lägg därtill en parkeringsplats i innerstaden för cirka 2 000 kronor i månaden, alterna- tivt boendeparkering för 800 kronor ____ för att man sedan har någon p-plats. Det måste åkas mycket bil för att räkna hem det här ____ andra alternativ för bil- användning, till exempel bilpool.",
+        "options": [
+            "med reservation – medelst",
+            "utan garanti – visavi",
+            "med undantag – gentemot",
+            "utan villkor – beträffande"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Ön Aoshima svämmar över av hundratals katter som kan härska fritt i ____ naturliga fiender, och ön har blivit ett populärt utflyktsmål för kattälskare. Lokalbefolkningen försöker hålla kattpopulationen ____, och flera katter har kastrerats. Öborna är inte ____ förtjusta över alla turister som kommer dit och matar djuren och kelar med dem.",
+        "options": [
+            "brist på – under uppsyn – grundligt",
+            "konkurrens med – i trim – överdrivet",
+            "avsaknad av – i schack – odelat",
+            "överläge gentemot – på mattan – alldeles"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Studien åberopar fortlöpande relevanta rön i den tidigare forskningen kring dagböcker och dagboksfiktion i allmänhet och kring de tre ____ verken ____.",
+        "options": [
+            "resterande – i gengäld",
+            "fokuserade – i synnerhet",
+            "kommande – i praktiken",
+            "centrerade – i förlängningen"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "”Olika lön för lika arbete” verkar vara ____ som gäller i många länder, om man får tro Internationella arbetsorganisationens senaste rapport. Där konstateras att män har högre lön än kvinnor i alla de 38 länder som undersöks.",
+        "options": [
+            "devisen",
+            "embargot",
+            "schablonen",
+            "betinget"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "31.",
+        "options": [
+            "as ",
+            "though",
+            "unless",
+            "so"
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "32.",
+        "options": [
+            "contents",
+            "inhabitants",
+            "concerns",
+            "resources "
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "33.",
+        "options": [
+            "excepting",
+            "enforcing ",
+            "retaining ",
+            "defying"
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "34.",
+        "options": [
+            "While ",
+            "Provided",
+            "Since",
+            "Considering"
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "35.",
+        "options": [
+            "limit",
+            "transform",
+            "increase ",
+            "disrupt ELF17A_Del2.indd 11 2017-01-13 16:43:46"
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "What is said in the opening paragraphs about different kinds of research into human prehistory?",
+        "options": [
+            "They have used different methods but arrived at similar conclusions.",
+            "Because of different research traditions, their aims have differed widely.",
+            "They use different kinds of evidence and have failed to reach a consensus. ",
+            "Despite similar research interests, they do not respect each other’s methods."
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "Which of the following statements about the “molecular clock method” is true, according to the text?",
+        "options": [
+            "Its way of functioning seems to suffer from a certain degree of circularity. ",
+            "Its basic purpose is to calculate DNsimilarities between unrelated species.",
+            "It is the obvious way of establishing the rate of random mutations.",
+            "It is an outdated method for matching DN sequences to fossil evidence."
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "What, basically, caused the clash between palaeontologists and geneticists?",
+        "options": [
+            "Palaeontologists’ use of human fossil remains occasionally failed to meet scientific standards.",
+            "Geneticists relied too much on DNin their dating of the human species. ",
+            "Palaeontologists were largely ignorant about the use of DNas evidence. ",
+            "Geneticists’ response to palaeontological argu- ments was questioned on ethical grounds. "
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "In what way have palaeontologists’ views recently gained weight?",
+        "options": [
+            "The results of new research on mutation rates agree with their calculations. ",
+            "The overall impact of DNevidence has been devalued due to earlier errors. ",
+            "Findings of new human fossils of great age significantly support their ideas.",
+            "Theories about the existence of a “molecular clock” have had to be abandoned."
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

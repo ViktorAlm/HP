@@ -1,0 +1,480 @@
+[
+    {
+        "question": "",
+        "options": [
+            "symbolisk",
+            "tecknad",
+            "svårtolkad",
+            "saklig",
+            "påhittad"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "essä",
+        "options": [
+            "utkast",
+            "saga",
+            "skrivelse",
+            "dikt",
+            "uppsats"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "rugga",
+        "options": [
+            "ömsa skinn",
+            "förpuppas",
+            "byta fjädrar",
+            "kläckas",
+            "få vinterpäls"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "koalition",
+        "options": [
+            "överlämning",
+            "beslutsamhet",
+            "förhandling",
+            "sammanslutning",
+            "överensstämmelse"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "följaktligen",
+        "options": [
+            "naturligtvis",
+            "därför",
+            "säkert",
+            "ändå",
+            "verkligen"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "åthutning",
+        "options": [
+            "tillrättavisning",
+            "kraftigt ryck",
+            "avståndstagande",
+            "hård örfil",
+            "beskyllning"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "utblottad",
+        "options": [
+            "utfrusen",
+            "generad",
+            "smutskastad",
+            "ruinerad",
+            "avklädd"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "överpröva",
+        "options": [
+            "föra till högre instans",
+            "upprepa ett experiment",
+            "få någon ur balans",
+            "utvidga ett statistiskt urval",
+            "förlänga en tjänst"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "extremiteter",
+        "options": [
+            "inre organ",
+            "ryggkotor",
+            "armar och ben",
+            "ledband",
+            "fina blodkärl"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "parlör",
+        "options": [
+            "rådgivare",
+            "förförare",
+            "liten ordbok",
+            "missöde",
+            "föredragshållare – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vilket svarsförslag sammanfattar bäst vad texten beskriver?",
+        "options": [
+            "Konstverk som författaren skapat och som till utformning och innebörd har gemensamma drag.",
+            "En metod för att överföra och utveckla en konstnärlig teknik från ett verk till ett annat.",
+            "Författarens erfarenheter av att förena ett konstnärskap med arbetet som deltidsbrandman.",
+            "Författarens analys av parallellerna mellan skolbarns och räddningsarbetares vardag."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Vad vill Mårten Medbo skildra med sina nallefigurer?",
+        "options": [
+            "Slumpens avgörande betydelse i våra liv.",
+            "Känslan av att behärska en svår situation.",
+            "Myter om brandmannens vardag.",
+            "Situationer där saker ställs på sin spets. Apbarn och nallebrandmän"
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Texten refererar till undersökningar där upplevd yrsel jämförts med uppmätt yrsel. Vad har undersökningarna visat?",
+        "options": [
+            "Att upplevd yrsel och uppmätt yrsel inte alltid sammanfaller.",
+            "Att upplevd yrsel uppträder redan innan faktisk yrsel uppmätts.",
+            "Att upplevd yrsel inte kan förklaras av forskningen.",
+            "Att uppmätt yrsel kan förklaras av fenomenet ”negativ affekt”."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Vad vill textförfattaren understryka ge- nom exemplet med kvinnan som liknade sina yrselanfall vid jordbävningar?",
+        "options": [
+            "Att det är den drabbade själv som bäst kan mäta besvärens omfattning.",
+            "Att de individuella upplevelserna av besvären sällan kan styrkas av undersökningar.",
+            "Att den drabbades egen inställning har betydelse för hur besvären upplevs.",
+            "Att besvären kan visa sig på mycket varierande sätt hos en och samma individ."
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Vilket av följande råd är lämpligast att ge en person med svåra yrselbesvär, om man utgår från texten?",
+        "options": [
+            "Ta reda på vad du klarar av genom att utmana dina egna gränser.",
+            "Vänta inte på hjälp utan rapportera själv vilka svårigheter besvären medför.",
+            "Minska obehagen genom att öppet bearbeta dem med andra drabbade.",
+            "Dra ner på de aktiviteter som ger dig ökad rädsla och ångest."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Vad av följande lyfter textförfattaren fram som särskilt viktigt att uppmärksamma i behandlingen av yrseldrabbade?",
+        "options": [
+            "Att tillfälligt nedsatta funktioner kan vara tecken på bakomliggande sjukdom.",
+            "Att fysiska yttringar och psykiskt tillstånd ständigt samspelar med varandra.",
+            "Att motivationshöjande insatser är extra viktiga vid självrapporterade besvär.",
+            "Att familjens hjälp kan vara avgörande för en framgångsrik behandling."
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vad är det främst som gör thalassinider intressanta för den forskning som texten beskriver?",
+        "options": [
+            " De tål både sulfid och låga syrehalter, vilket gör dem oberoende av den omgivande miljön.",
+            " De säkrar sin tillgång på näring genom ett komplicerat och delvis outforskat beteende.",
+            " De påverkar genom sitt levnadssätt kemiska processer i sedimenten.",
+            " De lyckas överleva djupt ner i sedimenten tack vare sitt sätt att sprida ut sig där."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Vad undersöker forskarna med hjälp av bromidkulor, enligt texten?",
+        "options": [
+            " I vilken mån Calocaris anpassar sig till före- komsten av nya ämnen.",
+            " I vilken omfattning Calocaris bidrar till att ämnen förflyttas i leran.",
+            " I vilken utsträckning Calocaris påverkas av kemiska processer.",
+            " I vilken grad Calocaris har förmåga att an- passa sin egen syreförbrukning."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Texten konstaterar att ormstjärnor påver- kar syreförbrukningen. Vad blir resultatet?",
+        "options": [
+            "Att syreförbrukningen i gångsystemen ökar.",
+            "Att syreförbrukningen i gångsystemen minskar. ",
+            "Att syreförbrukningen vid sedimentytan ökar.",
+            "Att syreförbrukningen vid sedimentytan minskar."
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Vad av följande kan, enligt texten, förklara att Calocaris har utvecklat förmågan att överleva i syrefattiga miljöer?",
+        "options": [
+            "Att Calocaris nedbrytning av organiskt material är så syrekrävande.",
+            "Att Calocaris lever i gångar som är krävande att syresätta. ",
+            "Att Calocaris kan dra nytta av ormstjärnornas höga respiration.",
+            "Att Calocaris är tolerant mot höga koncentra- tioner av sulfid."
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Edith Södergrans expressionistiska diktning ger i högre grad prov på ____ livsyttringar än på inhemska.",
+        "options": [
+            "utsvävande",
+            "spontana",
+            "angenäma",
+            "kontinentala"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "Det finns alltså två olika system i hjärnan, och dessa styr snabba, känslomässiga beslut ____ långsamma, genomtänkta beslut. Det första kallas för det limbiska systemet och här spelar amygdala, ibland kallad ”reptilhjärnan”, huvudrollen. Enkelt uttryckt är det amygdala som aktiveras när vi säger elaka saker till någon i upprört tillstånd eller när vi ____ slår till någon.",
+        "options": [
+            "som föregår – gladeligen ",
+            "respektive – bokstavligen",
+            "i kontrast till – rättvisligen",
+            "alternativt – obönhörligen"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Uppgivet utbrister hon till sist till biträdet: ”Jag vet inte vad jag vill ha!”. Nej, Astrid vet inte. Hon är fast i det skinande perfekta medelklasslivets valfrihetshelvete, och hennes ____ visar sig snart inte bara gälla ostar utan betydligt större saker än så.",
+        "options": [
+            "vankelmod",
+            "förkärlek",
+            "indignation",
+            "erkänsla"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "I första utskottet kan alla stater diskutera sina ____ gällande nedrustningsfrågor. Till- sammans kan staterna hitta kompromisslösningar eller nå ____ och enas om normer för hur man ska agera i olika frågor.",
+        "options": [
+            "synsätt – samfällighet",
+            "positioner – analogi",
+            "ståndpunkter – konsensus",
+            "markeringar – majoritet"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Studien visar att alla dessa valmöjligheter gör fritiden mer ____, särskilt som arbetet kan tränga in i fritiden via mobiltelefon och e-post. Många upplever fritiden som krav- fylld och talar ____ om ett slags kontrollförlust. Ändå värdesätts den lediga tiden allt högre, så resultatet är tämligen ____, säger Paul Fuehrer.",
+        "options": [
+            "splittrad – utan anledning – entydigt",
+            "innehållsrik – ofta – positivt",
+            "flexibel – i vissa avseenden – komplext",
+            "stressfylld – rent av – paradoxalt"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Det sägs att det på en ____ gravsten borde stå: ”Vad var det jag sa?!” Ibland får man rätt till slut.",
+        "options": [
+            "kolerikers",
+            "geriatrikers",
+            "hypokondrikers",
+            "klaustrofobikers"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Efter en intensivt uppflammande debatt om Norrlands naturresurser i slutet av 1800-talet vann de som ____ storskaliga ingrepp över dem som försvarade lokalt ägande och en mer bondedriven och ____ tillväxt.",
+        "options": [
+            "förespråkade – försiktig",
+            "övervägde – ekonomisk",
+            "kritiserade – spontan",
+            "motiverade – produktiv"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Polarskensaktiviteten är störst under höst och vår, och sett över dygnet ____ den omkring en timme före midnatt.",
+        "options": [
+            "kulminerar",
+            "pulserar",
+            "briljerar",
+            "illuminerar"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Låt mig börja med att slå fast en sak: Jag gillar inte deckare! Jag tittar gärna på Holly- wood-action i form av filmer, men jag vill inte läsa dem. Det är inte fråga om ____; jag läser ju Stephen King med stor förtjusning, till exempel. Men just deckargenren är för mig helt ointressant, fylld av ____ och knappt ____ variationer på ett tema som börjar kännas oerhört urvattnat.",
+        "options": [
+            "lättja – versaler – tänkbara",
+            "pedanteri – konspirationer – vidrörda ",
+            "lobbyism – sexism – hänförda",
+            "snobberi – plattityder – skönjbara"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "I framtiden kan läkemedelsbehandlingen inom psykiatrin väntas bli mer effektiv, mindre belastad med biverkningar och i ökande omfattning utgöras av ____ terapi (som riktar sig mot den psykiska störningens orsaker), i stället för att som nu vara övervägande ____.",
+        "options": [
+            "akut – universell",
+            "kausal – symtomatisk",
+            "temporär – kontinuerlig",
+            "mental – substantiell"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "31.",
+        "options": [
+            "expected",
+            "persuaded",
+            "supposed",
+            "tempted "
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "32.",
+        "options": [
+            "speculative",
+            "abstract",
+            "successful ",
+            "simplistic"
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "33.",
+        "options": [
+            "faith ",
+            "realism",
+            "proof ",
+            "relevance"
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "34.",
+        "options": [
+            "fend off",
+            "adapt to ",
+            "step up",
+            "account for"
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "35.",
+        "options": [
+            "unless",
+            "as",
+            "although",
+            "if ELF17B_Del 2.indd 11 2017-06-13 13:07:17"
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "What is the most accurate description of women’s role in the British Foreign Office in the period between the two world wars?",
+        "options": [
+            "They were generally allowed to work in offices in Britain but rarely abroad.",
+            "They worked with background tasks but were not permitted to perform any public duties. ",
+            "They were usually not allowed to be involved in any type of work in the Foreign Office. ",
+            "They played active roles in diplomatic negotia- tions but this was not officially recognized."
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "How can the views of Sir Robert Vansittart and Charles Howard Smith best be described?",
+        "options": [
+            "Vansittart more than Smith often strove to take into account women’s own interests.",
+            "Their views on women were most likely similar and reflected those of most ambassadors.",
+            "Smith was much more radical than Vansittart in his lack of faith in women’s capabilities. ",
+            "Their views on female diplomats were very different from those of the British ambassadors."
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "What did Vansittart claim about the status of men and women in 1930s Britain?",
+        "options": [
+            "There was no difference in status between British women and British men. ",
+            "Women had lower status than men but higher than people in other countries.",
+            "It was important to make sure that the status of British women was promoted.",
+            "Men and women were so different that their status was impossible to compare."
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "How did the Second World War affect arguments against women entering the diplomatic profession?",
+        "options": [
+            "The work of women appointed during the war showed that the arguments were flawed. ",
+            "The experience of war united the British people and made men less narrow-minded.",
+            "The war completely changed traditionally existing roles of men and women in Britain.",
+            "The arguments lost their force since women proved to be the best wartime diplomats of all."
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "question": "",
+        "options": [
+            "envisas",
+            "opponera sig",
+            "överbevisa",
+            "låta påskina",
+            "antyda"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "klimakterium",
+        "options": [
+            "befruktning",
+            "höjdpunkt",
+            "övergångsålder",
+            "miljöpåverkan",
+            "bakterieodling"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "illustrativ",
+        "options": [
+            "idealisk",
+            "händelserik",
+            "skenbar",
+            "uppmärksammad",
+            "belysande"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "lektor",
+        "options": [
+            "medeltida musikant",
+            "mått på acceleration",
+            "pensionerad militär",
+            "del av koordinatsystem",
+            "lärare vid högskola"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "förlösa",
+        "options": [
+            "reda ut",
+            "befria",
+            "skilja åt",
+            "avhjälpa",
+            "mjuka upp"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "sömsmån",
+        "options": [
+            "osynlig söm",
+            "mönsterpassning",
+            "tygkant utanför söm",
+            "löst sydda stygn",
+            "valbar söm på symaskin"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "tongivande",
+        "options": [
+            "artig",
+            "idérik",
+            "pålitlig",
+            "ledande",
+            "övertygande"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "oförrätt",
+        "options": [
+            "olycksfall",
+            "kränkning",
+            "osanning",
+            "bestraffning",
+            "missbedömning"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "inte på långt när",
+        "options": [
+            "för länge sedan",
+            "långt ifrån",
+            "längre fram",
+            "långt senare",
+            "inte på länge"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "superlativer",
+        "options": [
+            "löften",
+            "böner",
+            "tillägg",
+            "beröm",
+            "argument – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vad hänvisade de tre fastighetsägarna till som stöd för sitt yrkande?",
+        "options": [
+            "Att kommunen hade låtit bli att informera dem om förbindelsepunkternas läge.",
+            "Att deras fastigheter redan delade vissa instal- lationer för avlopp.",
+            "Att förbindelsepunkterna hade placerats utan hänsyn till deras tomtgränser.",
+            "Att de hade egna dricksvattenbrunnar och ville avstå från kommunalt vatten."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Vad var enligt texten en anledning till att VA-nämnden inte biföll de tre fastighets- ägarnas yrkande?",
+        "options": [
+            "Ärendet ansågs inte strikt juridiskt.",
+            "De tre fastighetsägarna och huvudmannen hade redan kommit överens.",
+            "Ärendet omfattades inte av vattentjänstlagen.",
+            "De särskilda skäl som anfördes hade inte god- känts av kommunen."
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Vad var enligt texten en orsak till att Spi- vaks förhoppningar om ämnet comparative literature inte infriades?",
+        "options": [
+            "Spivak var inte tillräckligt känd och etablerad för att få stöd för sina idéer.",
+            "Forskningstraditionerna i Indien och USvisade sig vara alltför olika.",
+            "De områden Spivak ville studera hade redan kartlagts av andra forskare.",
+            "Den akademiska miljön visade sig vara mot- ståndskraftig mot förändring."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Vilken förändring vill Spivak se inom com- parative literature, enligt textförfattarens referat?",
+        "options": [
+            "En fördjupning så att området även innefattar allt som ryms inom cultural studies.",
+            "Ett vidgat perspektiv som bryter den västerländ- ska litteraturens dominans.",
+            "En breddning som medger att även andra kultur- former än litteratur kan studeras. ",
+            "Ett ökat intresse för historiska perspektiv inom litteraturen."
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Hur ser Spivak på översättning, enligt tex- ten?",
+        "options": [
+            "Översättning mellan olika språk kan tillföra texten nya dimensioner.",
+            "Översättning ställer extra stora krav på läsarens språkliga kunskaper. ",
+            "Översättning gör det svårt att infoga texten i en kanon.",
+            "Översättning kan ses som ett uttryck för kravet på kulturell utjämning."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Hur anser Spivak att litteraturen i bästa fall kan fungera, enligt texten?",
+        "options": [
+            "Som ett vapen i kampen för demokrati.",
+            "Som ett gränsöverskridande bildningsinstrument.",
+            "Som ett redskap för förmedling av språkkunska- per.",
+            "Som ett kvalitetsstämplat arv till nästa genera- tion."
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vad har enligt texten föranlett framväxten av de nya forskningsansatser som diskute- ras?",
+        "options": [
+            "Bristerna i den forskning som bedrivs av perso- ner med lärarbakgrund.",
+            "Skillnaden mellan den forskning som bedrivs på universiteten och den som bedrivs i skolan.",
+            "Förväntningen att lärarna på egen hand ska lösa sina problem i undervisningen.",
+            "Avsaknaden av forskning som har konkret koppling till lärarnas undervisningssituation."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Hur kan man, utifrån texten, bäst definiera ”praxisnära forskning”?",
+        "options": [
+            " Forskning som fokuserar verksamheters prak- tiska resultat.",
+            "Forskning som bedrivs av de som själva arbetar inom en verksamhet.",
+            "Forskning som riktar in sig på de frågor som uppstår i en verksamhet.",
+            "Forskning som är av mer praktisk än teoretisk art."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Hur skulle man bäst kunna beskriva skill- naden mellan ”design experiments” och den japanska ”lesson study”-modellen, om man utgår från texten?",
+        "options": [
+            "Den förra är inriktad på undervisningen, den senare på lärarna.",
+            "Den senare tar tydligare än den förra sin ut- gångspunkt i lärarnas praktik.",
+            "Den förra bedrivs enbart av forskare, den senare i huvudsak av lärare.",
+            "Den senare utförs i större utsträckning än den förra av forskarkollektiv."
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Praxisnära forskning har uppkommit som ett svar på hur tidigare forskning betrak- tat lärarna. Hur kan man bäst beskriva den roll som denna tidigare forskning tilldelade lärarna?",
+        "options": [
+            "Överbryggande.",
+            "Balanserande.",
+            "Generaliserande.",
+            "Verkställande. Reg ht 2017 verbal del 1.indd 7 2017-06-26 10:47:44"
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Benämningen ____ eller den äldre formen ”kultje” används när vindhastigheten till sjöss uppgår till minst 14 m/s.",
+        "options": [
+            "kutting",
+            "kuling",
+            "kulmen",
+            "kulning "
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "Om än läsandet av böcker i många avseenden är en subjektiv och ____ syssla så vill vi samtidigt gärna göra den till en del av ____; det jag nu sysslar med är bara ett exempel på denna strävan att sprida och dela med sig av sin läsning.",
+        "options": [
+            "solitär – en gemenskap",
+            "litterär – vårt kulturarv",
+            "populär – samhället ",
+            "linjär – ett spektrum"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Medborgarnas syn på Posten som en del av samhällskroppen är långt ifrån ____. Posten har varit något av en infrastruktur, en statens ____ arm. Det lokala postkontoret är en plats där medborgare har kunnat rösta i allmänna val. I ett land där staten och Posten varit ____ är det inte så konstigt att stora förändringar alltid tagits emot med skepsis.",
+        "options": [
+            "odelad – tredje – vinstdrivande",
+            "sann – ledande – privatiserade ",
+            "utredd – beväpnade – segregerade",
+            "ogrundad – förlängda – oskiljaktiga"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Att ____, som facktermen lyder, är inte att skjuta upp saker i största allmänhet, utan att ____ låta en uppgift vänta till senare, trots att vi vet att det kan få negativa konse- kvenser.",
+        "options": [
+            "derangera – glatt",
+            "prokrastinera – aktivt",
+            "dekonstruera – spontant",
+            "predestinera – slappt"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Risken finns ju också att man som journalist på en liten ort ____, att man självcensu- rerar, när saker blir för känsliga eller kommer för nära.",
+        "options": [
+            "lägger band på sig",
+            "sätter sig på höga hästar",
+            "faller mellan stolarna",
+            "tar bladet från munnen"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Kapillärprov är ett blodprov som tas genom ett stick med en ____ i fingertoppen, i örsnibben eller, hos spädbarn, på hälens undersida.",
+        "options": [
+            "pipett",
+            "sutur",
+            "lansett",
+            "kateter"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "I likhet med många andra experter på frågor om ____ är han förvånad, kanske till och med irriterad, över vanliga nätanvändares ____: ”Att skicka mejl är säkerhetsmässigt ungefär som att lägga ett vykort på gatan utanför huset det ska till och hoppas att rätt mottagare kommer förbi och hittar det först.”",
+        "options": [
+            "integritet – godtrogenhet",
+            "infiltration – missunnsamhet",
+            "identitet – opålitlighet",
+            "interaktion – betänksamhet"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Varje sort är en ____, det vill säga alla äppelträd av en viss sort härstammar från ett gemensamt ursprungsträd och förökningen sker genom något ____, vanligen okule- ring. I Sverige har man valt ut omkring 220 mandatsorter, alltså sådana som är avsedda att bevaras för ____ i genbanker.",
+        "options": [
+            "gen – meiosliknande – framtiden",
+            "klon – ympningsförfarande – eftervärlden",
+            "avfälling – pollenliknande – placering",
+            "dottercell – delningsförfarande – donationer"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Vi barn ____ länge och liksom bekymrat över Megan, en av byns udda existenser. Hon hade blommiga klänningar, men också synligt skägg och mustasch. När jag satt och iakttog henne i kyrkan framstod den ____ som betydligt mer fängslande än predikan.",
+        "options": [
+            "spankulerade – personligheten",
+            "våndades – utstyrseln",
+            "fantiserade – fascinationen",
+            "grunnade – motsägelsen"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "I Arbetsmiljölagen står det att arbetsförhållandena ska vara anpassade till människans förutsättningar i fysiskt och psykiskt ____.",
+        "options": [
+            "välbefinnande",
+            "samspel",
+            "hänseende",
+            "tillstånd"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "What are we told in relation to SheTaxis?",
+        "options": [
+            "It is about time women should be given a chance to drive yellow cabs. ",
+            "Its drivers have been treated with scepticism by their male colleagues.",
+            "It is doubtful whether male passengers will accept female cab drivers.",
+            "Its business idea has met with unexpected success among passengers. "
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "What does the text imply about the writer’s attitude to SheTaxis? The writer …",
+        "options": [
+            "is concerned about current prejudice against New York’s female drivers.",
+            "seems to think that the firm’s policy conforms to the spirit of the law. ",
+            "is upset about its discriminating effect on the majority of cab drivers.",
+            "believes that the law will be changed in favour of the new taxi company.",
+            "large body of research suggests that, as compared with religious individuals, people who lack a creed are less likely "
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "What is implied in relation to religious belief in the first two paragraphs?",
+        "options": [
+            "Atheists are on their way to outnumbering reli gious people in America.",
+            "Research indicates that religiosity is the single most important factor with regard to well-being. ",
+            "Religious faith as a social force is losing ground in most parts of the world.",
+            "Fewer people than before in the U.S. now con- sider themselves actively involved in religion. "
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "What is said about recent research address- ing the relationship between religion and well-being?",
+        "options": [
+            "It has so far confirmed the intuitive views on the topic that already existed.",
+            "main finding has been the importance of social factors for a correlation to appear. ",
+            "Methodological problems have made results more controversial than expected.",
+            "It suggests that a secular society is less likely than a religious one to provide social contentment."
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "What, according to Ed Diener’s research, are the relations between religiosity, well- being and relative wealth in the United States?",
+        "options": [
+            "People in relatively wealthy states are less reli- gious but more contented than religious people ",
+            "Religious people are in general more contented than non-religious people, regardless of material ",
+            "People in relatively poor states are both more religious and more contented than less religious ",
+            "Non-religious people are in general more con - tented than religious people, regardless of mate rial "
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "Which of the following conclusions about Ed Diener’s global study is true?",
+        "options": [
+            "Whatever the circumstances, being religious or non-religious makes little difference to a person’s ",
+            "In poor countries, religious individuals enjoy a greater sense of well-being than non-religious ",
+            "In certain conditions, all major religions occa sion- ally fail to promote a sense of national well-being. ",
+            "Regardless of country, relative happiness is generally boosted by a strong religious belief."
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "What can be concluded from the last two paragraphs?",
+        "options": [
+            "Well-being is unrelated to religiosity.",
+            "Atheism can be seen as a special form of religion.",
+            "High social status may enhance religiosity.",
+            "Religion in itself is no guarantee of happiness. ELF17B_Del 1.indd 13 2017-06-15 13:03:38"
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "How could the tone in this text best be described?",
+        "options": [
+            "Sentimental",
+            "Prosaic",
+            "Sarcastic ",
+            "Moving Question"
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "Which of the following statements is true, according to the text, with regard to calo- rie restriction in people?",
+        "options": [
+            "Eating less does not appear to affect life expectancy. ",
+            "There are indications that eating less leads to a longer life.",
+            "The new study confirms previous conclusions by using a different research method.",
+            "Results based on monkeys cannot automatically be transferred to humans.",
+            "Health Issue Studies have shown that reducing typical calorie con-"
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

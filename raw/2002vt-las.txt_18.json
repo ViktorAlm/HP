@@ -1,0 +1,155 @@
+[
+    {
+        "question": "",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "Skall valda modeller vara problemorienterade eller tillgänglighetsstyrda?",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "Är modeller nödvändiga eller bara önskvärda? Modeller utan mål eller motiv saknar berättigande. Model- ler har således inget egenvärde. De har endast ett instrumentellt värde, dvs. att värdet kan endast bedömas utifrån att t.ex. nyttan med modellerna är större än uppoff- ringen att ta fram dem. Vad är då nytta i dessa samman- hang? Vanligtvis tänker man på numeriskt resultat, när mo- dellens nytta värderas. Men modellen kan också ha ett värde i att konkretisera ett komplext problem för att på så vis närma sig lösningen, kanske genom en efterföljande för- djupad modellering. Detta är ett motiv som ofta förbises som argument inför ett beslut om en modellering skall ge- nomföras eller ej. I vissa sammanhang har modeller och modelleringen fått en mer framträdande roll än själva resultatet. Modellen har blivit målet snarare än medlet. Det är naturligt att bli fasci- nerad av en modell och ett modellresultat, men modellens värde kan endast bedömas genom att den kritiskt granskas och sätts in i ett sammanhang. Mot denna bakgrund bör modeller eller modelleringar vara problemorienterade och inte tillgänglighetsstyrda. Detta innebär också att modeller och modelleringar inte alltid är nödvändiga, men rätt tillämpade är de till stor hjälp i att bringa klarhet i ett komplext problem. Modell och komplexitet diskuteras ofta tillsammans. Komplexitet är många gånger ett motiv för att använda en modell för att bringa ordning i det svåra och oöverskådliga. Ibland lyckas modelleringen, ibland inte. Tekniker gör ofta ingen åtskillnad mellan vad som kan göras, bör göras och slutligen skall göras. Dessa verb likställs, dvs. vad som kan göras blir norm för vad som bör eller skall göras. Ur många aspekter är detta fel. Att t.ex. en komplex modell kan upp- ställas, innebär inte att den bör uppställas. Att frågeställningen inte blivit mer överskådlig genom modellering, kan bero på många faktorer. Många studier har gjorts som förklarar bristen eller misslyckandet i till- lämpning av modeller. Tre faktorer som visat sig göra till- lämpningen framgångsrik är förståelse och stöd från be- ställaren, väldefinierade och mätbara mål samt just låg kom- plexitet hos modellen. Det är dock vanligt att modeller och modellering har sina egna normer för sina berättiganden. Modellering utvecklas mot att bli mer och mer komplex i två avseenden: modellernas komplexitet ökar liksom modelleringens komplexitet. Mer datakraft leder till att mer komplexa modeller kan användas. Komplexa modeller krä- ver ofta mer indata, vilket innebär att fler och fler osäkra variabler byggs in. Detta leder i princip till en nedåtgående spiral av alltmer ökad komplexitet, minskad överskådlighet och osäkrare resultat, eftersom den tekniska kapacitets- förmågan är kostnadseffektiv medan den mänskliga perceptions- och tolkningsförmågan fortfarande ligger kvar på grottstadiet. Vår benägenhet till felslut är omvittnad och väl belyst inom beteendevetenskapen. Ökad komplexitet hos modeller leder inte heller nödvän- digtvis till bättre prognoser. Tvärtom, det är visat inom så skilda ämnesområden som ekonometri och hydrogeologi att komplexa modeller inte med nödvändighet leder till bättre svar i betydelsen numeriskt resultat. Enkelhet är således en positiv egenskap i sig. Den komplexitetsökning som bör tillåtas, skall dock endast bedömas med måttet att minimera felet eller osäkerheten så långt att nyttan med modellen överstiger uppoffringen att uppställa modellen. I annat fall kan man riskera att ha skapat en ”verklighet” som blir mer oförståelig än den verklighet man vill förstå. Enkelhet i mo- deller och modellering tycks således ha ett värde i sig. Komplexitet är bara en av egenskaperna hos en modell. Man kan dela in modellerna enligt många indelningsgrunder. En indelning är att vilja veta de bakomliggande mekanis- merna i tillvaron eller att så kostnadseffektivt som möjligt lösa en uppgift, t.ex. göra en prognos. De sistnämnda kal- las ofta ”black box”-modeller. Med denna modelltyp söker man inte förstå sambandet mellan data och resultat, utan räknar bara ut faktorerna i en vald grundmodell som ger så litet fel som möjligt mellan prognos och verkligt resultat. Många gånger kan det vara en bra princip, t.ex. om man inte har tid eller pengar att tränga ner på djupet i frågeställ- ningen. Risken är att det framräknade sambandet bara rå- kar gälla just detta beräkningsfallets indata och resultat. Detta innebär att den har svårt att inge förtroende som all- mängiltig modell om inte ett mycket stort stickprov ligger till grund för den. Ett stort stickprov saknas ofta, eftersom indata kostar mycket pengar. Verkligheten där stickprovet 7 tas, har dessutom vanligtvis variationsrika egenskaper. Den överordnade principen att en modell eller en mo- dellering skall inge förtroende är nämligen fundamental och minst lika viktig som att resultatet blir rätt. Minimering av felet skall inte drivas för långt på bekostnad av trovärdig- heten. Att modellen i alla detaljer visar rätt, är ju dessutom svårt att ta reda på. En modell som räknar och visar rätt har således ingen funktion och därmed inget värde eller ens berättigande om inte användaren hyser tilltro till model- len och modelleringen. De krav som kan ställas på en modell är således föl- jande:",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "Att inge förtroende",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "Att tydliggöra det vi vill visa",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "Att uppvisa tillräcklig noggrannhet",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "Att vara så enkel som möjligt med hänsyn till problem och mål. Modellens precision kan bedömas genom att jämföra verkliga mätdata med prognostiserat värde. Modellens pre- cision kan också bedömas från konceptuell synpunkt. Då värderas det använda sambandets förmåga att återspegla de verkliga processerna samt indatas kvaliteter att repre- sentera de verkliga tillstånden. Modellens totala represen- tativitet och därmed trovärdighet byggs upp av dessa två egenskapers respektive trovärdigheter. Produkten av de två trovärdigheterna kan vara en bra konceptuell modell för den totala trovärdigheten, eftersom den i alla fall ger ett rättvisande resultat ifall tilltron till någon av dem är noll. Modelleringens liksom modellens tillförlitlighet bestäms därför av den svagaste länken av de båda komponenterna ”modellen” och ”indata”. Detta betyder att dålig kvalitet hos indata inte kan kompenseras av att man använder en mer komplex modell, eller att hög kvalitet hos indata kan kompensera bristerna hos en enklare modell.       Magnus Liedholm Uppgifter till texten LÄMPLIGA EGENSKAPER HOS MODELLER",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "Vilken egenskap hos en modells beståndsdelar är enligt textförfattaren avgörande för model- lens trovärdighet? A Säkerheten B Tydligheten C Representativiteten D Enkelheten",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "Textförfattaren anger tre frågor att utgå ifrån inför ett eventuellt användande av en modell. Hur bör dessa helst besvaras, enligt hans upp- fattning? A Modeller har ett värde i sig, är nödvändiga och bör vara problemorienterade. B Modeller har ett värde i sig, är önskvärda och bör vara tillgänglighetsstyrda. C Modeller har ett värde som instrument, är önskvärda och bör vara problemorienterade. D Modeller har ett värde som instrument, är nödvän- diga och bör vara tillgänglighetsstyrda. 9. Vad är den avgörande skillnaden mellan Eudoxos modell och telluriet som modell? A Den förra modellen hade ett egenvärde, den senare endast förklaringsvärde. B Den förra modellen var abstrakt, den senare en kon- kret gestaltning. C Den förra modellen hade ett angivet mål, den senare saknade det. D Den förra modellen var autentisk, den senare ett pro- visoriskt hjälpmedel.",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "Vad är enligt textförfattaren ett problem med så kallade ”black box”-modeller? A Att de kräver så stora mängder indata att resultatet ofta är omöjligt att förutse. B Att deras resultat sällan räcker som grund för att dra slutsatser om verkligheten. C Att de enbart belyser sambandet mellan orsak och verkan och bortser från själva resultatet. D Att deras resultat tyder på att indata varierar mer än vad som verkligen är fallet. FORTSÄTT PÅ NÄSTA SIDA 8 BETONGFÖRORTERNA Jag arbetar för närvarande med en avhandling som har arbetsnamnet Rekordårens flerfamiljshus. Den behand- lar tiden 1960–1975, en period där miljonprogrammet ingår. Miljonprogrammet uppkom som ett svar på kritiken mot den bostadsbrist som rådde, framför allt i storstadsområdena. Med miljonprogrammet skulle en miljon bostäder byggas under loppet av tio år. Målet uppnåddes – men resultatet blev starkt kritiserat. Om du ställer frågor om miljonprogrammet till mannen på gatan svarar han dig troligen att han associerar till fula höghus byggda på platt mark någonstans långt utanför stads- kärnan. Han har inte helt fel men faktum är att den vanli- gaste byggda hustypen under miljonprogrammet (1965–74) var trevåningshuset, inte höghuset. Dock byggdes det också ett stort antal höghus. Inte sällan står de tillsammans med flera andra höghus på platt mark långt utanför stadskärnan. Under miljonprogrammet byggdes alltså såväl små bostads- områden med låg bebyggelse som storskaliga områden do- minerade av höghus. Även om många miljonprogramsområden är trivsamma och utgör exempel på goda bostadsmiljöer så finns det också de som har blivit häftigt kritiserade. Frågan om vems fel det var att de oattraktiva och storskaliga områdena bygg- des, har ställts av många. Svaren har skiftat, jag skall här nämna några av dem. De statliga myndigheterna, byggnads- företagen och arkitektkåren har omväxlande, eller tillsam- mans, hamnat på de anklagades bänk. Myndigheterna ef- tersom staten gav fördelaktiga lån till bostadsbyggande. För att få lån måste husen uppföras i enlighet med de regler och anvisningar som de statliga myndigheterna hade utfor- mat. Enligt vissa forskare kan miljonprogramsområdenas utseende i hög grad förklaras som en konsekvens av detta regelsystem. Andra har sagt att byggnadsföretagen fick en alltför dominerande roll under perioden och att arkitekternas in- flytande över utformningen i motsvarande grad minskades. Att arkitekterna blev överkörda. Men det finns också fors- kare som menar att de storskaliga bostadsområdena kan förklaras som ett resultat av en vision som arkitektkåren allt sedan 1920-talet vurmat för: de höghus som modernister- na skissade på under 1920- och 30-talet har stora likheter med vad som kom att byggas under bland annat miljon- programmet. Ytterligare en förklaring till varför resultatet av sats- ningen på en miljon bostäder ofta, eller ibland, beroende på hur man värderar det, blev så dåligt har sagts vara att det gick för fort. Ingen skulle ha reagerat på planerna för de storskaliga områdena, kritiken kom först när de stod på plats. Dessa förklaringar till varför de kritiserade miljon- programsområdena ser ut som de gör utgjorde utgångspunk- ten för min studie. Eftersom jag hade valt Stockholms län ville jag också diskutera den uppfattning som har framförts om förortskommunernas inställning till att bygga bostäder, nämligen att de skulle ha varit tvingade att bygga och att de gjorde det högst ovilligt. Det skulle ha varit politikerna i Stockholm som efter övertalning förmådde dem. Det lät märkligt, detta var under de så kallade rekordåren, en pe- riod som karakteriserades av en kraftig ekonomisk tillväxt med omfattande inflyttning till storstäderna. Varför skulle inte förortskommunerna vilja utnyttja de fördelar som en sådan utveckling kunde föra med sig? Jag valde fallstudiemetoden för min avhandling. Tre kri- tiserade storskaliga bostadsområden ingår som fallstudie- objekt, i två av dem ingår höghusbebyggelse, ett har lägre hus i två till fem våningar men i en stor skala med över 100 hus för 7 000 invånare. Jag har använt alla skrivna doku- ment som hör till respektive projekt och jag har intervjuat personer som representerar de olika involverade parterna i det aktuella projektet. Här anges några av de frågor jag ställde till materialet: • Uppfördes husen mot kommunens vilja? • Vilken inställning till storskalighet och förenkling hade de statliga myndigheter som granskade planerna? • Blev arkitekterna överkörda? • Gick det för fort? De preliminära resultaten pekar mot att det inte fanns nå- got motstånd mot en storskalig bebyggelse, med ett undan- tag. För att börja med kommunerna och den ovilja till ex- pansion som de påståtts hysa så ger min undersökning en snarast motsatt bild. Kommunerna ville expandera, göra kommunala investeringar i form av t.ex. ett vatten- och avloppsnät (vilket saknades på många håll i början av 1960- talet) och de ville ha en hög servicenivå. Ett sätt att få detta var att öka invånarantalet. Fler invånare gav ökade skatte- intäkter, som kunde användas till kommunala investeringar, större chans att erhålla tunnelbana, få ett fungerande shop- pingcenter etc. Kommunerna ville också locka företag att etablera sig, bland annat eftersom dessa betalade skatt till kommunen. Ett sätt att attrahera dem var att bygga bostä- der. Vid den här aktuella tiden rådde inte bara brist på bo- städer utan också brist på arbetskraft. Ett inte oviktigt motiv för att bygga storskaligt var att kommunerna kunde sälja mark till byggnadsföretagen. Då gällde principen ”ju mer våningsyta desto högre pris”. Kom- munerna hade alltså flera skäl för att ställa sig positiva till expansion och en stor skala. Hur var det då med arkitekterna, blev de överkörda? Min studie visar att många arkitekter pläderade för hög- husbebyggelse. De kände en trötthet inför trevåningshuset, som hade varit den vanligaste hustypen efter andra världs- kriget åtminstone. Höghuset var däremot någonting nytt och upplevdes som spännande att arbeta med. Planarkitekterna ansåg dessutom att höghusen gav invånarna många prak- tiska fördelar: en stadsmässig, tät bebyggelse med korta gångavstånd till service som butiker och kommunikationer. Höghuset var också handikappvänligt eftersom hissar in- stallerades, vilket saknades i trevåningshusen. Höghuset gav kort sagt många fördelar. 9 De förenklade och odekorerade fasaderna som karak- teriserar den här aktuella periodens arkitektur låg i linje med tidens arkitektoniska ideal, enkelhet och repetition, ideal som stod i överensstämmelse med byggnadsindustrins behov i byggprocessen. I de fall jag har studerat förelåg inte någon konflikt mellan arkitekternas och byggnadsföretagens be- hov och intressen. Arkitekterna blev inte överkörda. Den enda part som protesterade mot en förenklad arkitektonisk form och en stor skala var de statliga myndigheter som hade till uppgift att granska planerna, bostads- och bygg- nadsstyrelsen/statens planverk. Deras position var dessvärre svag och varningarna om att planerna skulle resultera i låg- kvalitativa bostadsområden togs inte på allvar av dem som företrädde projektet. Kritik framfördes, men den föränd- rade inte planerna. Gick det för fort? Stora bostadsbyggnadsprojekt tog lång tid att planera och bygga, runt åtta till tio år för ett område planerat för 7 000–10 000 invånare! Planerna gick på remiss till ett fler- tal instanser, däribland till de statliga myndigheternas före- trädare, som i samtliga av de fall jag undersökt ställde sig kritiska. Det gick alltså inte fort och det förhöll sig inte på det sättet att kritiken kom först när områdena stod färdiga. Sammantaget kan sägas att mycket talade för en stor- skalig bebyggelse. Mot bakgrund av strukturella faktorer som urbanisering, standardökning och bostadsbrist fanns det, vilket framgått ovan, såväl ekonomiska som praktiska och estetiska motiv som talade för en storskalig bebyggelse.    Lisbeth Söderqvist Uppgifter till texten BETONGFÖRORTERNA",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vilket förhållande rådde mellan arkitekter och byggföretag vid tiden för miljonprogrammets genomförande, enligt textförfattaren? A De hade olika roller men deras intressen samman- föll. B De hade skilda målsättningar och resultatet blev en kompromiss. C De var överens i sak men det praktiska genomför- andet vållade strid. D De verkade var för sig och myndigheterna fick spela rollen som medlare.",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Vad anger textförfattaren som en bakomlig- gande orsak till den storskalighet som känne- tecknade miljonprogrammets bostadsområden? A Bristen på visioner hos makthavarna och bygg- industrin. B Kommunernas intresse av ekonomisk utveckling. C Arkitekternas ringa inflytande över byggprocessen. D Den ensidiga anpassningen till Stockholmsområdets förhållanden.",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Vilket av följande påståenden täcker bäst de slutsatser om miljonprogrammet som text- författaren kommit fram till? A Allt gjordes för fort. B Allt gjordes enligt planerna. C Allt gjordes i för stor skala. D Allt gjordes mot bättre vetande.",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Varifrån kom den huvudsakliga kritiken mot miljonprogrammet under projektets gång? A Från arkitekterna. B Från kommunala myndigheter. C Från de boende. D Från statliga organ. 10 PEDAGOGIKENS RITUALER ”Rituellt språk”, skriver sociologen Anthony Giddens, ”är språk som det är meningslöst att säga mot. Därför är det ett medel man kan ta till om man vill minska möjligheterna att ha olika meningar.” Under vintern kom det ut två böcker om livets och skolans ritualer. Författaren Magnus Florins Syskonen och etnologen Jonas Frykmans Ljusnande fram- tid!. Florins berättelse börjar med att huvudpersonen och jag- berättaren som liten vandrar genom faderns apotek. Intres- set för apoteket gör att huvudpersonen ber att få sluta sko- lan för att i stället bli elev hos fadern. Det får han (för det är väl en han?) men bara på villkor att han fullföljer skol- kursen i latin, matematik och kemi. Dessa ämnen är säkert viktiga för en blivande farma- ceut. Särskilt de två första var också en gång huvudnumren i den så kallade formalbildningen. Den skulle träna eleverna i formellt tänkande utan tanke på innehåll och konsekven- ser. Av latinläraren i Florins berättelse får eleverna inpräntade de gamla romarorden om att upprepning är alla studiers moder. Av matematikläraren kan de lära sig att livet utan aritmetiken bara är en massa förskräckligheter och i kemin att allt som är helt och sammansatt kan sönder- delas i småbitar. Tiden som apotekselev fortskrider på denna formalisti- ska väg. Läxor och förhör, inprägling av bokstavskunskap och det enda rätta sättet att sköta sitt arbete. Läraktigt app- licerar berättaren metoden på sina nio syskon som han tar hand om och uppfostrar. Han övervakar och kontrollerar dem, återför dem till hemmet när de är ute på stan och gör egna erfarenheter, fostrar dem med sedelärande historier och pedagogiska lekar. När berättaren så småningom övertar apoteket, får sys- konen bli hans assistenter och det ritualiserade livet fort- sätter. En upprepning av mönstret sker när han byter yrke till jurist med specialisering på patenträtt där han får fort- sätta att formalisera tillvaron och bevaka stelnade gränser. Allt detta berättas i en torr och opersonlig stil och tecknar berättarens påvra liv. ”Den 8 oktober. Klibbiga löv på mar- ken. Nils hade namnsdag. Jag: − Gratulerar på namnsdagen, Nils.” Upprepningen och uppräkningen är de mest fram- trädande stilmedlen. De ritualer som syskonen snärjs i har ett välvilligt sken av att vara till allas bästa. Men de goda råden och reglerna är led i en härskarteknik som ibland låter klorna skymta. ”Jag: − Det är den 10 april. Ingvars namnsdag. Jag bjuder er alla på tårta. Alla måste vara med. Alla måste äta mycket av tårtan.” Gratulationerna och förmaningarna kräver un- derdånighet och förträngning av de egna behoven. En enda gång säger berättaren något om sig själv. Han delar in mänskligheten i jagmänniskor och sakmänniskor: ”För de förstnämnda har ting och händelser betydelse blott i den mån de utgör moment i deras eget jag. För sak- människan har tingen och händelserna betydelse i sig själva och hennes eget jag uppgår i dem. Jag tillhör otvivelaktigt sakmänniskorna.” Vad dessa prosaiska dagboksblad på ett hundratal sidor berättar om är rädsla. Huvudpersonen håller sig för det mesta vaken för att kunna kontrollera tillvaron. Sömnen lik- nar han vid en sorts förgiftning som han på olika sätt vill förhindra. Han klamrar sig vid dagens ritualer. Syskonen ägnar sig visserligen åt en symbolisk skändning av ritualer- na, men den är i själva verket lika ritualiserad. Sakmänniskan och hans nio syskon är förenade i en strindbergsk döds- dans. Ritualiseringen föder ett stereotypt uppror. Den skulle kräva ett effektivare motstånd. Det är en av de insikter som växer sig stark under läsningen av den korta romanen. Magnus Florins berättelse rapporterar om ritualer och är själv ritualiserad. Men genom sin torftighet föder den en växande oro över det moderna livets spelregler. Vilka irra- tionella och förkrympta herrar tjänar dessa ritualer? Några är klart synliga. Ritualerna blir en mekaniskt verkande form för att bevaka och bevara sakmänniskans makt och stan- dardisera hans mänskliga relationer. De hindrar jag- människan att sticka upp och skyddar mot kontakt med det egna själslivet och de egna erfarenheterna. Berättaren blir traditionens väktare som för ritualerna vidare och artikulerar de formelartade ”sanningarna”. Det förflutna kommer på så sätt att oreflekterat och schablon- mässigt styra nuet och organisera framtiden. Ritualerna i de gamla samhällena hade till uppgift att bekräfta kollektivets enighet om vissa grundläggande vär- den. De moderna ritualerna i Florins berättelse försöker också skapa enighet. Men de är förfärande tomma. Florins berättelse är allmänt hållen. Familjen, apoteket och juridiken kan ses som tecken för vilka livsområden och institutioner som helst. Men påfallande ofta är det bilden av skolan som inställer sig och de korthuggna anteckningarna påminner inte sällan om en intetsägande lärobok. Ritualer spelar också en viktig roll i Jonas Frykmans Ljusnande framtid!. Det är en bok om ”skola, social mo- bilitet och kulturell identitet” som det heter i undertiteln. Den är uppbyggd kring några enkla motsättningar. Huvud- tesen är att den gamla skolkulturen underlättade social rör- lighet medan en förment ny kultur hindrar elever från hem utan utbildningsbakgrund att skaffa sig högre utbildning. Den gamla skolan skulle ha bortsett från elevernas sociala och kulturella bakgrund. I skolan var de bara elever (utan bak- grund!) som skulle få nödvändiga kunskaper för ett fram- tida arbete. Inte nog med det, den gav dem också nya per- spektiv och överskridande insikter genom att vara strikt avskild från ”verkligheten” och annorlunda än allt annat som eleverna upplevde i sina liv. Den gamla skolan karakteriserar Frykman som en plugg- skola med ett fast regelverk, sträng disciplin, gemensamma ritualer och formaliserad kunskapsförmedling. Den nya skol- kulturen under 80- och 90-talet skulle däremot vara infor- mell, invaderad av verklighet och avritualiserad. Där ska man lära sig att bli människa. Elevernas kulturella identitet är material i undervisningen och deras kulturella bakgrund är föremål för ständig bearbetning, skriver han. 11 Frykmans bok tar förvisso upp reella problem men re- sonemangen är svaga och utvecklingsperspektiven depri- merande. De problem han behandlar har att göra med att samtidens stora kulturella förändringar slår in i skolan med full kraft. Varje dag ska skolan hantera en öppen, hetero- gen kultur. Den extrema individualiseringen och traditions- upplösningen utmanar hela tiden skolan. En utbredd instru- mentell syn på skolan som tillväxtmotor i samhällsekono- min gör det svårt att förverkliga idéerna om mänsklig och medborgerlig bildning. Problemen handlar om att skolan inte kan vara en avskild, åldrig delkultur − som Frykman tycks tro. Tanken att den traditionella pedagogiken genom sin di- sciplin, auktoritära kunskapsförmedling och sina ritualer föder ett fruktbart motstånd och överskridande insikter hos eleverna, kan Frykman inte på något sätt stödja med några belägg. Det förefaller troligare att Anthony Giddens har rätt och att formalisering och ritualisering snarast minskar möj- ligheterna att ha olika meningar. Vad Frykman bland annat är ute efter är den dolda pe- dagogikens svagheter. De är uppenbara och har livligt dis- kuterats sedan dialogpedagogiken och den dolda läropla- nen blev aktuella på 70-talet. På den punkten håller man gärna med honom. Det är problematiskt med en undervisning som inte visar sina kort för eleverna utan låtsas att den är helt och hållet fri och öppen. Men problemet med Frykmans bok är att den bara ger oss två valmöjligheter: antingen en återgång till en auktori- tär synlig pedagogik eller en fortsatt ”ständig bearbetning av elevernas kulturella bakgrund”. Frykman laborerar alltså med samma ofruktbara uppdelning i sak- och jagmänniskor som Florins apotekare. Den utesluter varje produktiv kopp- ling mellan elevernas egna erfarenheter och olika relevanta kunskapsfält. Ett i sanning hopplöst utvecklingsperspektiv. Det betyder att vi skulle ge upp arbetet på en skola med en synlig pedagogik inriktad mot humanitet, reflexion och de- mokrati. ”Vi förstår att en bestämd ordning måste råda på ett apotek”, säger syskonen i Florins berättelse. ”Men måste allting hända på samma sätt hela tiden? Det är så mycket som känns enahanda. Vi blir sömniga.” Har etnologen Jo- nas Frykman glömt att människor oftast faller i sömn av tomma ritualer och enahanda kunskapsförmedling?       Jan Thavenius Uppgifter till PEDAGOGIKENS RITUALER",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Vad framstår utifrån texten som den rimligaste anledningen till att textförfattaren tar upp Florins och Frykmans böcker samtidigt? A Han vill visa att Frykmans recept för skolan kan leda till den typ av liv som skildras i Florins bok. B Han vill poängtera att både Frykman och Florin på olika sätt vill beskriva skolan med liknelsens form. C Han vill visa att Frykmans betoning på disciplin måste kombineras med Florins kultursyn. D Han vill betona att Frykmans bildningsideal likt Florins bok är en litterär konstruktion.",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Vilket svarsförslag beskriver bäst det förhål- lande som, av textförfattarens beskrivning att döma, råder mellan innehåll och form i Magnus Florins berättelse? A Överensstämmelse B Oförenlighet C Konkurrens D Föränderlighet",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vilken tanke ligger enligt textförfattaren bakom Frykmans försvar av den gamla skolan? A Att den gamla skolan tillämpade en dold pedagogik som gynnade de kunskapstörstande eleverna. B Att skolan som institution fungerade som samhället i övrigt. C Att denna typ av skola gav barn från samhällets lägre grupper en bättre chans än dagens skola gör. D Att en verklig kunskapsinlärning måste ske i sam- verkan mellan skola, hem och samhälle.",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    }
+]

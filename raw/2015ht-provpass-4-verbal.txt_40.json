@@ -1,0 +1,481 @@
+[
+    {
+        "question": "",
+        "options": [
+            "utsträckt",
+            "enformig",
+            "unik",
+            "tillfällig",
+            "löpande"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "nisch",
+        "options": [
+            "brytpunkt",
+            "avstickare",
+            "specialområde",
+            "alternativ",
+            "mönster"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "käbbla",
+        "options": [
+            "reta",
+            "klaga",
+            "störa",
+            "härja",
+            "gräla"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "föreskrift",
+        "options": [
+            "bestämmelse",
+            "intyg",
+            "förslag",
+            "inledning",
+            "överenskommelse"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "i gåsmarsch",
+        "options": [
+            "i rad",
+            "på rymmen",
+            "i rask takt",
+            "med jämna steg",
+            "under stök och bök"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "exil",
+        "options": [
+            "främlingskap",
+            "landsflykt",
+            "utegångsförbud",
+            "krigstillstånd",
+            "utvandring"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "undergräva",
+        "options": [
+            "förbereda",
+            "missbedöma",
+            "avslöja",
+            "försvaga",
+            "etablera"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "installation",
+        "options": [
+            "invigning i ämbete",
+            "handläggning",
+            "inställd föreställning",
+            "positionsmarkering",
+            "inlärningsprocess"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "gastronomi",
+        "options": [
+            "vältalighet",
+            "stjärntydning",
+            "finare matlagning",
+            "läkemedelslära",
+            "spådomskonst"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "stipulerad",
+        "options": [
+            "föråldrad",
+            "inspirerad",
+            "fastställd",
+            "rangordnad",
+            "förväntad – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Av texten framgår att synen på visan Calle Schewens vals genomgått en förändring sedan den skrevs. Hur kan man beskriva denna förändring?",
+        "options": [
+            "Visan har alltid varit omtyckt men är numera i stort sett bortglömd.",
+            "Visan utgick från ett då aktuellt sammanhang, men själva grundtematiken har blivit otidsenlig.",
+            "Visan skildrade en specifik händelse men har efter hand fått en universell betydelse.",
+            "Visan har alltid ansetts vemodig men har med tiden hyllats för sin livsbejakande tematik."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Ger texten någon förklaring till att det finns så många versioner av hur Calle Sche- wens vals kom till?",
+        "options": [
+            "Ja, skrönor är en del av livet på skärgårdsöarna.",
+            "Ja, Carl Schewen drog sig undan och behöll sanningen för sig själv.",
+            "Ja, tillkomsten skedde vid ett händelserikt tillfälle.",
+            "Nej, någon sådan förklaring ges inte i texten. Calle Schewen"
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Vilken risk med alkoholkonsumtion lyfts allt oftare fram, enligt texten?",
+        "options": [
+            "Risken för sjukdomar och andra kroppsliga följdverkningar.",
+            "Risken för en alltför stor acceptans av måttlig- hetsbruk.",
+            "Risken för att alkoholmissbruk kombineras med tyngre droger.",
+            "Risken för att alkoholproblemet inte formuleras korrekt."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Vilken kritik av det förebyggande arbetet mot ungdomars alkoholkonsumtion fram- förs av textförfattaren?",
+        "options": [
+            "Att antalet larmrapporter blivit alltför stort.",
+            "Att åtgärder mot ungdomars missbruk är eftersatta.",
+            "Att åtgärdsarbetet inte är tillräckligt selektivt och fokuserat.",
+            "Att ingen skillnad görs mellan bruk och missbruk. Alkoholproblemet"
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Vilket grundläggande problem kretsar texten kring?",
+        "options": [
+            "Det faktum att miljöpåverkan omöjligt kan mätas genom människors hälsa.",
+            "Det faktum att EU-reglerna förhindrar politiker att ta fram nationella riktlinjer.",
+            "Det faktum att ett regelverk i praktiken tillåter brott mot ett annat.",
+            "Det faktum att politikerna säger en sak för att sedan göra något helt annat."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Vad är, av texten att döma, det bakom- liggande syftet med EU:s läkemedels- lagstiftning?",
+        "options": [
+            "Att på EU-nivå koppla ihop hälsofrågor med miljökrav.",
+            "Att underlätta läkemedelshandeln inom EU- området.",
+            "Att skapa frivilliga nationella miljöklassificerings- system.",
+            "Att samordna tillverkningen av läkemedel inom EU."
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vad blev följden av 1990-talets jämställd- hetssatsningar för de tekniska högskole- utbildningarnas del, enligt texten?",
+        "options": [
+            "Antalet män ökade men könsfördelningen utjämnades.",
+            "Antalet kvinnor ökade men könsfördelningen förblev ungefär densamma.",
+            "Antalet män ökade inte lika mycket som antalet kvinnor.",
+            "Antalet kvinnor ökade tillfälligt men minskade sedan igen."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Vad är enligt texten en viktig orsak till att många inom den beskrivna datautbildning- en inte vill förändra utbildningens manligt dominerade kultur?",
+        "options": [
+            "De är rädda om utbildningens och hela data- vetenskapens identitet.",
+            "De anser att kvinnor och män i vissa avseenden inte talar samma språk.",
+            "De ser problemen på utbildningen som en fråga mer om arbetsmiljö än om genus.",
+            "De pekar på att de kvinnliga studenterna på utbildningen faktiskt blir fler."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Vilken invändning har textförfattaren mot Ersons bok?",
+        "options": [
+            "Att de språkvetenskapliga partierna av Ersons analys är något svårtillgängliga.",
+            "Att Ersons resultat i stort sett endast bekräftar sådant som någorlunda insatta läsare redan ",
+            "Att Erson tar avstånd från tanken att även män skulle kunna ogilla en mansdominerad kultur.",
+            "Att Erson inte tillräckligt tydligt visar på vilket sätt hennes resultat är relevant även för andra "
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Vad är enligt textförfattaren en tänkbar orsak till att teknikutbildningarna har svårt att rekrytera studenter av båda könen?",
+        "options": [
+            "Osämjan mellan män och kvinnor på utbildning- arna.",
+            "De många männen på utbildningarna.",
+            "Satsningarna på ökad jämställdhet mellan män och kvinnor.",
+            "Den manliga kulturen på utbildningarna. – 8 –"
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Flertalet av oss har materiella tillgångar i rikliga mått. Men trots alla dessa yttre tecken på ____ upplever förbluffande många av oss tomhet, rotlöshet och rastlöshet i stället för tillfredsställelse.",
+        "options": [
+            "måttfullhet",
+            "välfärd",
+            "inflytande",
+            "materialism"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "Nästan ännu värre är den vårdslösa försvenskningen av diagnosen artros till ”för- slitning”, vilken är fullständigt inkorrekt och leder tankarna åt helt fel håll. I själva verket förhåller det sig precis tvärtom: ____, och hela kroppen för övrigt, byggs snarare upp av ____, även krävande sådan.",
+        "options": [
+            "en människa – träning",
+            "en led – aktivitet",
+            "ett hjärta – hög puls",
+            "ett skelett – benmassa"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Vatten förekommer på jordklotet i form av vätska, is och ånga. Dessa former ingår i ett känsligt samspel inom ett mycket _____ temperaturintervall betingat av avståndet från solen. Ingen annan planet i vårt solsystem har ett så _____ läge. Vattnets krets- lopp, den _____ cykeln, är en förutsättning för allt liv på jorden.",
+        "options": [
+            "snävt – gynnat – hydrologiska",
+            "marginellt – isolerat – ekologiska",
+            "beskuret – bestämt – planetariska",
+            "ovanligt – unikt – atmosfäriska"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Trots avhandlingens förtjänster kvarstår, enligt min mening, kravet på en ____ forsk- ningsfråga som ger riktning och konkretion åt kunskapssökandet, och åt ____ av denna process. Åtminstone i en studie som vill tala om den svenska dagboksromanen i bestämd form.",
+        "options": [
+            "självkritisk – uppsamlandet",
+            "övergripande – redovisningen",
+            "retrospektiv – framskridandet",
+            "dominerande – syftningen"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Vi vänder oss särskilt till kvinnor som funderar på att bli företagare, eller som redan är företagare och vill utvecklas vidare. Vi vill även nå dem som på olika sätt arbetar med att ____ kvinnors företagande på exempelvis länsstyrelserna eller i projekt ute i landet.",
+        "options": [
+            "förkovra",
+            "driva",
+            "engagera",
+            "främja"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Stödinsatserna för socialt sårbara ungdomar bestäms i inte så ____ grad av i vilken kommun man råkar bo. Likvärdighetsprincipen är därmed ____ ur spel.",
+        "options": [
+            "ringa – satt ",
+            "måttlig – tagen",
+            "ansenlig – lämnad",
+            "omfattande – förd"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Att dramats huvudkaraktär inte vågar stå för att det var hon som bar skulden till missödet tycker jag understryker det allmänt mänskliga: att vår rädsla för att tappa ____ är mycket starkare än våra värderingar.",
+        "options": [
+            "huvudet",
+            "balansen",
+            "hakan",
+            "ansiktet"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Spåtrumman var ett heligt instrument i den ____ samiska religionen. Endast nåjden kunde använda ceremonitrumman för att med hjälp av trumljudet ____ och i detta tillstånd företa resor till andra världar eller andra trakter i vår värld.",
+        "options": [
+            "samtida – se in i framtiden",
+            "offentliga – finna ny kunskap",
+            "förkristna – komma i extas",
+            "profana – nå evig frid"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Eleverna får visserligen lära sig hur demokratin fungerar i samhället och hur riksdags- val går till. Däremot är det väldigt lite av demokrati, delaktighet och ____ inflytande i klassrummet.",
+        "options": [
+            "ideellt",
+            "speciellt",
+            "reellt",
+            "partiellt"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "Selma Lagerlöfs 1910-talsromaner har en mer ____ form än hennes tidigare verk med deras episka rymd. Det glansfulla och ____ ersätts av anspråkslösare miljöer befolkade av socialt utsatta människor. ____ blir mer intim och dialektnära.",
+        "options": [
+            "lyrisk – exalterade – Språkkänslan",
+            "svulstig – facila – Texten ",
+            "reducerad – heroiska – Stilen",
+            "grundad – spektakulära – Handlingen"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "31.",
+        "options": [
+            "recommended",
+            "committed ",
+            "attributed",
+            "forbidden "
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "32.",
+        "options": [
+            "accordingly ",
+            "potentially ",
+            "substantially",
+            "increasingly"
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "33.",
+        "options": [
+            "refers to ",
+            "deals with ",
+            "rules out",
+            "comes to "
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "34.",
+        "options": [
+            "superior ",
+            "equal ",
+            "inferior ",
+            "distant "
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "35.",
+        "options": [
+            "mechanisms",
+            "ingredients ",
+            "benefits ",
+            "drawbacks – 11 – FORTSÄTT PÅ NÄSTSID»",
+            "good illustration of the lack of research underpinning much forensic science is the use by the FBI of an esoteric "
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "What is the main focus of the first two paragraphs?",
+        "options": [
+            "The scientific basis of forensics has been greatly extended in recent years.",
+            "Those practising forensic science do not seem to realize its limitations. ",
+            "Forensic evidence is often played down in criminal investigations.",
+            "The public are getting a false picture of what forensics is really like. "
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "What is implied about the courts in relation to forensic evidence?",
+        "options": [
+            "Their scientific competence is now considerably greater than it used to be. ",
+            "They are fully aware of the shaky reputation of forensic experts in general.",
+            "Their scientific ignorance makes them rely too much on outdated research.",
+            "They tend to put too much trust in witnesses claiming expertise in forensics. "
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "What is said about the use of fingerprint evidence in court?",
+        "options": [
+            "No one can say for sure how much it should be depended on as proof. ",
+            "Research has demonstrated that it is far less exact than DNanalysis.",
+            "Scientific investigations of its efficiency have drawn different conclusions.",
+            "Experience has shown that it may be regarded as foolproof."
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What is argued about the FBI in connec- tion with forensics?",
+        "options": [
+            "It has always been careful not to overuse forensic material as evidence in court.",
+            "Its use of comparative bullet lead analysis was based on careful chemical research. ",
+            "It has been slow to test the validity of forensic evidence by scientific methods. ",
+            "Its refusal to question current fingerprinting practice is well justified."
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

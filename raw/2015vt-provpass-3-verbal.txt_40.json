@@ -1,0 +1,482 @@
+[
+    {
+        "question": "",
+        "options": [
+            "tänkbar",
+            "överdriven",
+            "trotsig",
+            "förträfflig",
+            "avsiktlig"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "signalement",
+        "options": [
+            "förklaring",
+            "underrättelse",
+            "varning",
+            "stämpel",
+            "beskrivning"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "kontrastera",
+        "options": [
+            "motarbeta",
+            "dra ihop",
+            "återkalla",
+            "säga emot",
+            "bilda motsats"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "talg",
+        "options": [
+            "skal",
+            "hud",
+            "fett",
+            "frö",
+            "hår"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "snart sagt",
+        "options": [
+            "så gott som",
+            "som väntat",
+            "vanligtvis",
+            "återkommande",
+            "i bästa fall"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "eklips",
+        "options": [
+            "soluppgång",
+            "omloppsbana",
+            "stjärnfall",
+            "förmörkelse",
+            "spiralform"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "inmundiga",
+        "options": [
+            "sucka",
+            "äta",
+            "andas",
+            "bita",
+            "tystna"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "aktualitet",
+        "options": [
+            "information",
+            "åsikt",
+            "principfråga",
+            "nyhet",
+            "allmänbildning"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "krum",
+        "options": [
+            "böjd",
+            "svag",
+            "grym",
+            "hård",
+            "kort"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "tirader",
+        "options": [
+            "övernaturliga händelser",
+            "mångordiga yttranden",
+            "förutfattade meningar",
+            "genomskinliga lögner",
+            "tråkiga nyheter – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vilket av följande har enligt texten varit huvudmålet med Peter Halldins forskning?",
+        "options": [
+            "Att undersöka från vilken fallvinkel de flesta av de livshotande olyckorna sker.",
+            "Att studera filmupptagningar av verkliga fall- olyckor.",
+            "Att få hjälmar att ta upp en större mängd energi.",
+            "Att rekonstruera omständigheterna bakom de verkliga fallolyckorna."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Framgår det av texten vilken typ av fall- olyckor Peter Halldin framför allt utgått från i sin forskning?",
+        "options": [
+            "Ja, filmade olyckor.",
+            "Ja, MC-olyckor.",
+            "Ja, alla sorters trafikolyckor.",
+            "Nej, det framgår inte. Hjärnskador och hjälmar"
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "I vilken av följande frågor hade Elektriker- förbundet och arbetsgivarparten tydligt motsatta åsikter?",
+        "options": [
+            "I frågan huruvida socialtjänstlagens undantag gällde för praktikanten.",
+            "I frågan huruvida företaget Bravida omfattades av kollektivavtalet.",
+            "I frågan huruvida det var Elektrikerförbundet eller Bravida som bröt mot kollektivavtalet.",
+            "I frågan huruvida praktikanten utförde arbete i strid med kollektivavtalet."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Vilket av Elektrikerförbundets argument hade AD inga invändningar mot?",
+        "options": [
+            "Argumentet att företaget inte hade något behov av praktikanter eftersom man redan hade ",
+            "Argumentet att praktik måste räknas som arbete eftersom företaget tillämpat kollektivavtalet.",
+            "Argumentet att den typ av arbetsuppgifter som praktikanten utförde enligt reglerna bara får ",
+            "Argumentet att praktikanten borde ha anställts av företaget eftersom han inte fått lön och "
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Vilken samlad effekt av förändringarna i den svenska skolan lyfter textförfattaren särskilt fram?",
+        "options": [
+            "Att läraren har fått utökat ansvar för undervis- ningen och därmed en större arbetsbörda.",
+            "Att läraren har getts ett större mandat och därmed en mindre entydig roll.",
+            "Att lärarens insatser har blivit mer individanpas- sade och därmed svårare att mäta.",
+            "Att lärarens arbete har blivit mer utsatt för kontroll och därmed lättare att ifrågasätta."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Vad menar textförfattaren med att lärar- na förts ”bort från relevans och samman- hang”?",
+        "options": [
+            "Att de påtvingats uppgifter som mot bakgrund av deras läraruppdrag uppfattas som mindre ",
+            "Att det ständiga kravet på dokumentation inom skolan har inverkat negativt på deras ",
+            "Att de haft alldeles för mycket att göra för att kunna uppfylla de krav som reformerna ställer på ",
+            "Att friskolornas starka konkurrenskraft har tvingat dem att göra reklam för sina skolor i "
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vad ligger, av texten att döma, bakom det numera allt vanligare talet om ondska?",
+        "options": [
+            "Ondskan har synliggjorts genom en rad fasans- fulla händelser.",
+            "Medierna och det offentliga samtalet har gjort ondskan i sig till en förklaringsmodell.",
+            "Ondskan förekommer allt oftare som motiv inom litteratur och kultur.",
+            "Medierna och det offentliga samtalet domineras i allt högre grad av sensationsnyheter."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Vad skiljer enligt recensenten Johanssons bok om ondska från Heberleins?",
+        "options": [
+            "I Johanssons bok kommenteras inte att synen på ondska förändrats.",
+            "Johanssons bok är kritisk till hur ondskan hanterats i tidigare litteratur.",
+            "I Johanssons bok framstår ondskan som mer av ett individuellt fenomen.",
+            "Johanssons bok om ondska tycks sakna en uttalad avsikt."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Vilken kritik riktar recensenten mot såväl Johanssons som Heberleins bok?",
+        "options": [
+            "Ingen av böckerna vågar utmana den rådande individualiseringen av ondskan.",
+            "Ingen av böckerna tillför någon ytterligare kun- skap om ondska än den redan befintliga.",
+            "Ingen av böckerna har noterat att begreppet ondska fått ett nytt användningsområde.",
+            "Ingen av böckerna överskrider den vanliga tudelningen i ondska respektive godhet."
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Hur förhåller sig, enligt recensenten, He- berlein och Johansson till skönlitteraturen i sina respektive böcker om ondska?",
+        "options": [
+            "Heberlein diskuterar både klassisk och nyare litteratur medan Johansson endast skriver om ",
+            "Heberlein hävdar att litteraturen kan besvara våra frågor om ondska medan Johansson anser ",
+            "Heberlein menar att litteraturen har mycket att säga om ondska medan Johansson misstror just ",
+            "Heberlein behandlar endast litteratur som hand- lar om ondska medan Johansson menar att all "
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Eleverna på gymnasieskolan har svårt att få ____ för önskemålet att dra ner på tempot, och motiveringen är ”det här behöver ni för att läsa vidare”.",
+        "options": [
+            "opinion",
+            "gehör",
+            "verkan",
+            "utlopp"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "På landsvägen skrittar Jill oss till mötes på ____. Hon bjuder på ett honungsleende i prydliga flätor med citronfärgade rosetter som ____ den gula tröjan.",
+        "options": [
+            "en pinscher – passar",
+            "en edamer – framhäver",
+            "en skimmel – matchar",
+            "en habanero – förgyller"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Scenen utspelar sig en sommardag i San Francisco. En ____ gitarr ljuder i bakgrunden och två bollar, en röd och en gul, studsar nedför en sluttande gata. Snart följs de av fler ____ bollar. En mansröst sjunger en ballad, och en flodvåg av studsbollar, två- hundratusen stycken, ____ fram längs gatan.",
+        "options": [
+            "klassisk – studsande – flanerar",
+            "driven – anemiska – rullar",
+            "akustisk – kulörta – väller",
+            "basisk – färgglada – studsar"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Vid sidan av den i Lettland ____ sovjetiska partieliten utgjorde särskilt de anställda i den unionellt ledda industrin en gynnad grupp, medan kollektivjordbrukens medlemmar däremot var de sista att ____ sociala förmåner.",
+        "options": [
+            "aktiva – gå i bräschen för",
+            "verksamma – komma i åtnjutande av",
+            "förverkade – bli föremål för",
+            "existerande – vara i besittning av"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Rent allmänt gäller att ju kortare ett lösenord är, desto mer ____ bör det vara efter- som ett kort lösenord har få permutationer.",
+        "options": [
+            "elementärt",
+            "plausibelt",
+            "veritabelt",
+            "komplext"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Ambulanssjuksköterskor ser ____ tillsammans med sin kollega som en naturlig del av arbetet. Denna gör att de bearbetar upplevelserna och utvecklar sin självkänsla och sin yrkesmässiga mognad. Bra baskunskaper och regelbundna ____ övningar under- lättar rollen som medicinskt ansvarig.",
+        "options": [
+            "analys – triviala",
+            "reflektion – realistiska",
+            "observation – operativa",
+            "förberedelse – avancerade"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Somliga ____ menar att de lär sig åtskilligt om levnadsförhållandena för forntidens män och kvinnor genom att studera folk som fortfarande lever under omständigheter som liknar förhistoriska förhållanden.",
+        "options": [
+            "antropologer",
+            "kardiologer",
+            "geologer",
+            "histologer"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Alla delar av skelettet är ____, men styrketräning ökar bentätheten så att skelettet blir mer ____. Vad som sker rent konkret är att kroppen försvarar sig mot de belast- ningar som träningen ger genom att öka ____ av benmassa.",
+        "options": [
+            "porösa – massivt – produktionen",
+            "rörliga – flexibelt – avsöndringen",
+            "elastiska – uppbyggt – förtätningen",
+            "hårda – komprimerat – destruktionen"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Regeringens beslut att inte bygga ut Vindelälven för vattenkraft innebar ____ att svenska staten satte ett värde på älven motsvarande tiotals miljarder kronor. Beslutet att bevara älven ____ på dess rika natur- och kulturresurser, och det ekonomiska värdet understryker ytterligare älvens dignitet.",
+        "options": [
+            "i realiteten – grundades",
+            "rent teoretiskt – syftade",
+            "i genomsnitt – inverkade ",
+            "överraskande – fattades"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "Att det handlar om ett verkligt orsakssamband mellan genomförda besparingar och försämrad ekonomisk utveckling i dessa länder bekräftas när man jämför de prognoser som gjordes för några år sedan med ____.",
+        "options": [
+            "den statliga garantin",
+            "tidigare orsaker",
+            "det verkliga utfallet",
+            "bankernas låneräntor",
+            "ball spinning in a vacuum should never slow down, since no outside forces are acting on it. At least that is what "
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "What is the main point here?",
+        "options": [
+            "Butterflies are more vulnerable than most other insects. ",
+            "Britain has lost most of its butterflies in recent years due to pollution. ",
+            "Butterflies help us notice changes in the ecological system. ",
+            "Preying animals are important for our under- standing of the ecological system. "
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "What is said about the concept of “vacuum”?",
+        "options": [
+            "It is important in the production of automated vehicles. ",
+            "It is questioned in the theory of quantum mechanics. ",
+            "It is the term for the empty space discovered by Isaac Newton. ",
+            "It is one of the least researched phenomena in science.",
+            "review of Reading in the Brain by Stanislas Dehaene In his autobiographical Confessions, Saint Augustine of "
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "What is implied about reading in relation to the human brain?",
+        "options": [
+            "Reading has affected the structure of the brain in important ways.",
+            "The brain shows considerable individual varia- tion with regard to reading.",
+            "Reading developed due to fairly recent changes in brain anatomy. ",
+            "The brain had a potential for reading long before reading was invented."
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "What are we told about the brain’s “letterbox” area for reading?",
+        "options": [
+            "It is an area that was originally designed for other purposes. ",
+            "It was from the start closely related to more general communicative functions.",
+            "It developed early as a result of basic evolution- ary pressure.",
+            "It is part of the brain area specially involved in the human capacity for speech. "
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "Which of the following statements is most in keeping with the “neuronal recycling hypothesis”?",
+        "options": [
+            "The brain mainly functions in a fixed way but there is also room for certain modifications.",
+            "The tabula-rasa view of human nature has little or no relevance to it. ",
+            "The main evidence for the hard-wired-determin- ist view of human nature is to be found in our ",
+            "The ability to read has no obvious connection to specific properties of the brain. "
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "What is said concerning the relationship between the ability to read and its neurological origins?",
+        "options": [
+            "Reading has wiped out the function first asso ci- ated with its specific location in the brain.",
+            "Dehaene’s views on this are of great interest but hard to prove scientifically.",
+            "There are probably traces left of the brain’s power of recognizing visual clues about animals’ ",
+            "Dehaene appears to play down the genetic aspects of reading and tracking."
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "What is the reviewer’s overall impression of Stanislas Dehaene and his book?",
+        "options": [
+            "Dehaene is clearly more at home as a popular- science writer than as a researcher.",
+            "Besides being intellectually demanding, Dehaene’s way of presenting his arguments is characterized ",
+            "Dehaene frequently fails to do full justice to the complexity of the issues he discusses.",
+            "Although occasionally somewhat vague, Dehaene’s book is an enjoyable read and full of scientific "
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "What is suggested about politicians?",
+        "options": [
+            "They rarely admit to reductions prior to election. ",
+            "They tend to spend less on education than on health. ",
+            "They use artistic methods in their propaganda.",
+            "They often concentrate on cutbacks during political rallies."
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What are we told in this text?",
+        "options": [
+            "There are similarities between an individual’s problem solving abilities and writing style. ",
+            "There are signs that bloggers are becoming increasingly addicted to dopamine medication. ",
+            "Research has found that people who constantly talk are often also regular blog writers.",
+            "Researchers suggest that blogging in certain aspects can be compared to physical exercise. "
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

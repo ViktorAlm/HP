@@ -1,0 +1,480 @@
+[
+    {
+        "question": "",
+        "options": [
+            "slitstyrka",
+            "intelligens",
+            "uppsättning egenskaper",
+            "pålitlighet",
+            "motståndskraft"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "asymmetrisk",
+        "options": [
+            "föränderlig",
+            "olikformig",
+            "avvikande",
+            "missformad",
+            "oförenlig"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "haiku",
+        "options": [
+            "tibetansk strupsång",
+            "orientalisk solodans",
+            "japansk diktform",
+            "karibisk segelfarkost",
+            "västafrikansk trumma"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "tunnsått",
+        "options": [
+            "svagt",
+            "förminskande",
+            "glest",
+            "intetsägande",
+            "ojämnt"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "fontanell",
+        "options": [
+            "befruktad äggcell",
+            "del av struphuvud",
+            "salivutsöndrande körtel",
+            "mjukt ställe mellan skallben",
+            "skada på synnerv"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "generalisera",
+        "options": [
+            "nyansera",
+            "förenkla",
+            "överdriva",
+            "förtala",
+            "tillämpa"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "anspråkslös",
+        "options": [
+            "utfattig",
+            "förstummad",
+            "obildad",
+            "förminskad",
+            "blygsam"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "okvädingsord",
+        "options": [
+            "slagord",
+            "dialektord",
+            "skällsord",
+            "nonsensord",
+            "slangord"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "kommod",
+        "options": [
+            "odlingsbänk",
+            "kräldjur",
+            "förrådsbyggnad",
+            "ytterplagg",
+            "badrumsmöbel"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "utmäta",
+        "options": [
+            "ta i beslag",
+            "kritiskt granska",
+            "portionera ut",
+            "värdesätta",
+            "jämföra sig med – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vad kan man utläsa av texten, när det gäller den förändrade synen på lärarens roll?",
+        "options": [
+            "Att läraren förväntas syssla alltmer med upp- gifter utanför själva lärandet.",
+            "Att läraren allt oftare förväntas stå i centrum för hela lärandeprocessen. ",
+            "Att läraren förväntas ha en alltmer styrande och reglerande roll i klassrummet. ",
+            "Att läraren allt oftare förväntas använda språket utifrån en förnyad människosyn. "
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Vilken kritik riktar textförfattaren mot Johnstons och Schwartz böcker?",
+        "options": [
+            "De betonar i alltför hög grad det talade språket.",
+            "De bortser från elevernas upplevelse av under- visningen.",
+            "De tar inte tillräcklig hänsyn till lärarnas mins- kade status i skolan.",
+            "De behandlar klassrumssituationen som om den vore skild från resten av världen."
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Vilken omständighet tydde L.J. Igelströms musselfynd 1858 på, enligt texten?",
+        "options": [
+            "Att trakten under en längre period hade varit utsatt för en kraftig temperatursänkning.",
+            "Att trakten bara tillfälligt hade legat under istäcket.",
+            "Att trakten under en period hade stått under salthaltigt vatten.",
+            "Att trakten hade legat under is i minst 18 000 år."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Vad var, av texten att döma, orsaken till Yoldiahavets uppkomst?",
+        "options": [
+            "Ett varmare klimat.",
+            "Kraftig landhöjning.",
+            "Ett kallare klimat.",
+            "Skiktade vattenmassor."
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Vad syftar textförfattaren på när han skriver att den historiska indelningen av Östersjöstadierna är ologisk?",
+        "options": [
+            "Periodernas tidsindelning.",
+            "Periodernas ordningsföljd.",
+            "Periodernas betydelse.",
+            "Periodernas namn."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Hur kan man, utifrån hur det beskrivs i texten, bäst karakterisera Yoldiahavet?",
+        "options": [
+            "Som en smart genväg i den marinbiologiska historien.",
+            "Som ett plötsligt språng från salt- till sötvatten.",
+            "Som ett slumpartat avbrott i istäckets tillbaka- bildning.",
+            "Som en intressant parentes i Östersjöns utveckling."
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vilket av följande uttrycker bäst det som texten benämner ”kollektivt minne”?",
+        "options": [
+            "Ett folks gemensamma och föränderliga föreställ- ning om det förflutna.",
+            "Summan av de individuella minnen som ännu inte dokumenterats i någon form.",
+            "En teoretisk konstruktion som gör det möjligt att beskriva ett folks eller en nations historia.",
+            "Den historia som kan återskapas genom veten- skapssamhällets gemensamma forsknings- "
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Hur förhåller sig Pierre Nora till de fran- ska föregångarna inom forskningen om kollektivt minne, enligt recensenten?",
+        "options": [
+            "Han lovordar deras arbeten även om han anser att de är inaktuella.",
+            "Han erkänner de teoretiska framstegen men är kritisk till den konkreta tillämpningen.",
+            "Han framhåller deras inflytande och vidareut- vecklar vissa av deras tankar.",
+            "Han bejakar den tidigare forskningens resultat men är kritisk till slutsatserna. "
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Enligt Pierre Nora rådde i det förmoderna samhället ingen skillnad mellan historia och minne. Vilket problem leder det syn- sättet till, enligt recensenten?",
+        "options": [
+            "Att historievetenskapen vid den aktuella tiden framställs som tämligen outvecklad.",
+            "Att det förflutna framhålls på bekostnad av samtidshistorien.",
+            "Att miljön man minns och miljön man lever i inte uppfattas som samma sak. ",
+            "Att det kollektiva minnet blir beroende av ständig historisk förändring."
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Vad understryker recensenten med exem- plet från det kommunistiska Östeuropa?",
+        "options": [
+            "Att historieskrivningen ibland får styra det kollektiva minnet.",
+            "Att det kollektiva minnet inte alltid överensstäm- mer med verkligheten.",
+            " Att kollektivt minne och verklighet kan värderas olika i olika sociala grupper. ",
+            "Att historieskrivningen kan förlora sin trovärdig- het om den avviker från det kollektiva minnet."
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "På senare år har oroväckande många svenska deckarballonger stigit mot skyn, full- lastade med ohyggligheter. Berättelser om en ____ idyll där klassklyftor, egoism och ren ondska har ersatt det trygga folkhemmet.",
+        "options": [
+            "agiterad",
+            "krackelerad",
+            "simulerad",
+            "traderad"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "Ofta kräver personer att deras partner ska förstå och helst stödja en viss linje innan de vågar följa den. Därigenom kan partnern, genom att låta bli att förstå, hindra perso- nens utveckling. Men det är inte den andre som hindrar utvecklingen, utan personen själv, genom att ____ kontrollen över sitt liv. I gengäld får han eller hon någon att ____, nämligen sin partner.",
+        "options": [
+            "tillskansa sig – hålla i handen",
+            "ge akt på – dela ansvaret med",
+            "experimentera med – förlita sig på",
+            "frånhända sig – skylla på"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Bland samerna var dödligheten i smittkoppor betydligt ____ än bland den övriga befolkningen. Detta berodde ____ på att befolkningen utsattes för färre exponerings- tillfällen, dels på den inställning man hade till ____, nämligen att de gick att undkomma genom att man medvetet undvek situationer där smittorisk fanns.",
+        "options": [
+            "vanligare – antagligen – epidemier",
+            "högre – oftast – bakterier",
+            "lägre – dels – farsoter",
+            "allvarligare – även – sjukdomar"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Många lärare kan i dag vittna om hur de redan i förskoleklassen kan ____ elever som behöver stöd för att kunna lära sig grunderna och därmed senare kunna ____ skolans andra ämnen. Tyvärr saknar ofta lärarna resurser att sätta in stöd i ett tidigt skede.",
+        "options": [
+            "definiera – anpassa sig till",
+            "identifiera – tillgodogöra sig",
+            "negligera – få grepp om",
+            "engagera – söka förståelse för delprov mek – meningskomplettering"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Örnarna i området håller sig visserligen på ____ avstånd från varandra, men förefaller ändå samsas så länge det finns gott om mat.",
+        "options": [
+            "koncist",
+            "flyktigt",
+            "temporärt",
+            "behörigt"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Som medarbetare på denna tidning får jag många läsarmejl med ____ hur jag använder språket. Det är mestadels ganska trevligt, i alla fall när kommentarerna rör detaljer. Mer besvärande är de mejl vars innehåll kan ____ till frågan: ”Vad menar du egentli- gen?” Detta är också Steven Pinkers käpphäst: klarhet!",
+        "options": [
+            "invändningar mot – komprimeras",
+            "anvisningar om – konkluderas",
+            "synpunkter på – konfirmeras",
+            "korrigeringar av – komplimenteras"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Olika forskningsstiftelser gör visserligen ____ insatser för att främja unga forskares villkor, men det kan aldrig ersätta universitetens ansvar.",
+        "options": [
+            "anspråkslösa",
+            "godtyckliga",
+            "berömvärda",
+            "erbarmliga"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Älvens ____ är ett eldorado för flyttande fåglar. Här skapar ____ och sedimentations- processer kontinuerligt nytt, ____ land som stiger upp ur älvens vatten.",
+        "options": [
+            "utflöde – dränering – stenrikt",
+            "slätter – översvämningar – naturskönt",
+            "delta – landhöjning – jungfruligt",
+            "stränder – utgrävningar – bördigt"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Det var inte min direkta tanke att skriva en artikel om det men absolut att ta reda på hur restaurangen fungerade, av ren nyfikenhet. Efter en vecka tog jag i alla fall kontakt med media. Jag var inte säker på att det var rätt att ____, men jag kände att jag måste stanna kvar för att få veta mer om missförhållandena.",
+        "options": [
+            "geocacha ",
+            "wallraffa",
+            "flashmobba",
+            "plagiera"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "Man kan förmoda att Johans fritid även fortsättningsvis kommer att färgas av det som idag utgör hans ____ arbete. En inte helt ovanlig situation för folk som ____ ett djupt och engagerande specialintresse.",
+        "options": [
+            "ordinarie – när",
+            "parallella – gör",
+            "offentliga – drar",
+            "artificiella – gror"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "What can be concluded from this text?",
+        "options": [
+            "Acacia trees in Eastern Africa are becoming increasingly vulnerable to large animals. ",
+            "There are many more different types of ants in Africa than previously believed.",
+            "East African ants are more reluctant to leave their habitat than most other ants.",
+            "The bigheaded ant seems to prefer the same type of food as elephants and giraffes."
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "What is implied in relation to religiosity in this text?",
+        "options": [
+            "Children seem to be genetically disposed to religious belief.",
+            "Religious feelings are beyond the reach of scientific research.",
+            "Inherited personality factors influence our religious views.",
+            " Environmental factors crucially determine a person’s long-term faith. "
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "What is the main point in the first two paragraphs?",
+        "options": [
+            "Too much attention is often paid to the purely physical aspects of corporate leadership.",
+            "Silverbacked male gorillas rule their flocks in surprisingly human ways. ",
+            "Outward appearance and behavior play a major role in both gorilla and human leadership. ",
+            "The mental qualities of prominent chief execu- tives tend to be downplayed."
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "Which of the following statements is most in line with the text?",
+        "options": [
+            "Unconventional types of bosses almost out- number more traditional ones.",
+            "The old image of the typical CEO is being increasingly challenged. ",
+            "There appears to be a shortage of creative minds in many innovative firms.",
+            "Women still find it difficult to make it to the top of the corporate world. "
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "What is implied about women leaders?",
+        "options": [
+            "Their capacity for hard work has been much appreciated in a male-dominated environment. ",
+            "They often have to fight sexist prejudice among their employees. ",
+            "Their personal style differs greatly from that of most male CEOs. ",
+            "They appear to have some choice in how they present themselves. "
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "“But the risk is that this ends in tokenism rather than a genuine equalising of oppor- tunity.” What does this imply in the con- text of the argument?",
+        "options": [
+            "Equality at the expense of formal competence is a legitimate goal.",
+            "Leaders may be selected merely as representa- tives of a certain group. ",
+            "The lack of real equality among corporate leaders is hardly a problem.",
+            "Personal qualifications should not overrule group representativeness."
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "What is the point of including Oscar Wilde’s quotation at the end of the article?",
+        "options": [
+            "To demonstrate the foresight of a voice from the past.",
+            "To illuminate the difficulty of finding suitable bosses.",
+            "To criticize today’s use of outdated leadership criteria. ",
+            "To argue that looks may not always be misleading."
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "What is implied here about Andris Nelsons?",
+        "options": [
+            "He may experience some difficulty adjusting to the traditions of the BSO. ",
+            "His age was the most important factor in his new appointment. ",
+            "He may lack the experience needed to lead one of America’s top orchestras. ",
+            "His new job was due not only to his eminent musical qualifications. "
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What does the text say about teenage brains in comparison with adult brains?",
+        "options": [
+            "They are as a rule more complex.",
+            "Their proportion of gray matter tends to be larger. ",
+            "They are in general somewhat faster.",
+            "Their relative lack of white matter makes them more predictable."
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

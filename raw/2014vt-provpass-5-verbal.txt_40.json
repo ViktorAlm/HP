@@ -1,0 +1,482 @@
+[
+    {
+        "question": "",
+        "options": [
+            "försköna",
+            "bevisa",
+            "markera",
+            "belysa",
+            "påpeka"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "kaki",
+        "options": [
+            "bränt lergods",
+            "modellteckning",
+            "turkisk maträtt",
+            "kortbyxor",
+            "sandfärgat tyg"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "som en löpeld",
+        "options": [
+            "ivrigt",
+            "smidigt",
+            "oavbrutet",
+            "livligt",
+            "snabbt"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "reminiscens",
+        "options": [
+            "svag minnesbild",
+            "avkoppling",
+            "försynt anmärkning",
+            "tillåtelse",
+            "upprepad tillsägelse"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "innevarande",
+        "options": [
+            "omgiven",
+            "pågående",
+            "tillhörande",
+            "modern",
+            "vilande"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "delirium",
+        "options": [
+            "raseriutbrott",
+            "svimningsanfall",
+            "förvirringstillstånd",
+            "besatthet",
+            "handlingsförlamning"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "avpollettera",
+        "options": [
+            "avrunda",
+            "skicka iväg",
+            "undvika",
+            "glömma bort",
+            "avråda"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "konventioner",
+        "options": [
+            "sociala regler",
+            "nedskärningar",
+            "frågeställningar",
+            "svårigheter",
+            "oväntade effekter"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "förorättad",
+        "options": [
+            "angiven",
+            "bekymrad",
+            "missförstådd",
+            "sårad",
+            "tillrättavisad"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "antologi",
+        "options": [
+            "textsamling",
+            "motsägelse",
+            "kulturstudie",
+            "folklivsforskning",
+            "kunskapsteori – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vad gör den svenska EU-översättarens uppgift särskilt besvärlig, enligt texten?",
+        "options": [
+            "Det tidskrävande i att anpassa originaltexten till svensk lagstiftning.",
+            "Det komplicerade i att vara trogen originalet och samtidigt skriva förståeligt.",
+            "Det tvivelaktiga i att offra originalets exakthet av språkliga hänsyn.",
+            "Det svåra i att förena de olika experternas mot- stridiga intressen."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Vad är det textförfattaren särskilt upp- skattar med den nya versionen av Social- styrelsens vävnadsföreskrifter?",
+        "options": [
+            "Att den anpassats till svenska lagar.",
+            "Att den bättre motsvarar förordningens ur- sprungliga ambitioner.",
+            "Att den är språkligt enkel och begriplig.",
+            "Att den tillkommit genom ämnesövergripande expertmedverkan. "
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Har Anders Johnson, enligt texten, någon uttalad avsikt med sin bok, och i så fall vilken?",
+        "options": [
+            "Ja, att undersöka och berätta en försummad invandrarhistoria.",
+            "Ja, att motverka myten om en modern svensk identitet.",
+            "Ja, att bemöta invandrarfientliga attityder och strömningar.",
+            "Nej, någon uttalad avsikt framgår ej av texten."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Vad uppskattar recensenten särskilt med boken?",
+        "options": [
+            "Författarens egen historia och bakgrund.",
+            "De oväntade slutsatserna.",
+            "Den lättillgängliga framställningen.",
+            "Ämnet och dess aktualitet. Invandring bygger landet"
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Hur skiljer sig arbetet med de listade ar- terna från övrig naturvård, enligt texten?",
+        "options": [
+            "De ekonomiska resurserna för det är större och mer riktade mot klart definierade miljöer.",
+            "Det har generellt varit mer framgångsrikt än det övriga naturvårdsarbetet.",
+            "Det innebär att övergripande levnadsmiljöåtgär- der genomförs i fler områden.",
+            "Det sköts i huvudsak av länsstyrelserna medan övrig naturvård sköts av Naturvårdsverket."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Vad var anledningen till att det dröjde innan Naturvårdsverkets arbete med hotade arter kom igång på allvar?",
+        "options": [
+            "Man hade inte tillräckligt kartlagt artförlusterna.",
+            "Man saknade länge konkreta beslut uppifrån.",
+            "Man avvaktade besked från länsstyrelserna.",
+            "Man saknade tillgång till ÅGP-pengarna. Hotade arter"
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vilken av följande ambitioner har Lönn- roth, enligt recensenten, när han analyse- rar Bellmans diktning?",
+        "options": [
+            "Att hitta kopplingar mellan motiven i dikterna och händelser i Bellmans egen tid.",
+            "Att klarlägga vilka inspirationskällor och litterära förebilder Bellman haft.",
+            "Att tolka mer svårfångade dimensioner och djupliggande betydelser i dikterna.",
+            "Att beskriva hur dikterna konstruerats i form- mässigt och tekniskt avseende."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Vad av följande saknar recensenten i Lönn- roths bok?",
+        "options": [
+            "Tydligare hänvisningar till annan forskning.",
+            "Ett källkritiskt förhållningssätt.",
+            "Högre grad av vetenskaplig komplexitet.",
+            "Mer textnära tolkningar."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Hur kan man enligt Lönnroth bäst beskri- va 1700-talsdiktningen?",
+        "options": [
+            "Som känsloneutral.",
+            "Som samhällstillvänd.",
+            "Som oförutsägbar.",
+            "Som situationsanpassad."
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Vilken begränsning ser recensenten i Lönnroths tolkning av Bellmans epistel nr 82?",
+        "options": [
+            "Lönnroth förlorar sig i alltför många detaljer.",
+            "Lönnroth bortser från det historiska samman- hanget.",
+            "Lönnroth förankrar inte tolkningen vetenskapligt.",
+            "Lönnroth intresserar sig inte för textens mång- bottnade karaktär."
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Ett exempel på sådan forskning är en svensk studie där unga kvinnors och mäns föräldraidentifikation och yrkesval följts över flera decennier och bland annat ____ till politiska förändringar i omvärlden.",
+        "options": [
+            "resignerats",
+            "refererats ",
+            "relaterats",
+            "reformerats"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "Till presskonferensen kommer hon försenad och jetlaggad, men ____ och professio- nell. När vi sedan träffas i ett så ____ som på stolarna tomt, vitmålat rum säger hon generat att hon inte vet om hon har varit i Sverige förut.",
+        "options": [
+            "skärpt – där",
+            "seriös – gott",
+            "artig – när",
+            "stel – ovanligt"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Det är känt att ____ fler länder som skaffar sig massförstörelsevapen, desto större är risken att något går snett. Det finns flera tänkbara ____ som förr eller senare riskerar att göra sig påminda, såsom missförstånd, statskupper, terrorism och brist på ____.",
+        "options": [
+            "ju – faktorer – omdöme",
+            "desto – möjligheter – resurser",
+            "när – problem – förnuft",
+            "ifall – scenarier – kunskap"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Som elvaåring gjorde jag ett allvarligt försök att åstadkomma moralisk och ____ upp- väckelse i mitt förslappade och sekulariserade grannskap. Påsken närmade sig och jag upprördes mycket över att ingen verkade ____ påskens egentliga budskap en tanke.",
+        "options": [
+            "religiös – ägna",
+            "profan – skänka",
+            "andlig – delge",
+            "politisk – hedra"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Stephen Jay Goulds resonemang mynnar i ett kraftfullt avvisande av all ____, av alla påståenden om att utvecklingen och historien bara kan ta en väg och finna ett mål.",
+        "options": [
+            "determinism",
+            "nihilism",
+            "idealism",
+            "elitism"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Statskuppen i juni 2009 var viktig eftersom det var första gången på många år som en statschef ____ av militär i Latinamerika. Demokratin har förvisso förankrats i regio- nen det senaste decenniet, men kuppen blottlade hur ____ denna utveckling är och att det finns kvar en spänning mellan demokratiförespråkare och representanter för gamla tiders ____ oligarkier.",
+        "options": [
+            "störtades – skör – koloniala",
+            "tillsattes – långsam – pluralistiska",
+            "undanröjdes – stark – matriarkala",
+            "erkändes – viktig – parlamentariska"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Bourdieus inträngande teoretiska diskussioner angående denna fråga löper genom hela boken ____ med de ____ undersökningarna.",
+        "options": [
+            "växelvis – implicita",
+            "kontrasterande – primära",
+            "tillsammans – disponibla",
+            "parallellt – empiriska"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Många av våra fjällväxter löser detta problem genom att fortplanta sig ____, genom groddknoppar, utlöpare eller sidoskott.",
+        "options": [
+            "geologiskt",
+            "homogent",
+            "sporadiskt",
+            "vegetativt"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Utbudet av högre utbildning och övriga kompetensinsatser behöver stimuleras i Vindelälvdalen för att skapa stärkta förutsättningar, ____ och innovationer för det småskaliga näringslivets utveckling och i utbudet av samhällsservice. Detta ger i sin tur förutsättningar för ____ på så sätt att ortens invånare väljer att inte flytta därifrån eller att människor utifrån ser möjligheter att bosätta sig i området.",
+        "options": [
+            "sysselsättning – minskad arbetslöshet",
+            "kunskap – ökat medborgarinflytande",
+            "utbyggnad – minskad utlokalisering",
+            "nytänkande – ökat befolkningsunderlag"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "Det är precis detta fenomen som ligger bakom alla de motionsgrupper som under senare år bildats för ____ som haft hjärtinfarkt.",
+        "options": [
+            "respondenter",
+            "konvalescenter",
+            "anförvanter",
+            "simulanter",
+            "few individuals, including some serious researchers, have argued that the Sivapithecus lineage of great apes from which the orangutan arose has "
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "31.",
+        "options": [
+            "structure",
+            "descendant ",
+            "standard",
+            "competition"
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "32.",
+        "options": [
+            "illustrate",
+            "promote",
+            "support ",
+            "predict"
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "33.",
+        "options": [
+            "reject",
+            "refer to",
+            "prefer",
+            "believe in"
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "34.",
+        "options": [
+            "caught",
+            "moved",
+            "submitted",
+            "driven "
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "35.",
+        "options": [
+            "Although ",
+            "Because",
+            "Unless",
+            "Almost ",
+            "review of The Nine Lives of Otto Katz by Jonathan Miles Many readers who may not have heard of Otto Katz will "
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "What are we told about Otto Katz’s background?",
+        "options": [
+            "He was brought up in an artistic family.",
+            "He received a traditional Jewish upbringing. ",
+            "He grew up in a middle-class environment. ",
+            "He came from a working-class background. "
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "What is said about Otto Katz’s stay in Berlin?",
+        "options": [
+            "It made it possible for him to become an inter- national actor. ",
+            "It was marked by amorous adventures. ",
+            "It gave him the opportunity to attend classes in business management.",
+            "It was here he first encountered Communism."
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "What are we told about Otto Katz’s activities in the U.S.?",
+        "options": [
+            "He pursued his political interests. ",
+            "He was a fund raiser for the American Com- munist Party. ",
+            "He became a political refugee after having fled from Europe. ",
+            "He resumed his acting career in Hollywood."
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What may be concluded from the last paragraph?",
+        "options": [
+            "More authors should aspire to write biographies like those by Macintyre and Miles.",
+            "It is an exaggeration to suggest that Otto Katz was a real undercover agent.",
+            "Jonathan Miles’s intention was to launch a con- spiracy theory.",
+            "Otto Katz ought to be remembered for excel- lence in black magic rather than spying."
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

@@ -1,0 +1,480 @@
+[
+    {
+        "question": "",
+        "options": [
+            "äkta",
+            "storslagen",
+            "lättsam",
+            "moralisk",
+            "smakfull"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "spannmål",
+        "options": [
+            "rotsaker",
+            "baljväxter",
+            "husmanskost",
+            "sädeskorn",
+            "mjölkprodukter"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "vanställa",
+        "options": [
+            "föreställa",
+            "förfula",
+            "förnedra",
+            "förkasta",
+            "förhindra"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "permafrost",
+        "options": [
+            "ständig tjäle",
+            "klimatförändring",
+            "snöfri vinter",
+            "glaciär i rörelse",
+            "bottenfrusen sjö"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "åtskilliga",
+        "options": [
+            "mätbara",
+            "relaterade",
+            "bortvalda",
+            "rangordnade",
+            "många"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "aspartam",
+        "options": [
+            "blekmedel",
+            "fyllningsmaterial",
+            "lugnande medel",
+            "färgämne",
+            "sötningsmedel"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "manierad",
+        "options": [
+            "trög",
+            "modig",
+            "konstlad",
+            "begåvad",
+            "närgången"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "överlöpare",
+        "options": [
+            "ryttare",
+            "förrädare",
+            "stolt person",
+            "inkräktare",
+            "kraftkarl"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "anestesi",
+        "options": [
+            "bedövning",
+            "frigörelse",
+            "raseriutbrott",
+            "färgblindhet",
+            "självplågeri"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "prata bredvid mun",
+        "options": [
+            "vilseleda någon",
+            "ljuga",
+            "försäga sig",
+            "härma",
+            "avbryta någon – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vilken fråga är texten som helhet ett svar på?",
+        "options": [
+            "Vilken sorts egenskaper krävs för att bli en riktigt god retoriker?",
+            "Vilka komponenter innehåller ett retoriskt väl utfört tal?",
+            "Vilken påverkan har Martin Luther Kings tal haft på den moderna retoriken?",
+            "Vilka speciella retoriska grepp krävs för att ena en blandad publik?"
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Vilket av följande är, enligt texten, särskilt viktigt för att ett tal ska få genomslags- kraft?",
+        "options": [
+            "Att talaren formulerar en vision om framtiden som delas och förstås av alla människor.",
+            "Att talaren håller sig till ett tema som tillåter en varierad utformning.",
+            "Att talaren verkligen påverkar åhörarnas känslor och vädjar till deras åsikter.",
+            "Att talaren har en personlig relation till det ämne talet handlar om."
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Vilket påstående om Gotlands berggrund överensstämmer med vad som sägs i tex- ten?",
+        "options": [
+            "Berggrundens ursprung som tropisk havsbotten har medverkat till de speciella väderförhållanden ",
+            "Det som gjort Gotlands berggrund unik jämfört med andra delar av Europa är framför allt ",
+            "Berggrundens karaktär har genom tiderna haft en genomgripande inverkan på levnadsförhål-",
+            "Kunskapen om bildningen av Gotlands berggrund kan användas för att förklara motsvarande "
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Vad består Gotlands berggrund i huvudsak av, enligt texten?",
+        "options": [
+            "Nedvittrad sandsten från havsbotten.",
+            "Sediment avsatta av inlandsisen.",
+            "Rester av havsorganismer.",
+            "Kalkpartiklar från andra landområden."
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Var kan man enligt texten studera de äldsta delarna av den siluriska lager- följden?",
+        "options": [
+            "På norra Gotland.",
+            " På södra Gotland.",
+            " I områden med moräntäcke.",
+            "I områden med märgelsten."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Vilken aspekt av Gotlands berggrund be- handlar texten framför allt?",
+        "options": [
+            "Dess raukar och rev.",
+            "Dess variationsrikedom.",
+            "Dess tillkomsthistoria.",
+            "Dess betydelse för öns växtlighet. – 6 – – 7 –"
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vad blev en allvarlig negativ effekt av 1977 års tillträdesreform, enligt texten?",
+        "options": [
+            "Det kraftigt ökade antalet valsituationer för individen.",
+            "Den starka inverkan på gymnasiestudierna.",
+            "Den plötsligt uppkomna bristen på utbildnings- platser.",
+            "Satsningen på övervägande teoretisk utbildning."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Vad är det, enligt texten, som i praktiken främst styr ett antagningssystems sätt att fungera?",
+        "options": [
+            "Tillgången på utbildningsplatser.",
+            "Kunskapsnivån hos de sökande.",
+            "Hur begripligt syftet med systemet är.",
+            "Möjligheten till taktikval."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Vad innebar de tillrädesregler som inför- des 1977, enligt texten?",
+        "options": [
+            "Att gymnasisternas möjligheter att bli behöriga till högre studier ökade.",
+            "Att intaget till högre utbildning anpassades till arbetsmarknadens behov. ",
+            "Att sökande mer effektivt kunde ledas till den för dem mest passande högre utbildningen.",
+            "Att de sökande fick större inflytande över urvalet till högre studier."
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Vad säger recensenten om Lillemor Kims avhandling?",
+        "options": [
+            "Att ämnet är inspirerande och språket lättill- gängligt.",
+            "Att frågeställningarna är bra men slutsatserna spekulativa.",
+            "Att teorin är gedigen men något svår att tränga igenom.",
+            "Att innehållet är mångsidigt och framställningen effektiv."
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Ibland uppstår plötsliga förändringar i det ____ materialet, mutationer, som kan göra att individens chanser att överleva och föröka sig ökar. De flesta mutationer leder ____ till defekter och till att individen slås ut.",
+        "options": [
+            "ärftliga – ofrånkomligen",
+            "genetiska – emellertid ",
+            "artificiella – sedermera",
+            "biologiska – visserligen"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "Arbetsmiljöverket övervakar arbetsmiljön på våra arbetsplatser. Utöver arbetsmiljö- lagen finns mer detaljerade regler i arbetsmiljöförordningen, som regeringen ____.",
+        "options": [
+            "utfärdar",
+            "utkräver",
+            "utlyser",
+            "utfäster"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Vitaminpiller och speciella tillskott behövs inte, och man ska inte förlita sig på dem eftersom de kan ____ individen i föreställningen att hen har ____ sina näringsbehov när hen i själva verket fortfarande kan lida brist på protein och ____.",
+        "options": [
+            "inviga – uppfyllt – energi",
+            "ingjuta – tillfredsställt – fett",
+            "intala – överskattat – vitaminer",
+            "invagga – tillgodosett – mineraler"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Men skuldökningen är också en ____ av den rådande bostadsbristen i många till- växtorter kombinerat med den lågräntemiljö som etablerats ____ det senaste decenniets finansiella kriser.",
+        "options": [
+            "påverkan – i besittning av",
+            "summa – under uppsegling av",
+            "effekt – i kölvattnet av",
+            "symtom – på bekostnad av"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Det fanns till och med ett antal äldre hojåkare, ____ medlemmar i Svenska Turist- föreningen, som kallade sig Prostata Drivers och som gärna såg en mc-utflykt som en återkommande programpunkt.",
+        "options": [
+            "tillika ",
+            "således",
+            "alltigenom",
+            "dessförutan"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "På 1600-talet varnade sjökort som ritats över den livligt trafikerade passagen ____ de rörliga och ____ sandrevlarna utanför Falsterbonäset.",
+        "options": [
+            "med – opålitliga",
+            "genom – sanka",
+            "för – förrädiska",
+            "kring – instabila"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Jag råkar dela Ingmar Bergmans ____ för Mozarts opera Trollflöjten, och det är faktiskt Bergmans egen förtjänst. Jag såg hans filmatisering som liten, i ett förstulet ____, på de vuxnas TV en alltför sen kväll och har aldrig kunnat glömma vare sig den lilla flickans gåtfulla leende under ____ eller andra aktens skräckfyllda vandring mellan eld och nakna kroppar i helvetet.",
+        "options": [
+            "fascination – ögonblick – ouvertyren",
+            "kärlek – sällskap – serenaden",
+            "passion – utrymme – parnassen",
+            "intresse – avsnitt – ceremonin"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Detta demonstrerar ytterligare hur tänjbart begreppet hälsa är. Det kan finnas en stor ____ mellan å ena sidan den sjukdomsdiagnos en person har fått och å andra sidan personens subjektivt upplevda hälsotillstånd.",
+        "options": [
+            "symmetri",
+            "diskrepans",
+            "analogi",
+            "kongruens"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Till Måkläppen söker sig framför allt gråsälen för att ____ päls och föda sina ungar. Jan-Åke har i tjugotalet år bevakat sälarna i reservatet och följt ____ utveckling.",
+        "options": [
+            "släppa – beslagets",
+            "ömsa – beståndets ",
+            "byta – besättningens",
+            "skinna – beteendets"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "Faktum är att Danmarks i dag mest lästa poet, ja författare över huvud taget, har skapat ett konstverk av en kvalitet som når bortom honom själv. Detta ____ det sätt på vilket han konstnärligt förlöser sitt våldsamma ämne.",
+        "options": [
+            "i kraft av",
+            "med fokus i",
+            "utan hänsyn till",
+            "till gagn för"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "What is the main point in this text?",
+        "options": [
+            "possible path to solving the mystery of migraine has been found.",
+            "Anna Zanin has discovered that colicky children actually suffer from migraine.",
+            "Parents of colicky babies often suffer from migraine.",
+            "Colic in infancy seems to be connected to migraine at a later age. "
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "What fits best with this description of the ideas of Jean-Baptiste Lamarck?",
+        "options": [
+            "His ideas are still regarded with skepticism in biological circles.",
+            "Opinions of his work have shifted back and forth since the 1700s.",
+            "His ideas are clearly incompatible with modern knowledge of evolution. ",
+            "Recent studies show that his explanation of trait inheritance was entirely correct."
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "What are we told about moral attitudes in 18th-century England?",
+        "options": [
+            "They were in many ways as liberal as those of today. ",
+            "Matters relating to sex were seldom brought up in public.",
+            "There were great differences between the upper and the lower classes.",
+            "Gay relationships were outlawed but nonetheless frequent."
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "What is said about the Victorians in rela- tion to sex?",
+        "options": [
+            "They seem to have banished it from public as well as private life.",
+            "Their official attitude was clearly more restrictive than that of the Georgians. ",
+            "They looked upon it as a regrettable aspect of married life.",
+            "Their public morality hardly differed from that of the previous period. "
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "What is implied about George III’s 1787 Proclamation?",
+        "options": [
+            "It was intended to improve the moral standards of the royal family itself.",
+            "It was an isolated effort with little long-term historical significance.",
+            "It served only to unite bourgeois and working- class people against the King.",
+            "It marked a reaction against the moral climate of 18th-century England. "
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "What are we told about the “new middle class” in 19th-century England?",
+        "options": [
+            "Its only real interest was making as much money as possible.",
+            "It concerned itself with social and moral matters from an economic perspective. ",
+            "Its lack of social conscience paved the way for prostitution on a massive scale.",
+            "It was pessimistic about the possibility of social and moral reform. "
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "What is the general point, emerging in the last paragraph, of the writer’s account of the moral climate in 18th- and 19th-century England?",
+        "options": [
+            "To show how special conditions were in England a few hundred years ago.",
+            "To argue for the necessity of moral reform in present-day Western societies.",
+            "To remind us that hard-won tolerance may disappear more or less overnight. ",
+            "To demonstrate the irrelevance of economics to social and moral issues."
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "What is said in relation to ecology?",
+        "options": [
+            "Arne Naess was instrumental in the creation of the green movement.",
+            "There is one main strand of ecological under- standing in our society. ",
+            "Arne Naess encouraged people to lead ecologi- cally sound lives.",
+            "Deep ecology is now part of the philosophy of the green movement. "
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What is the main point in this text?",
+        "options": [
+            "Women in general are more intelligent than men.",
+            "Successful groups require intelligent men.",
+            "Women seem to appreciate group work better than men.",
+            "Intelligent groups consist of people with mixed abilities."
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

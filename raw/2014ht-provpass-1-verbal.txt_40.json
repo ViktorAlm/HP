@@ -1,0 +1,480 @@
+[
+    {
+        "question": "",
+        "options": [
+            "torkskåp",
+            "plattform mitt i gatan",
+            "kraftcentral",
+            "roterande behållare",
+            "tvättautomat"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "konferera",
+        "options": [
+            "värdera",
+            "bekräfta",
+            "överlägga",
+            "granska",
+            "komma överens"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "oboe",
+        "options": [
+            "ödebygd",
+            "pelare",
+            "trädgårdsväxt",
+            "ädelsten",
+            "blåsinstrument"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "sömndrucken",
+        "options": [
+            "i djup sömn",
+            "som har stort sömnbehov",
+            "pigg och utvilad",
+            "som har försovit sig",
+            "omtöcknad av sömn"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "spel för galleriet",
+        "options": [
+            "hemliga förhandlingar",
+            "publikfrieri",
+            "offentlig vadslagning",
+            "repetition",
+            "exklusiv underhållning"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "de facto",
+        "options": [
+            "för säkerhets skull",
+            "i själva verket",
+            "med ens",
+            "till varje pris",
+            "på inga villkor"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "förtrytelse",
+        "options": [
+            "förargelse",
+            "förskräckelse",
+            "förakt",
+            "förtvivlan",
+            "förvirring"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "efterleva",
+        "options": [
+            "förbättra",
+            "ångra",
+            "överta",
+            "följa",
+            "ersätta"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "välsituerad",
+        "options": [
+            "rik",
+            "känd",
+            "tränad",
+            "artig",
+            "kunnig"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "domesticering",
+        "options": [
+            "inavel",
+            "uppfostran",
+            "avvänjning",
+            "inlärning",
+            "tämjning – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vad menar textförfattaren att den sudoku- liknande övningen ska träna eleverna i?",
+        "options": [
+            "Förmågan att hantera algebraiska uttryck.",
+            "Förmågan att lösa avancerade algebraiska problem.",
+            "Förmågan att uppfatta algebraiska relationer mellan objekt.",
+            "Förmågan att översätta vardagsaktiviteter till algebraiska uttryck."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Vilken uppfattning har textförfattaren om de tre delarna i skolalgebran som han räk- nar upp?",
+        "options": [
+            "Eleverna bör lära sig algebrans grammatiska grunder först av allt.",
+            "Eleverna bör behärska modellering innan de utför algebraiska aktiviteter.",
+            "Eleverna bör öva sig i algebraiskt tänkande innan de lär sig algebrans konventioner.",
+            "Eleverna bör få sin första introduktion i algebra via lustfyllda och gradvis allt svårare matriser."
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Vad var innebörden av det avtal som kvin- nan ingått och som diskuteras i texten?",
+        "options": [
+            "Hennes anställning skulle fortsätta under oklara villkor.",
+            "Hennes anställning kunde upphöra om svek- regeln var tillämpbar.",
+            "Hennes anställning ansågs oberoende av reglerna i avtalslagen.",
+            "Hennes anställning skulle upphöra på grund av arbetsbrist."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Vad bör AD:s utslag rimligen ha inneburit för den berörda kvinnan, om man följer textens resonemang?",
+        "options": [
+            "Att hennes anställningsavtal upphörde.",
+            "Att hon fick ekonomisk kompensation.",
+            "Att hennes anställning fortsatte.",
+            "Att hon ersattes av en annan person. Bakläxa i Arbetsdomstolen"
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Vilken vision för vården har Psykologför- bundet, enligt texten?",
+        "options": [
+            "Mer jämlikhet.",
+            "Mer privatisering.",
+            "Mer öppenhet.",
+            "Mer konkurrens."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Skillnaderna i tillgång till psykolog vid vårdcentral varierar inom landet. Ger tex- ten någon förklaring till detta, och i så fall vilken?",
+        "options": [
+            "Ja, vårdcentralerna prioriterar medicinsk behand- ling framför psykologisk.",
+            "Ja, en övervägande andel av alla vårdcentraler drivs i offentlig regi.",
+            "Ja, det går oftast inte att få en direkt kontakt med psykolog i nuvarande system.",
+            "Nej, texten ger ingen förklaring till detta. Vårdcentraler och psykologer"
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vad är huvudinriktningen för den recense- rade avhandlingen om Gösta Berlings saga?",
+        "options": [
+            "Att belysa kopplingarna mellan romanens inne- håll och dåtidens idéer. ",
+            "Att utforska det blandade mottagande som romanen fick när den gavs ut. ",
+            "Att undersöka förhållandet mellan romangestal- ten Gösta Berling och dåtidens mansroll.",
+            "Att klarlägga i vilken grad romanens motiv har stöd i Selma Lagerlöfs egen livssituation. "
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "I en fråga ställer sig recensenten tveksam till Jenny Bergenmars resonemang om Gösta Berlings saga. Vilken fråga?",
+        "options": [
+            "Frågan om vilken nutida ställning romanen har. ",
+            "Frågan om vilken litterär genre romanen tillhör.",
+            "Frågan om vilken roll tidsandan spelar i romanen.",
+            "Frågan om vilken betydelse kön har i romanen."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Hur kan man utifrån texten bäst beskriva romanen Gösta Berlings saga?",
+        "options": [
+            "Traditionstyngd och med många symboler. ",
+            "Växlingsrik och utan svar.",
+            "Koncentrerad och med klara ideal.",
+            "Flyktig och utan budskap."
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Hur betraktar recensenten sammanfatt- ningsvis Jenny Bergenmars ståndpunkter?",
+        "options": [
+            "Som i huvudsak en bekräftelse av andra forska- res slutsatser.",
+            "Som väl värda att begrunda och dessutom utforska vidare.",
+            "Som inspirerande för både andra forskare och vanliga läsare.",
+            "Som alltför långtgående för att motivera till fortsatt forskning."
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Ett centralt kapitel i boken är ett collage av ____ om ensamhet som hon har läst i böcker och artiklar och sedan ____ lite grann efter eget huvud.",
+        "options": [
+            "förvrängningar – beskurit",
+            "uppfattningar – plagierat",
+            "symboler – kopierat",
+            "påståenden – förändrat"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "De tidiga avhoppen har många olika orsaker. Studenten kan till exempel ha upptäckt att han eller hon gjort ett felval. Men det kan också handla om svårigheter att klara av utbildningen. Matematiken anges som en ____ i flera självvärderingar.",
+        "options": [
+            "minnesbeta",
+            "rotvälska",
+            "stötesten",
+            "tankenöt"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Det var en tystlåten och kraftigt byggd man med så stubinkort hår att han ____ tyck- tes vara helt skallig. Svensson var 38 år gammal och hade nyligen kommit till roteln från Huddingepolisen där han ägnat många år åt utredningar om gängbrottslighet. Han hade rykte om sig att ____ ett häftigt humör och hårda nypor, vilket var en ____ för att han möjligen använde metoder gentemot klientelet som inte var helt förenliga med det polisiära reglementet.",
+        "options": [
+            "ibland – förena – analys",
+            "till synes – uppbåda – tolkning",
+            "på håll – besitta – omskrivning",
+            "verkligen – anta – beskrivning"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Idag har det ena minnet efter det andra ____ honom. Några av dem har varit beklag- liga, några ganska bra; några har stämt ner hans humör och gjort honom ____.",
+        "options": [
+            "avlöst – disträ",
+            "hemsökt – moloken",
+            "påmint – yster",
+            "svikit – lidelsefull"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Efter omkring 3 veckors ruvning kläcks kycklingarna, som redan från början är ganska ____ och kan följa modern och under hennes ledning söka föda.",
+        "options": [
+            "försiktiga",
+            "försigkomna",
+            "förfördelade",
+            "förtjänstfulla"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Begränsningsåtgärder inom äldrevården får inte förekomma ____ och flera studier visar att åtgärderna inte har lett till ett minskat antal fallskador. Begränsningsåtgärder ska vara ordinerade, och i de fall de förekommer måste de ____ och regelbundet omprövas.",
+        "options": [
+            "rutinmässigt – beordras ",
+            "tidsmässigt – rapporteras ",
+            "slentrianmässigt – dokumenteras ",
+            "regelmässigt – åtgärdas "
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Naturalisterna drevs inte bara av ambitionen att fokusera på social misär och utsug- ning av arbetare. Orättvisa och korruption i alla dess former var som ____ för dem.",
+        "options": [
+            "vita fläckar",
+            "blå dunster",
+            "svarta får",
+            "röda skynken"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Vi kan se spåren av människors ____ arbete i äldre tid med att erövra och nyttja detta landskap för produktion av ____; här dikade man ____ för att få slåtter av gräs på så kallade översilningsängar, alltså naturlig ängsmark som genom grävda diken till- förs vatten.",
+        "options": [
+            "sträva – spannmål – åkermark",
+            "idoga – djurfoder – myrar",
+            "flitiga – träråvara – skogar",
+            "kärva – energigrödor – sjöar"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Hans vision var ett ____ Stockholm, en storstad i stil med New York, med nattöppna restauranger, affärer och teatrar. I den meningen var han en radikal modernist. Men han var ingen estet. Han såg på Stockholm med ingenjörens ögon, inte med ____.",
+        "options": [
+            "urbant – arkitektens",
+            "provinsiellt – konstnärens",
+            "kommersiellt – entreprenörens",
+            "subkulturellt – regissörens"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "I en uppföljningsstudie fick studenterna göra en utvärdering av övningen. Många ogil- lade att de osjälviska fick de rättvisa, alltså de som hade tagit och gett ungefär lika mycket, att framstå som dåliga. Man kommenterade också att de osjälviska bröt mot ____ genom att hålla sig för goda för belöningssystemet.",
+        "options": [
+            "konvenansen",
+            "legitimiteten",
+            "diskrepansen",
+            "generositeten"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "What is the main point here?",
+        "options": [
+            "Environmental fiction is now a regular part of contemporary literature.",
+            "Science fiction and eco-thrillers are pure storytelling.",
+            "Environmental fiction is best described as books on catastrophes and wars. ",
+            "Science fiction is sometimes close to ordinary fiction in its criticism of modern society."
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "What is suggested about online advertising in China?",
+        "options": [
+            "It is evaluated in the same way as in the rest of the world. ",
+            "Medium-sized businesses cannot afford online advertising. ",
+            "It is nowadays less frequently used than in Japan.",
+            "Medium-sized businesses prefer time-based online advertising. "
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "What can be concluded about women and the Royal Society?",
+        "options": [
+            "Even though not approved as fellows of the Royal Society, female researchers managed to ",
+            "Women scientists were often hostile to members of the Royal Society. ",
+            "The Royal Society welcomed female scientists as early as the 17th century. ",
+            "Regardless of public opinion, women had had the right to join the Royal Society since its founding."
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "What was women’s most important con- tribution to early science, according to the text?",
+        "options": [
+            "They wrote a large number of books on the history of science. ",
+            "They made it easy for scientists to reach out to different communities. ",
+            "They highlighted the threat of science to ordinary citizens.",
+            "They discussed science in relation to people’s everyday lives. "
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "What are we told about Margaret Caven- dish?",
+        "options": [
+            "She was a multifaceted writer who questioned many aspects of science. ",
+            "She led an immoral life and was therefore not invited to lecture on science. ",
+            "She distrusted most scientists of her time and wrote about it in her poems. ",
+            "She was a brilliant scientist who was diagnosed with a mental disorder."
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "Which of the following alternatives best corresponds to the expression “its secret tribulations as well as its public triumphs” in the text?",
+        "options": [
+            "The conflicts and challenges of science.",
+            "The confidentiality and privacy of science. ",
+            "The hardships and successes of science. ",
+            "The anonymity and openness of science. "
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "What is the writer’s main conclusion in the last paragraph?",
+        "options": [
+            "The Royal Society’s main goal was to prove and certify new scientific findings. ",
+            "Female researchers contributed to the spread of scientific knowledge among the general public.",
+            "Women scientists were mainly engaged in the practical application of scientific results. ",
+            "Lord Bacon was among the first scientific re search ers who understood the importance of "
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "What are we told?",
+        "options": [
+            "The health care reform will change existing routines regarding the handling of patients. ",
+            "Many general-medicine doctors feel threatened by other professional categories due to recent ",
+            "The health care reform will lead to lower medical costs among the general public.",
+            "Fewer general-medicine doctors will be needed in the future. "
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What is the main point here?",
+        "options": [
+            "People today prefer fish to poultry and meat.",
+            "Illegally caught fish are being wasted.",
+            "Previously unpopular fish are nowadays in demand.",
+            "People prefer buying fish from supermarkets. ANHERARSOMSHORTER TEXTS:"
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

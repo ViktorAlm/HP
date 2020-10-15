@@ -1,0 +1,480 @@
+[
+    {
+        "question": "",
+        "options": [
+            "följdriktigt",
+            "realistiskt",
+            "arbetsamt",
+            "effektivt",
+            "konsekvent"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "kulmen",
+        "options": [
+            "lägsta punkt",
+            "startskott",
+            "mittpunkt",
+            "slutskede",
+            "höjdpunkt"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "skimning",
+        "options": [
+            "skuggning",
+            "bortsortering",
+            "kortbedrägeri",
+            "genomlysning",
+            "ytbehandling"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "ge upphov till",
+        "options": [
+            "intyga",
+            "förändra",
+            "orsaka",
+            "uppmana",
+            "tillåta"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "ensemble",
+        "options": [
+            "föreställning",
+            "solosång",
+            "teatersalong",
+            "instrument",
+            "grupp"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "absurd",
+        "options": [
+            "ohållbar",
+            "orimlig",
+            "olämplig",
+            "olustig",
+            "osann"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "provokation",
+        "options": [
+            "utmaning",
+            "förnedring",
+            "hämnd",
+            "motstånd",
+            "hot"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "hysa",
+        "options": [
+            "behandla välvilligt",
+            "ge en tillsägelse",
+            "skämta med",
+            "ge husrum åt",
+            "passa upp"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "taktil",
+        "options": [
+            "som beror på ärftliga faktorer",
+            "som avser känsel och beröring",
+            "som beror på hormonpåverkan",
+            "som avser ämnesomsättningen",
+            "som beror på miljöpåverkan"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "chimär",
+        "options": [
+            "liten häst",
+            "inbillning",
+            "kodat meddelande",
+            "ljusfenomen",
+            "elegant herre – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vad ska man, av texten att döma, observe- ra för att skilja G. punctiger och G. fennicus från G. distinctus och G. moelleri?",
+        "options": [
+            "Antennfästena.",
+            "Täckvingarna.",
+            "Snytena.",
+            "Halssköldarna."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Ger texten någon förklaring till varför det är viktigt med en korrekt artbestämning av de beskrivna vivlarna, och vilken är för- klaringen i så fall?",
+        "options": [
+            "Ja, det är nödvändigt för att kunna skilja honor och hanar åt.",
+            "Ja, det görs allt fler observationer av en stor variation inom släktet.",
+            "Ja, det krävs för att förstå vivlarnas släktskap.",
+            "Nej, texten ger ingen förklaring till detta. Vivlar"
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Hur bör man, enligt texten, i en statistisk undersökning hantera de problem som uppstår om en viss grupp i större utsträck- ning än andra inte besvarar en utskickad enkät?",
+        "options": [
+            "Man bör söka kompletterande uppgifter om den aktuella gruppen.",
+            "Man bör utgå från att de som svarar ändå är representativa för gruppen i stort.",
+            "Man bör vikta statistiken genom att göra en uppskattning av slumpens utfall.",
+            "Man bör tolka utfallet med hjälp av den förkun- skap man redan har om kön och ålder."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Hur skiljer sig bias principiellt från slump- mässig osäkerhet, enligt texten?",
+        "options": [
+            "Bias beror på mätmetoden.",
+            "Bias är skilt från hur urvalet sker.",
+            "Bias ligger i själva svarsbortfallet.",
+            "Bias är systematiska felaktigheter. Risk för bias"
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "På vilket av följande sätt behandlar text- författaren frågan om språkbyte?",
+        "options": [
+            "Som en resursfråga.",
+            "Som en generationsfråga.",
+            "Som en rättighetsfråga.",
+            "Som en utbildningsfråga."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Vilken viktig skillnad ser textförfattaren mellan svenska språket och minoritets- språken vad gäller graden av utsatthet i det svenska samhället?",
+        "options": [
+            "Engelskan hotar svenskan mindre än svenskan hotar minoritetsspråken.",
+            "Hotet mot minoritetsspråken kommer mer från engelskan än från svenskan.",
+            "Svenskans ställning försvagas inom vissa områ- den, minoritetsspråkens ställning inom andra.",
+            "Svenskans ställning stärks medan minoritets- språkens ställning försvagas."
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vad var enligt texten anledningen till för- ändringen av riktlinjerna från den prelimi- nära till den slutgiltiga versionen?",
+        "options": [
+            "Den först föreslagna rekommendationen gav inte avsedd effekt i behandling.",
+            "Den först föreslagna rekommendationen ansågs inte ha tillräckligt stöd i forskning.",
+            "Den först föreslagna rekommendationen väckte negativa reaktioner bland vårdgivare.",
+            "Den först föreslagna rekommendationen ansågs missgynna etablerade metoder."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Vad lyfter textförfattarna fram vad gäller utsikterna för att patienter verkligen ska tillämpa en vårdgivares rekommendation om fysisk aktivitet?",
+        "options": [
+            "Att behandlingen ska vara långsiktig.",
+            "Att även patienten tror på metoden.",
+            "Att aktiviteten ska vara individanpassad.",
+            "Att ordinationen även ges skriftligt."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Hur är de slutgiltiga riktlinjerna tänkta att fungera, enligt texten?",
+        "options": [
+            "Som ett verktyg för fortsatt forskning.",
+            "Som ett beslutsunderlag inom hälso- och sjukvård.",
+            "Som en vårdgaranti för patienters bästa.",
+            "Som en vägledning för vårdtagarna."
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Vad framstår som ett av textens syften?",
+        "options": [
+            "Att referera Socialstyrelsens vetenskapliga rön.",
+            "Att förespråka en viss behandlingsform.",
+            "Att sakkunnigt försöka föra patienternas talan.",
+            "Att ge en översikt av alla tillgängliga behandlings- former. "
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "För tio år sedan var det nästan lite skamligt för en nybakad skådespelare att medverka i exempelvis reklamfilmer. Idag kan det snarare vara en ____ i karriären; man kan bli mer känd genom en reklamfilm än genom en roll på bioduken.",
+        "options": [
+            "medvind",
+            "livboj",
+            "språngbräda",
+            "stötesten"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "I stället för att ____ ett synsätt där man rekryterar de krafter som blir över, jobbar Peter och hans kollegor med det motsatta perspektivet. De arbetar medvetet för att skapa stolthet och en vilja att anta sjukvårdens ____ i glesbygden.",
+        "options": [
+            "rekommendera – ändamål",
+            "acceptera – utmaningar",
+            "införliva – begränsningar",
+            "negligera – uppdrag"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Våra solvanor är den främsta orsaken till att hudcancer är ____ cancerformen i Sverige; statistiskt sett drabbas var femte svensk av hudtumörer, och antalet nya fall accelererar, även bland yngre. Därför är det dags att skilja åsikter och tyckande från vetenskapligt ____ rekommendationer i frågan om solning och D-vitamin. Att upp- mana människor att sola mer och utsätta sig för cancerogen UV-strålning är både ovetenskapligt och ____.",
+        "options": [
+            "den mest svårbehandlade – godkända – omoraliskt",
+            "den allvarligaste – granskade – ohälsosamt",
+            "den snabbast ökande – grundade – oetiskt",
+            "den mest komplicerade – bevisade – obefogat "
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Det finns några bergspartier med ____ klimat, men större delen av detta central- amerikanska land ____ ett av tropisk regnskog bevuxet lågland.",
+        "options": [
+            "tempererat – utgörs av",
+            "atlantiskt – infattar",
+            "termiskt – ingår i",
+            "arktiskt – förenar"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Att vara hemarbetare kan verka soft, en Solsidetillvaro med touch av Maria Montazamis liv med tofs-shopping och vänninnepartyn. (Även om hon ____ är en business-kvinna, som slår mynt av bilden av sig själv.)",
+        "options": [
+            "ad hoc",
+            "inkognito",
+            "in spe",
+            "de facto"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Ergonomen M. Carlström säger att de flesta anställda är mer intresserade av arbets- platsens ____ än vad det är för färgsättning. ”Jag har besökt läckert inredda, ____ kontorslandskap, som ändå har problem med överhörning och där folk klagar på att de har svårt att koncentrera sig.”",
+        "options": [
+            "design – konstnärliga",
+            "funktionalitet – spatiösa",
+            "trivsel – visuella",
+            "möblemang – estetiska"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Svenska Folkpartiets ungdomsorganisation vill se ett modernare Svenska Finlands Folkting, med större visioner än ____. Folktinget är idag ____ från en förgången tid, där medaljutdelningen tycks vara verksamhetens huvudsyssla. De säger sig arbeta för det svenska i Finland, men för att göra det framgångsrikt så krävs mera ____.",
+        "options": [
+            "det rådande – ett eko – medlemmar",
+            "det gamla – en fornlämning – kampanjer",
+            "det föregående – en spillra – pengar",
+            "det nuvarande – en relikt – nytänkande"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Novellisten Alice Munro fick Nobelpriset i litteratur för att hon är en av vår tids största författare. Det finns ingen annan författare som kan ____ komplexa skeenden och stora frågor till ett så litet och kort format.",
+        "options": [
+            "dramatisera",
+            "koncentrera",
+            "extrahera",
+            "kombinera"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Naturskyddsföreningens (SNF) länsordförande har en egen förklaring till SNF:s ____ engagemang i gruvfrågan: ”Det handlar inte om att gruvbrytning inte får miljö- konsekvenser, utan om vad de som engagerar sig i föreningen brinner för. Vi jobbar alla ____ och då blir det personliga engagemanget styrande.”",
+        "options": [
+            "brinnande – individuellt",
+            "sakliga – ambitiöst",
+            "lama – ideellt ",
+            "skiftande – i skift"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "Staten var tvungen att ____ i hela bankväsendet: förstatliga många banker, socialisera enorma skulder och ta tillbaka många privatiserade företag.",
+        "options": [
+            "intervenera",
+            "administrera",
+            "investera",
+            "alternera"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "31.",
+        "options": [
+            "promoting",
+            "hit by",
+            "claiming ",
+            "deprived of"
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "32.",
+        "options": [
+            "owing to",
+            "blaming",
+            "prior to",
+            "despite "
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "33.",
+        "options": [
+            "release",
+            "secure ",
+            "control ",
+            "recover "
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "34.",
+        "options": [
+            "consequently ",
+            "seldom",
+            "certainly ",
+            "still "
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "35.",
+        "options": [
+            "higher-paying ",
+            "less demanding",
+            "lower-paying",
+            "more demanding – 11 – FORTSÄTT PÅ NÄSTSID»"
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "What are we told about Orme’s book?",
+        "options": [
+            "It is impressive but tries to cover too wide an area.",
+            "Its focus on the Middle Ages is of limited interest to modern readers.",
+            "It is based on research that suffers from a cer tain lack of precision.",
+            " Its title hardly does justice to the subject matter actually dealt with."
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "How can Orme’s main result best be summarized?",
+        "options": [
+            "In the Middle Ages children were usually seen as smaller versions of adults.",
+            " There is little to indicate legal differences be tween adults and children in the medieval period.",
+            " The evidence shows that childhood was regarded as separate from adulthood in medieval times.",
+            " In the Middle Ages neither the Church nor the State believed children needed special protection."
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "What is the main reason why the child marriage in Cheshire is mentioned?",
+        "options": [
+            "Because it was typical of the way children were looked upon.",
+            "Because it was the exception to the rule even in those days.",
+            "Because it illustrates the extensive rights of even very young children.",
+            "Because it reminds us of cultural differences in our own time."
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "Which of the following statements about medieval children is true, according to the text?",
+        "options": [
+            "Their behaviour caused much the same adult reactions as today.",
+            "They were given full adult status immediately after puberty.",
+            "There was little understanding for children’s need to play.",
+            "They were more well-behaved than today’s children."
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

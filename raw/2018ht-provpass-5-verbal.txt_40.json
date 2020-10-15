@@ -1,0 +1,480 @@
+[
+    {
+        "question": "",
+        "options": [
+            "blodcirkulation",
+            "vitaminbrist",
+            "immunförsvar",
+            "ämnesomsättning",
+            "livsduglighet"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "febril",
+        "options": [
+            "lugn",
+            "envis",
+            "målinriktad",
+            "konstig",
+            "hektisk"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "försumma",
+        "options": [
+            "lista ut",
+            "missunna",
+            "sammanfatta",
+            "strunta i",
+            "avlägsna"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "puritan",
+        "options": [
+            "filosof",
+            "enstöring",
+            "renlevnadsmänniska",
+            "bedragare",
+            "överstepräst"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "blott",
+        "options": [
+            "endast",
+            "nästan",
+            "öppet",
+            "svagt",
+            "enkelt"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "dubier",
+        "options": [
+            "glädjeämnen",
+            "tvivel",
+            "rikedomar",
+            "sorger",
+            "förhoppningar"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "kurant",
+        "options": [
+            "glad",
+            "kraftig",
+            "syrlig",
+            "kvicktänkt",
+            "frisk"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "uppsjö",
+        "options": [
+            "positiv trend",
+            "motstånd",
+            "stor mängd",
+            "variation",
+            "oväntad ökning"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "inkonsekvens",
+        "options": [
+            "tveksamhet",
+            "självmotsägelse",
+            "taktlöshet",
+            "missförhållande",
+            "inblandning"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "kokettera",
+        "options": [
+            "göra sig intressant",
+            "skämma ut sig",
+            "umgås förtroligt",
+            "ta hand om sig",
+            "göra upp planer – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vilket av följande sker med vindens hjälp i både vatten- och landekosystem, enligt texten?",
+        "options": [
+            "Nedbrytning.",
+            "Pollinering.",
+            "Fotosyntes.",
+            "Syresättning."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Vilka slags skogsmarker löper minst risk att drabbas av stormskador, enligt texten?",
+        "options": [
+            "De med varierat trädbestånd.",
+            "De som upptar begränsade ytor.",
+            "De med relativt unga träd.",
+            "De som regelbundet gallras. – 4 – – 5 –"
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Vad har Sten-Olof Ullström i huvudsak gjort i sin avhandling, enligt texten?",
+        "options": [
+            "En analys av Strindbergs verk utifrån olika tiders litterära ideal.",
+            "En jämförelse mellan elevuppsatser och läro- medel i litteratur.",
+            "En undersökning av syftet med gymnasieskolans litteraturundervisning.",
+            "En dokumentation av gymnasieelevers kunskaper om Strindberg."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Vilken bild av författaren August Strind- berg framhävdes i läroböckerna i början av 1900-talet, enligt texten?",
+        "options": [
+            "Strindberg – dramatikern.",
+            "Strindberg – expressionisten.",
+            "Strindberg – historikern.",
+            "Strindberg – samhällsdebattören."
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Hur förändrades, enligt texten, läroböck- ernas bild av Strindberg från 1900-talets början till 1960-talets slut?",
+        "options": [
+            "Strindbergs påstådda kvinnohat gavs större utrymme.",
+            "Fler sidor av Strindbergs författarskap lyftes fram.",
+            "Det samhällskritiska i Strindbergs författarskap tonades ned. ",
+            "Den anpassades bättre till skolans värderingar."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Vilken av följande uppmaningar överens- stämmer, utifrån texten, bäst med Sten- Olof Ullströms hållning?",
+        "options": [
+            "Vårda minnet av Strindberg!",
+            "Experimentera inte med litteraturunder- visningen!",
+            "Tänk fritt om Strindberg!",
+            "Låt eleverna bestämma över litteraturunder-"
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vad rekommenderar Välfärdspolitiska rå- det bland annat angående hanteringen av läkemedel inom sjukvården?",
+        "options": [
+            "Att det ekonomiska och administrativa ansvaret för läkemedel lyfts ut från landstingens åtaganden.",
+            "Att kostnaden för läkemedel hädanefter ska ingå i landstingens totalbudget för sjukvården.",
+            "Att nya så kallade terapikommittéer övertar lands- tingens beslutanderätt kring läkemedlen.",
+            "Att landstingens åtaganden kring läkemedel främst inriktas på kunskaps- och teknologifrågor."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Vilken åtgärd föreslår rapportförfattarna i syfte att öka sjukvårdens resurser?",
+        "options": [
+            "Omfördelning av anslag för barn- och äldre- omsorg.",
+            "Individuella sjukvårdsförsäkringar för med- borgarna.",
+            "Fortsatt skatteutjämning inom landsting med ansträngd ekonomi.",
+            "Ökad patientfinansiering av konsumtionen av läkemedel."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Hur ser rapportförfattarna, enligt texten, på frågan om vilka som ska ha rätt att er- bjuda sjukvård?",
+        "options": [
+            "De anser att vården som helhet bör stå under politisk kontroll och därför bedrivas enbart i ",
+            "De föreslår att ett begränsat antal privata aktörer ska släppas in i vårdsektorn för konkurrensens ",
+            "De välkomnar alla typer av vårdgivare som upp- fyller de villkor samhället rimligen bör ställa.",
+            "De menar att konkurrensen bör släppas fri och att sjukvården bör fungera som vilken annan "
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Hur sammanfattar man bäst Gina Berg- ströms text?",
+        "options": [
+            "Som ett referat av en publikation.",
+            "Som en sammanfattning av vårdläget.",
+            "Som ett vårdpolitiskt debattinlägg.",
+            "Som en ekonomisk framtidsprognos. – 8 –"
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Om ni vill något annat än att tillgångarna ska delas lika i händelse av skilsmässa bör ni upprätta ett ____ som juridiskt gör all eller viss egendom enskild.",
+        "options": [
+            "samarbetsavtal",
+            "fordringsbevis",
+            "avlatsbrev",
+            "äktenskapsförord"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": "D"
+    },
+    {
+        "question": "Historiskt sett har tillväxttakten ____ med ökningen av utsläpp av växthusgaser. Men detta är inte en naturlag. Vi ser nu exempel på länder och regioner där de två faktiskt kan ____.",
+        "options": [
+            "korrelerat – separeras",
+            "konkurrerat – varieras",
+            "kombinerats – jämkas",
+            "korrigerats – filtreras"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": "A"
+    },
+    {
+        "question": "Med ____ stora som Duploklossar ser text-tv ut som en primitiv förlaga till internet. Men publiken är fortsatt envist trogen och ____ ökar. Hur kan svenska folkets kärleksaffär med text-tv vara så ____?",
+        "options": [
+            "fonter – utvecklingen – ömsesidig",
+            "bilder – tillämpningen – långvarig",
+            "symboler – utnyttjandet – populär",
+            "pixlar – användningen – livskraftig"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": "D"
+    },
+    {
+        "question": "Analyser av bronset visar också att förhållandet mellan koppar och tenn i denna ____ är typiskt för perioden och för Egypten.",
+        "options": [
+            "lyster",
+            "mixtur",
+            "legering",
+            "snittyta delprov mek – meningskomplettering"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": "C"
+    },
+    {
+        "question": "Ofta söker konsthistoriker djupa svar i verken eller i konstnärens liv på varför dennes konst gestaltas på ett visst sätt. Det blir ibland alltför ____. En förändring i uttrycket kan lika gärna ha sin grund i högst ____ orsaker.",
+        "options": [
+            "fantasifullt – modala",
+            "populariserat – vitala",
+            "mönstergillt – normala",
+            "spekulativt – triviala"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": "D"
+    },
+    {
+        "question": "Flera systemfel borde rättas till. Ett är att kommunens överförmyndare både utser och granskar de gode männen. Justitieministern har dundrat om att de sistnämnda missköter sina uppdrag, men problemet kommer att finnas kvar så länge överförmyn- darna sitter på ____.",
+        "options": [
+            "dubbla stolar",
+            "alla fakta",
+            "höga hästar",
+            "gamla meriter"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": "A"
+    },
+    {
+        "question": "Dessa journalister lever under ständig övervakning, och om de skriver fel sak om fel person – då smäller det, säger Merga, vars namn är ____ på grund av risken för ____.",
+        "options": [
+            "synonymt – förtryck",
+            "fingerat – repressalier",
+            "villkorat – fängelse",
+            "inkognito – diskriminering "
+        ],
+        "article": "",
+        "id": 27,
+        "answer": "B"
+    },
+    {
+        "question": "Sköterskan harklade sig för att få Marias uppmärksamhet. ”Han verkar ha fått en ordentlig hjärnskakning. Vi överväger att fortsätta hålla honom nedsövd. Strax ska vi skicka honom på en ____ så får vi se vad bilderna visar.”",
+        "options": [
+            "datortomografi ",
+            "kroppsskanning",
+            "gastroskopi",
+            "EKG-undersökning"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": "A"
+    },
+    {
+        "question": "Vetenskapliga tidskrifter vill hellre publicera studier med stort ____, det vill säga med positiva och oväntade resultat. Studier som misslyckas med att hitta någon intressant effekt eller bara upprepar gammal ____ löper större risk att bli ____.",
+        "options": [
+            "allmänintresse – formalia – returnerade",
+            "nyhetsvärde – skåpmat – refuserade",
+            "faktagenomslag – argumentation – redigerade",
+            "överraskningsmoment – rappakalja – reviderade"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": "B"
+    },
+    {
+        "question": "Inget annat språk har ____ så många andraspråkstalare, och bara mandarin kommer ens i närheten när det gäller det totala antalet talare. Inget annat språk har heller lika stor geografisk spridning. Engelska spelar i en egen division, inte ____ om den saken, och det finns goda anledningar till att man i Sverige lär sig engelska redan från tidiga skolår.",
+        "options": [
+            "till synes – ett knyst",
+            "tillnärmelsevis – tu tal",
+            "till fullo – fy skam",
+            "tillbörligen – en susning"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": "B"
+    },
+    {
+        "question": "31.",
+        "options": [
+            "excitement",
+            "debate ",
+            "concern",
+            "prejudice"
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "32.",
+        "options": [
+            "uncover ",
+            "explain ",
+            "restore",
+            "outnumber"
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "33.",
+        "options": [
+            "In consequence",
+            "On average",
+            "By contrast ",
+            "For instance "
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "34.",
+        "options": [
+            "in case",
+            "since",
+            "just because",
+            "while "
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "35.",
+        "options": [
+            "low",
+            "moderate ",
+            "high ",
+            "variable – 12 –"
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "What is said concerning Joseph Lintner?",
+        "options": [
+            "He was the first person known to make a connection between smell and attraction.",
+            "He suggested how the knowledge of odorant molecules could be put to practical use. ",
+            "He managed to give a rough description of the chemical properties involved in moth attraction. ",
+            "He made ancient ideas concerning smell and attraction available to the broader scientific "
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "What is claimed about pheromones in nature?",
+        "options": [
+            "By far their most common use is for finding a mating partner.",
+            "True examples of them have both a releaser effect and a primer effect.",
+            "Insect communities are often strongly dependent on them. ",
+            "Most of their functions are still relatively poorly understood."
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "What is argued about the molecules androstadienone and estratetraenol?",
+        "options": [
+            "They are the most likely examples of human pheromones.",
+            "They are some of the strongest pheromones found in nature. ",
+            "They are pheromones in some mammals but not in humans.",
+            "They are chemicals which do not seem to be pheromones. "
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What can be concluded from the studies of the “major histocompatibility complex” (MHC) in mice and humans?",
+        "options": [
+            "The findings indicate that mice and humans might have a pheromone in common.",
+            "What seemed to work for mice clearly does not work with humans.",
+            "It is possible that smell-based attraction works for both mice and humans. ",
+            "The evidence shows some indications of a human pheromone."
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]
