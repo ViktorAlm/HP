@@ -8,7 +8,7 @@
 Hallå!
 Har automatiserat en del av processen med att formatera datan men det görs missar och hade varit bra om det gicks igenom av en människa. Det som behöver göras är att få in facit och läsförståelsetexterna, samt kolla OCR-missar i frågorna och alternativen.
   
-Jag är allergisk mot PDFer och det blir snabbt tröttsamt. Är man många som gör det så får vi snabbt ihop det med så lite individuellt mänskligt lidande som möjligt. Är du en gud på OCR eller har koll på verktyg så är du varmt välkommen att ta fram en smidigare pipeline
+Är man många som gör det så får vi snabbt ihop det med så lite individuellt mänskligt lidande som möjligt. Är du en gud på OCR eller har koll på verktyg så är du varmt välkommen att ta fram en smidigare pipeline
 
 I done finns färdiga prov att kika på hur de skall vara formaterade
 
