@@ -14,13 +14,13 @@ I done finns färdiga prov att kika på hur de skall vara formaterade
 
 I raw finns alla prov ostädade
 
-Dessa är inskannade och ocrade, det finns fel i dem. Främst så försvinner i och f.
-Har svaret fler än två rader har den missat sista raden
-Radbryt har alltid ett - som markerar raden. Detta måste tas bort
-Alla läsförståelsetexter har problem med kolumnordningen så man måste försiktigt kopiera bit för bit. Rekommenderar starkt  multiple cursors för detta
-Ibland plockar den upp --9-- och sådant i alternativen, men detta borde bara hända ett par gånger
-Kolumnordningen för orden är fel så radordning/ID matchar inte facit, detta innebär att man måste sortera orden först efter hur det ser ut i PDFen
-Ibland plockar den inte upp sista frågan(fråga 40)
+- Dessa är inskannade och ocrade, det finns fel i dem. Främst så försvinner i och f.
+- Har svaret fler än två rader har den missat sista raden
+- Radbryt har alltid ett - som markerar raden. Detta måste tas bort
+- Alla läsförståelsetexter har problem med kolumnordningen så man måste försiktigt kopiera bit för bit. Rekommenderar starkt  multiple cursors för detta
+- Ibland plockar den upp --9-- och sådant i alternativen, men detta borde bara hända ett par gånger
+- Kolumnordningen för orden är fel så radordning/ID matchar inte facit, detta innebär att man måste sortera orden först efter hur det ser ut i PDFen
+- Ibland plockar den inte upp sista frågan(fråga 40)
 
 exempel på engelska MEK:
 ```
