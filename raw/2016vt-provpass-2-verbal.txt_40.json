@@ -1,0 +1,480 @@
+[
+    {
+        "question": "",
+        "options": [
+            "beröm",
+            "prydnad",
+            "gratulation",
+            "hedersplats",
+            "medalj"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "målande",
+        "options": [
+            "svepande",
+            "överdriven",
+            "fantasifull",
+            "bildskön",
+            "uttrycksfull"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "alludera på",
+        "options": [
+            "vänta på",
+            "fundera på",
+            "anspela på",
+            "se ner på",
+            "hoppas på"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "puka",
+        "options": [
+            "sångstil",
+            "dirigentplats",
+            "folkdans",
+            "slaginstrument",
+            "orgelpipa"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "hippologi",
+        "options": [
+            "läran om skelettet",
+            "läran om talmystik",
+            "läran om subkulturer",
+            "läran om bergarter",
+            "läran om hästar"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "pseudointellektuell",
+        "options": [
+            "självlärd person",
+            "skenbart bildad person",
+            "geniförklarad person",
+            "klassiskt skolad person",
+            "nytänkande person"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "ocker",
+        "options": [
+            "att skicka bluffakturor",
+            "att muta makthavare",
+            "att göra oskälig vinst",
+            "att missbruka ett förtroende",
+            "att utnyttja insiderinformation"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "bejakande",
+        "options": [
+            "glädjande",
+            "bekräftande",
+            "längtande",
+            "granskande",
+            "bedjande"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "florera",
+        "options": [
+            "övertäcka",
+            "frodas",
+            "utsmycka",
+            "lyckas",
+            "gruppera"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "eftermäle",
+        "options": [
+            "efterlysning",
+            "dålig kompromiss",
+            "klagomål",
+            "eftervärldens omdöme",
+            "korrigering – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vad framstår som det främsta skälet till att recensenten föreslår en annan skivtitel än den aktuella?",
+        "options": [
+            "Musiken det rör sig om är förankrad även i den elisabetanska tiden.",
+            "Lutmusikens guldålder fortsatte under Jakobs I:s regenttid.",
+            "Det är svårt att finna en bra svensk översättning till the Jacobean era.",
+            "De viktigaste kompositionerna tillkom före 1603."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Vad av följande är recensenten kritisk till?",
+        "options": [
+            "Att Karl Nyhlin inte har gjort ett tillräckligt representativt urval av kompositörer.",
+            "Att Karl Nyhlin inte ger tillräcklig information om de musikaliska rötterna till genren lutmusik.",
+            "Att Karl Nyhlin inte är tillräckligt utförlig i beskrivningen av varifrån han hämtat sitt ",
+            "Att Karl Nyhlin inte lämnar tillräckligt detalje- rade sakuppgifter om den aktuella musikformen."
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Vad ser Tomas Berglund, enligt textförfat- tarens framställning, som avgörande för vilken attityd en person har till sitt arbete?",
+        "options": [
+            "Yrkesskickligheten.",
+            "Personligheten.",
+            "Arbetssituationen.",
+            "Inkomsten."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Om vi tillämpar Tomas Berglunds resone- mang och terminologi, vilka två attityder finner vi då oftast bland personer i chefs- ställning?",
+        "options": [
+            "Den altruistiska och den materialistiska.",
+            "Den individualistiska och den instrumentella.",
+            "Den altruistiska och den instrumentella.",
+            "Den individualistiska och den materialistiska."
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Vad kan, enligt Berglunds hypotes, bli följ- den när man som lojal anställd utsätts för en otrygg arbetssituation?",
+        "options": [
+            "Man tänker på sig själv i första hand.",
+            "Man vill inte göra mer än vad som krävs.",
+            "Man fokuserar på nyttoaspekten av sitt arbete.",
+            "Man bryr sig främst om vad man får betalt."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Vilken invändning riktar textförfattaren mot regimindelningen av de länder som ingår i Berglunds studie?",
+        "options": [
+            "Att definitionerna av regimtyperna framstår som oklara.",
+            "Att regimtyperna är föråldrade och därför svårbegripliga. ",
+            "Att regimtypernas koppling till det aktuella ämnet är för svag.",
+            "Att regimtyperna delvis sammanfaller och därför lätt blandas ihop med varandra."
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vilket av följande användes i textförfatta- rens studie som ett mått på trädplantor- nas livskraft?",
+        "options": [
+            "Förmågan att tillgodogöra sig näring.",
+            "Plantornas storlek.",
+            "Förmågan att hantera stress.",
+            "Bladens genuppsättning."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Vad innebär det enligt texten att asym- metrin hos bladen på ett träd är fluktu- erande?",
+        "options": [
+            "Den förekommer i ett stort antal variationer.",
+            "Den förändras över tid.",
+            "Den uppträder på ett oförutsägbart sätt.",
+            "Den drabbar båda sidorna lika frekvent."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Vilken av följande frågor syftade textför- fattarens studie till att besvara?",
+        "options": [
+            "I vilken grad näringsbrist orsakade asymmetri.",
+            "I vilken grad näringsbrist försämrade livskraften.",
+            "I vilken grad asymmetri orsakade näringsbrist.",
+            "I vilken grad asymmetri förbättrade livskraften."
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Om man enbart ser till resultatet av text- författarens studie, hur kan man då bäst beskriva fluktuerande asymmetri?",
+        "options": [
+            "Som en utslagsgivande miljöeffekt.",
+            "Som en ny forskningsupptäckt.",
+            "Som en tillförlitlig mätvariabel.",
+            "Som en dåligt fungerande indikator. Reg vt 2016 verbal del 1.indd 7 2016-01-18 13:03:12"
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Om betygen försvinner blir det nödvändigt att hitta andra metoder för att välja vilka som skall få ____ utbildningsplatser. Svårigheten att hitta ____ som de flesta kan acceptera är sannolikt ett viktigt skäl till att betygen fortsätter att spela en viktig roll i det svenska utbildningssystemet.",
+        "options": [
+            "ringaktade – modeller",
+            "åtråvärda – alternativ",
+            "relevanta – visioner",
+            "pretentiösa – koncept"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "Under högkonjunkturen har fantastiska förmögenheter samlats hos ett litet antal redan rika, och samtidigt har allt fler unga fått en allt lägre ____ inkomst.",
+        "options": [
+            "plausibel",
+            "kompatibel",
+            "penibel",
+            "disponibel"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Den _____ spårsnön är ett lager finkornig, inte för våt tösnö, som är ett par centi- meter tjockt och ligger på ett jämnt, hårt underlag. Här _____ sig fotavtrycket klart och tydligt, och de typiska enskildheterna i de olika spåren är lätta att tyda.",
+        "options": [
+            "förnämsta – avspeglar",
+            "typiska – avskärmar",
+            "idealiska – avtecknar",
+            "karakteristiska – avskiljer"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Tinnitus, eller öronsusning, kan vara ett kliniskt symtom på störningar i det _____ systemet, men också ett symtom på en stressreaktion. Vid omhändertagandet av patienterna måste man skilja på varför tinnitus _____ och varför tinnitus blivit ett svårt lidande. Behandlingsstrategierna måste inriktas på _____ till att personen lider av tinnitussignalen.",
+        "options": [
+            "sensoriska – uppkommit – alternativen",
+            "auditiva – debuterat – orsakerna",
+            "akustiska – upplevts – markörerna",
+            "kognitiva – hörts – motiven"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Månskenet, och därmed månens inflytande, uppfattades ofta som ____. Därför undvek man att till exempel sova, spinna och torka tvätt i fullmånens sken, eftersom man inte kunde känna sig riktigt trygg.",
+        "options": [
+            "vådligt",
+            "marigt",
+            "glåmigt",
+            "tarvligt"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Glöden och den starka viljan att förverkliga ett ideal genom ____ man fått i och med väljarnas förtroende ____ kanske inte så snabbt bara övertygelsen är stark nog.",
+        "options": [
+            "den respons – antänds",
+            "den erinran – slocknar",
+            "det renommé – brinner ",
+            "det mandat – falnar"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Ett bra lösenord ska vara oregelbundet och långt. Ett tips är att använda sig av ____, då man exempelvis tar första bokstaven från varje ord i en mening som är lätt att komma ihåg.",
+        "options": [
+            "hypoteser",
+            "akronymer",
+            "hyperboler",
+            "parafraser"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Samtidigt som en enig kritikerkår i Danmark har hyllat dikternas konstnärliga kvalitet har det varit ____ omöjligt, såväl för den enskilda danska läsaren som för den breda danska offentligheten, att enbart förhålla sig till dikternas ____ kvalitet och ____ den smärtsamma verklighet som de skildrar.",
+        "options": [
+            "komplett – estetiska – förbigå",
+            "genuint – politiska – förstärka",
+            "direkt – eteriska – försumma",
+            "fatalt – poetiska – förorda"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Läkekonsten var under tidigare århundraden väsentligen grundad på ____, det vill säga på många ____ att olika droger, örter och åtgärder kunde bota och lindra olika symtom och sjukdomar.",
+        "options": [
+            "evidens – teser om",
+            "intuition – experiment på",
+            "empiri – observationer av",
+            "obduktion – bevis på"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "Det är underligt att vi fortfarande lever ____ att filmer för barn behöver ha övertyd- liga manus och helst djur eller sagoväsen i huvudrollerna för att gå hem.",
+        "options": [
+            "i en anda",
+            "i villfarelsen ",
+            "i det faktum",
+            "i resonemanget"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "What is implied here?",
+        "options": [
+            "Recycling has been found to be the best way to achieve a sustainable society. ",
+            "There is an urgent need to set up global popu­ lation targets.",
+            "More funding has now been allocated to mod­ ernize the food industry.",
+            "There is a risk of a world collapse unless more effort is put into energy production."
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "What are we told about recessions?",
+        "options": [
+            "Confident professionals seem to be less affected by them than those who are less sure.",
+            "They involve both risk­taking and gambling with other people’s money. ",
+            "They are related to lack of trust and are one of the ways in which capitalism works. ",
+            "They are a result of people’s unethical drive to make more money than they need. "
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "What is said in relation to the way New Orleans has presented itself to visitors?",
+        "options": [
+            "There is little reason why the city should see itself as a tourist magnet.",
+            "It has played down those aspects of its history that do not fit in with its tourist image. ",
+            "The city has failed to exploit the full commercial potential of modern tourism.",
+            "Its promotion of itself as a major tourist attraction is mainly the result of its glorious past."
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "What are we told in relation to New Orleans’ “particular relationship with catastrophe”?",
+        "options": [
+            "The city’s geographical position may in some ways be described as a recipe for disaster. ",
+            "People in New Orleans have long realized that the city’s prosperity is dependent on ",
+            "It is only in recent years that natural disasters have been a recurring feature of the city’s life.",
+            "New Orleans tends to see itself as the constant victim of mysterious forces beyond its control."
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "What is implied about different kinds of disasters in 19th-century New Orleans?",
+        "options": [
+            "Then, as now, hurricanes were regarded as the biggest threat to life and property.",
+            "The consequences of racial uprisings were looked upon as more serious than those of ",
+            "Epidemics of yellow fever seem to have been feared much more than natural disasters. ",
+            "Repeated outbreaks of cholera caused more deaths than any other disease."
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "Which of the following statements about the per-capita murder rate in New Orleans is most in agreement with the text?",
+        "options": [
+            "It has been rising for decades. ",
+            "After the hurricane, no reliable statistics are as yet available. ",
+            "It has been falling for decades.",
+            "After a temporary drop, it seems to be rising again."
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "What is the writer’s main point in connec- tion with New Orleans and Hurricane Katrina?",
+        "options": [
+            "The Katrina disaster has taught New Orleans a lesson that will help to prevent future ",
+            "Hurricane Katrina was only the latest in a long series of disasters. ",
+            "The Katrina tragedy was a unique historical event, unlikely to be repeated. ",
+            "Though devastating, Hurricane Katrina’s impact will be forgotten sooner than we now think."
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "What is said about the people described in relation to the impostor phenomenon?",
+        "options": [
+            "Cheating is one of their most prominent characteristics.",
+            "They do not experience the world as it actually is. ",
+            "Deceptive behavior is a common trait among such people.",
+            "Their dubious behavior seems to be prompted by research."
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What are we told about the “Mozart effect”?",
+        "options": [
+            "It is a great help to ambitious parents.",
+            "It is an exaggeration of results from research on music. ",
+            "Its importance has increased ever since it was established.",
+            "Its negative sides have now started to appear."
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

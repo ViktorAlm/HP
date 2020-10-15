@@ -1,0 +1,481 @@
+[
+    {
+        "question": "",
+        "options": [
+            "ledsam",
+            "tröstande",
+            "sörjande",
+            "medkännande",
+            "sentimental"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "moderator",
+        "options": [
+            "mellanchef",
+            "skulptör",
+            "auktionsutropare",
+            "debattledare",
+            "kläddesigner"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "subventionera",
+        "options": [
+            "beställa",
+            "stödja ekonomiskt",
+            "meddela",
+            "utse en ersättare",
+            "beskatta"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "dragplåster",
+        "options": [
+            "häftmassa",
+            "attraktion vid evenemang",
+            "fiskeredskap",
+            "påträngande person",
+            "överdrag"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "veterligen",
+        "options": [
+            "följaktligen",
+            "möjligtvis",
+            "såvitt känt",
+            "absolut",
+            "visserligen"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "singel",
+        "options": [
+            "grus",
+            "metall",
+            "gräsfrö",
+            "mynt",
+            "urdjur"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "förfaras",
+        "options": [
+            "bli oanvändbar",
+            "ta slut",
+            "upplösas",
+            "få nog",
+            "bli bortskämd"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "aladåb",
+        "options": [
+            "prydnadssten",
+            "havslevande djur",
+            "kall maträtt",
+            "allvetande person",
+            "prästdräkt"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "nihilist",
+        "options": [
+            "en som vägrar bära vapen",
+            "en som njuter av plågor",
+            "en som förnekar normer",
+            "en som lever i isolering",
+            "en som inte vill äga något"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "endogen",
+        "options": [
+            "inifrån kommande",
+            "tvåkönad",
+            "tydligt avgränsad",
+            "avsiktlig",
+            "ofta förekommande – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vilket påstående om läsningens roll i de beskrivna barnens dagliga skolundervis- ning överensstämmer bäst med texten?",
+        "options": [
+            "Läsning ges särskild prioritet framför många andra områden.",
+            " Barnen tränar läsning genom praktisk tillämpning i olika ämnen.",
+            "Läsundervisningen individanpassas i takt med att barnen lär sig mer.",
+            "Barnen får framför allt träna sin läsförmåga på texter som de själva valt ut."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Vad är det främsta problemet med ord- kedjetest, enligt textförfattarna?",
+        "options": [
+            "Testen bortser från individuell läsförmåga.",
+            "Testen saknar stöd i pedagogisk läsforskning.",
+            "Testen mäter bara inlärning och inte kunskap.",
+            "Testen är abstrakta och saknar sammanhang. Ordkedjor"
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Vad kan man allmänt säga om forsknings- resultaten beträffande sparvugglor vid Hammarö fågelstation?",
+        "options": [
+            "De tycks med tiden inkludera allt färre hanar.",
+            "De indikerar ökade skillnader över generatio- nerna.",
+            "De tycks vara likvärdiga från år till år.",
+            "De varierar allteftersom mätmetoderna ändras."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Vilken slutsats om sparvugglor är mest rimlig att dra av texten?",
+        "options": [
+            "Honor flyttar i större utsträckning än vad hanar gör.",
+            "Det tycks bli allt svårare att könsbestämma fågelarten.",
+            "Hanarna i olika generationer är mer lika varan- dra än honorna.",
+            "Hanar och honor flyttar vid olika tidpunkter. Sparvugglor"
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Vilken sorts arkitektur drömmer en tongi- vande del av dagens arkitektkår om, enligt textförfattaren?",
+        "options": [
+            "En arkitektur som anpassar sig till arkitekternas breddade kompetens.",
+            "En arkitektur som har en tydlig och självklar uppgift.",
+            "En arkitektur som finner inspiration i äldre byggnadsstilar.",
+            "En arkitektur som lyfter sig över tillfälliga tren- der och stilar."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Vilket syfte har textförfattaren med sin text?",
+        "options": [
+            "Att bemöta en kritik.",
+            "Att avsluta en debatt.",
+            "Att formulera en yrkesroll.",
+            "Att punktera en illusion. Samtalston"
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vad är enligt texten en av vinsterna med att börja studera svår maternell sjuklig- het?",
+        "options": [
+            "Fenomenet är vanligare i fattiga länder än i rika, vilket innebär att forskningsresurserna bör satsas ",
+            "Fenomenet speglar en växande ojämlikhet inom vården, vilket innebär att behovet av forskning ",
+            "Begreppet är gångbart och relevant i de allra flesta länder, vilket underlättar vårdinsatserna ",
+            "Begreppet fångar in fler individer än mödradöd- lighet gör, vilket innebär att forskarna kan dra "
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Vilken omständighet kan enligt textförfat- taren tala för att mödra- och förlossnings- vården är mera jämlik i Storbritannien än i Sverige?",
+        "options": [
+            "Invandrare utgör en större andel av befolkningen i Storbritannien än i Sverige.",
+            "Etnisk tillhörighet definieras annorlunda i Stor- britannien än i Sverige.",
+            "Vården är mera lättåtkomlig i Storbritannien än i Sverige.",
+            "Svår maternell sjuklighet är mera utforskad i Storbritannien än i Sverige."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Vad anger textförfattaren som en möjlig orsak till att det kan vara svårt att hantera maternell morbiditet?",
+        "options": [
+            "Brister i klassificeringen av utsatta etniska grupper.",
+            "Brist på studier av mödrar i låginkomstsituatio- ner.",
+            "Brister i utbildning och kompetens hos sjukhus- personalen.",
+            "Brist på jämförelser med förhållandena i andra länder."
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Hur ser textförfattaren på begreppet ”svår maternell sjuklighet” som undersök- ningsmått?",
+        "options": [
+            "Som en lämplig utvidgning av det smalare ”near miss”-måttet.",
+            "Som ett nytt oprövat mått av kvaliteten på mödra- och förlossningsvården.",
+            "Som ett ytterligare bidrag till kunskapen om mödrasjuklighet och mortalitet.",
+            "Som ett alltför allmänt begrepp utan precision i praktisk tillämpning."
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Vårt rättskrivningssystem är långt ifrån ____, och även om språkvården har till uppgift att försöka göra det mer följdriktigt stöter den ofta på inre konflikter. Språkets snåriga historia är inte alltid lätt att ingripa i. En grundregel i det svenska ____ systemet är att kort vokal ska följas av två konsonanter: lapp, rulla, matta.",
+        "options": [
+            "konsekvent – ortografiska",
+            "elementärt – monografiska",
+            "flexibelt – kalligrafiska",
+            "evident – stenografiska"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "Hon tar sig an de svåra fallen, människor som levt länge med smärtsamma arbets- skador, som har gått ut och in i jobb och åtgärder. Hon ser hur arbetsskadade ofta faller ____ och blir utan pengar; för sjuka för att kunna jobba eller få a-kassa, för friska för sjukersättning.",
+        "options": [
+            "på eget grepp",
+            "mellan stolarna",
+            "till föga",
+            "i onåd"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Intressant är att man i Italien, ____ vissa renässansläkares uppfattning om tuberku- losens smittsamhet, tidigt fick en lagstiftning med bland annat ____ att rapportera sjukdomsfall, sjukhustvång för de sjuka och bränning eller ____ av den sjukes bostad, kläder och husgeråd.",
+        "options": [
+            "i jämförelse med – tillstånd – kremering ",
+            "i enlighet med – plikt – desinficering ",
+            "i likhet med – uppsåt – sanering ",
+            "i samspråk med – påbud – karantän "
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Matematiken användes inte i antikens Grekland på samma sätt som i modern tid för att underlätta den industriella produktionen. Nej, den var en syssla för dåtidens gentlemän och värderades för sin egen skull såsom ____ för att uppnå den eviga sanningen och såsom en måttstock, upphöjd över sinnenas värld, med vars hjälp den synliga världen kunde fördömas såsom något ____.",
+        "options": [
+            "ett medel – sekunda",
+            "ett mål – promiskuöst ",
+            "en metod – essentiellt",
+            "ett medium – artificiellt NY PROVDEL"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Landet är inte bara en internationell smältdegel. Även de ursprungliga belgarna bildar en kulturell mångfald, så ____ att landet bör splittras, enligt somliga.",
+        "options": [
+            "disparat",
+            "förlegad",
+            "etnologisk",
+            "homogen"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Visst vilar en stor del av modernismen på konstnärliga grupperingar av olika slag, men det har oftast varit fråga om ett slags skyddssökande i karriärens början som de med- verkande författarna gärna tar avstånd ifrån sedan ____ blivit ett faktum.",
+        "options": [
+            "moderniteten",
+            " genombrottet",
+            "tillströmningen",
+            "offentligheten"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Från kontrollredskap till ____ verktyg; så skulle man kunna sammanfatta bedömnings- traditionens utveckling fram till idag. Lundahl har gjort en historisk studie där han tit- tat på hur lärarkåren har betraktat och utvecklat kunskapsbedömningen, i förhållande till statens behov av att bedöma eleverna och ____ skolan. Han menar att det är ett delikat ____ att balansera mellan hur mycket inflytande skolan ska ha, och samtidigt upprätthålla någon form av socialpolitisk rättvisa.",
+        "options": [
+            "metodiskt – utvärdera – privilegium",
+            "didaktiskt – kontrollera – dilemma",
+            "pedagogiskt – rangordna – ändamål",
+            "skolastiskt – utveckla – jämviktsproblem"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Råttor som inte fått oxytocin men vistats i samma bur som råttor som fått det har också, visar studier, blivit lugnare och fått ____ av stresshormoner. Denna effekt försvinner om man tillfälligt bedövar luktsinnet på de obehandlade råttorna i buren. Därför tror forskarna att överföringen av oxytocin kan ske med hjälp av ____.",
+        "options": [
+            "minskat behov – luften",
+            "dämpad effekt – buren",
+            "lägre halter – lukten",
+            "sänkt andel – pälsen"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Det är inte många år sedan en släktforskare var tvungen att lägga pengar och tid på att resa runt i landet och leta efter sina ____ i kyrkoarkiv och andra källor.",
+        "options": [
+            "stamträd ",
+            "ättlingar",
+            "släktklenoder",
+            "anfäder "
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "Detta visar att demokrati inte är något som man självklart bara har eller ärver, utan någonting av ____ värde man hela tiden måste försvara. Det betyder att ett kontinu- erligt medborgerligt engagemang, och inte bara punktinsatser vid ____ situationer, är av nöden.",
+        "options": [
+            "omistligt – akuta ",
+            "dyrbart – seriösa ",
+            "egenmäktigt – hotande ",
+            "relativt – specifika"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "What are we told?",
+        "options": [
+            "Dr Hayes and Professor Ecclestone argue that it is irresponsible of schools not to offer therapy ",
+            "Dr Hayes and Professor Ecclestone point out some negative aspects of offering therapy on the ",
+            "Students in general are today socially and emotionally very mature",
+            "Social and emotional aspects of learning should be compulsory in any subject"
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "What are we told?",
+        "options": [
+            "Synaesthesia is more common among adults than previously known",
+            "Babies’ brains develop thanks to the recently discovered system of synaesthesia",
+            "Synaesthesia is a remnant of a brain function found in new-born babies ",
+            "serious disorder called synaesthesia has been discovered among adults",
+            "review of a book by Gerald Posner Until it was sold to Boston Ventures in 1988, Motown "
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "What is said about the music produced by Motown?",
+        "options": [
+            "It was mainly a mixture of black and white music",
+            "It was black music adapted to attract white listeners as well ",
+            "It was intended for white rather than black audiences",
+            "It was the result of black and white artists working together"
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "What was Gordy’s underlying motiva- tion for starting Motown, according to the",
+        "options": [
+            "He wanted white people to pay more attention to black music",
+            "The black community had not previously had its own record company",
+            "He saw it as a possible way of achieving fame and fortune ",
+            "Black artists had long had difficulty getting their music recorded"
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "Which of the following views on Gerald Posner’s book is best in agreement with the reviewer’s impression?",
+        "options": [
+            "Posner’s abilities as an experienced journalist make his book come alive",
+            "Due to its relative lack of original sources, it can offer few new insights ",
+            "Its main ideas about crossing over as a racial issue may be questioned",
+            "Although impressive, Posner’s musical sensitivity is not put to good use "
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "What are we told about Berry Gordy’s background?",
+        "options": [
+            "He had been in the music business before he founded Motown ",
+            "His family had been active in the civil-rights movement ",
+            "He had personally experienced racial prejudice as a child",
+            "His interest in black music had been triggered by gospel songs"
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "Which of the following statements is true of Gordy, according to the text?",
+        "options": [
+            "His financial interests did not prevent him from taking a keen interest in black music ",
+            "He himself had few ideas about what kind of music would sell the most records",
+            "His reputation as the creator of Motown suf- fered as a result of his shady business deals ",
+            "He was one of the very first black people to start an independent record company "
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "What is suggested in the text?",
+        "options": [
+            "Narcissism threatens the survival of the human species",
+            "Professor Corr believes that narcissism is be com ing increasingly important for individuals",
+            "With evolution narcissism has turned into a personality disorder",
+            " Narcissism is beneficial if kept at a reasonable level "
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What is implied here?",
+        "options": [
+            "Philosophers, rock stars and famous athletes have unequal status in France",
+            "French television is known for its programmes on modern art and education",
+            "Academics in France are common guests on TV programmes ",
+            "French professionals have worked out a solution to the punctuation dilemma "
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

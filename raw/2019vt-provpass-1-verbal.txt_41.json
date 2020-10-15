@@ -1,0 +1,489 @@
+[
+    {
+        "question": "",
+        "options": [
+            "förtryckt",
+            "inställsam",
+            "försiktig",
+            "bristfällig",
+            "förstummad"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "kandelaber",
+        "options": [
+            "soppskål",
+            "festtåg",
+            "bakverk",
+            "kyrkorum",
+            "ljusstake"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "exponera",
+        "options": [
+            "överdriva",
+            "utsätta",
+            "företräda",
+            "utarma",
+            "överlägga"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "feromoner",
+        "options": [
+            "smaksättare",
+            "nässeldjur",
+            "slingerväxter",
+            "näringspreparat",
+            "doftämnen"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "habil",
+        "options": [
+            "duglig",
+            "modern",
+            "artig",
+            "långsam",
+            "farlig"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "uppsåt",
+        "options": [
+            "impuls",
+            "avsikt",
+            "drivkraft",
+            "tillsyn",
+            "innebörd"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "förpassa",
+        "options": [
+            "planera",
+            "skylla på",
+            "prova ut",
+            "skicka bort",
+            "varna"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "polyglott",
+        "options": [
+            "fantasifull",
+            "rakryggad",
+            "öppenhjärtig",
+            "flerspråkig",
+            "allsidig"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "grift",
+        "options": [
+            "gåva",
+            "tunnel",
+            "inhägnad",
+            "borgruin",
+            "grav"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "fullvärdig",
+        "options": [
+            "fullblodig",
+            "fullgod",
+            "fullbordad",
+            "fullärd",
+            "fullmogen – 2 – – 3 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vilket påstående om Erik Falks avhandling stämmer bäst överens med recensentens ­uppfattning?",
+        "options": [
+            "Avhandlingen är tydlig och lättillgänglig, men har ett alltför begränsat urval som utgångspunkt.",
+            "Avhandlingen är tematiskt avancerad, men förlitar sig för mycket på andra studier.",
+            "Avhandlingen innehåller genomgående gedigna analyser, men är för otydlig i sina slutsatser.",
+            "Avhandlingen ger ny värdefull kunskap, men utelämnar vissa perspektiv."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Varför fyller Erik Falks forskning om förolämp- ningar­en­viktig­funktion,­enligt­texten?",
+        "options": [
+            "Den leder till att tidigare obesvarade språk- vetenskapliga frågor nu kan besvaras.",
+            "Den bidrar till en nyorientering inom den fortsatta historiska forskningen.",
+            "Den skapar förutsättningar för framtida, för- djupande studier.",
+            "Den bekräftar tidigare forskningsresultat om språket som ett maktmedel."
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Vilken innebörd lägger Maria Norlén i begrep- pet­”sluttande­plan”?",
+        "options": [
+            "Att utvecklingen går mot att patienterna ensam- ma bestämmer över sin död.",
+            "Att vi är på väg mot en ordning där läkare tvingas fatta beslut som går emot deras samvete.",
+            "Att det sker en tillvänjningsprocess som förskju- ter tidigare uppfattningar om rätt och fel.",
+            "Att gränsen mellan vad som ska betraktas som botbara respektive obotliga sjukdomar förflyttas."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Vilket av följande påståenden stämmer bäst överens med det P C Jersild skriver i sin kom- mentar?",
+        "options": [
+            "Förändringar sker ofta långsamt.",
+            "Man bör se positivt på förändring.",
+            "Nya förutsättningar gör ibland saker sämre.",
+            "Man bör kunna anpassa sig till nya förutsätt- ningar."
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Vilken­risk­ser­Sven­Román­med­att­tillåta­själv- valt­livsslut?",
+        "options": [
+            "Att människors tillit till läkare tar skada. ",
+            "Att läkare tvingas agera mot sin egen övertygelse.",
+            "Att människor som redan har det svårt blir ännu mer utsatta.",
+            "Att läkare inte längre agerar utifrån enskilda patienters bästa."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Vilket av följande påståenden överensstämmer bäst­med­det­Berit­Hasselmark­skriver?",
+        "options": [
+            "Holländska och belgiska läkares misstänksamhet mot självvalt livsslut beror på deras vilja att alltid ",
+            "Läkares rädsla för döden gör dem ovilliga att diskutera möjligheten till självvalt livsslut.",
+            "Svenska läkares motstånd mot självvalt livsslut beror på deras ovilja att vårda obotligt sjuka ",
+            "Läkares förhållandevis höga yrkesmoral gör dem negativt inställda till självvalt livsslut."
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vad­menar­textförfattaren­är­grundproblemet­ med hur skolans styrdokument beskriver de- mokrati?",
+        "options": [
+            "Demokrati framställs som något självklart.",
+            "Beskrivningen av demokrati är för svävande och otydlig.",
+            "Eleverna förutsätts ha en redan färdig definition av demokrati. ",
+            "Den bild av demokrati som ges överensstämmer bara delvis med verkligheten."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Vilket av följande exempel beskriver bäst det som­textförfattaren­kallar­”arbete­i­formella­ strukturer”?",
+        "options": [
+            "Att delta i en politisk demonstration.",
+            "Att företräda en fackförening på sin arbetsplats.",
+            "Att bli medlem i en ideell förening.",
+            "Att skriva debattartiklar i lokaltidningen."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Skolans­förutsättningar­att­träna­elever­i­demo- kratiska­arbetsformer­är,­enligt­textförfattaren,­ delvis­begränsade.­Varför?",
+        "options": [
+            "Forskning visar att allt färre uppfattar skolans värld som demokratisk.",
+            "Skolan ställer alltför höga krav på förmågan att hantera intressekonflikter.",
+            "Eleverna saknar faktisk makt över verksamheten i skolan.",
+            "Skolmiljön ger för litet utrymme åt eleverna som individer."
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Vad­riskerar­dagens­elever­att­få­för­lite­övning­i,­ enligt­textförfattaren?",
+        "options": [
+            "Att nå en lösning trots att inte alla inblandade är överens.",
+            "Att fatta beslut som inte leder till motsättningar.",
+            "Att lyssna på alla inblandade och ge plats åt deras åsikter.",
+            "Att föra fram sin åsikt i ett större sammanhang. – 8 – – 9 –"
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Varje nytt gruvprojekt måste _____ av Mark- och miljödomstolen utifrån konsekvenserna för miljön. Nyligen stoppades brytningen i LKAB:s senaste järnmalmsgruva i Svappavaara efter att Naturvårdsverket överklagat Mark- och miljödomstolens beslut att ge tillstånd till malmbrytning.",
+        "options": [
+            "ersättas",
+            "åtgärdas",
+            "prövas",
+            "avskrivas"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "En viss del av näthinnan kan _____ detaljer i en blomma, samtidigt som andra delar av samma näthinna kan uppfatta _____ rörelser i mörkret.",
+        "options": [
+            "registrera – eventuella",
+            "utmejsla – diskreta",
+            "skärskåda – mänskliga",
+            "observera – osynliga"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Inom varje utskott i FN diskuterar man olika specialområden, _____ förslag kring frågor _____ till respektive område och ger förslag på resolutioner som kan antas av generalförsamlingen. De resolutioner som antas blir inte lagligt _____ , men däremot kan de ses som normgivande.",
+        "options": [
+            "utarbetar – rörande – företrädda",
+            "etablerar – anslutna – godkända",
+            "överväger – relaterade – bindande",
+            "reviderar – invalda – fastslagna"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Enligt utbildningsministern visar det finländska exemplet tydligt att tidigt stöd förbättrar möjligheterna till goda resultat under senare delen av grundskolan. Det ökar också möjligheterna att bygga en skolkultur där det _____ att elever har olika förutsättningar och förmågor, och där extra pedagogiska insatser aldrig uppfattas som utpekande eller _____.",
+        "options": [
+            "negligeras – selektiva",
+            "definieras – konserverande",
+            "kompenseras – generella",
+            "accepteras – stigmatiserande"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Byte till njurfoder har effekt mot den acidos som hundar ofta drabbas av i samband med att njurarnas funktion avtar. Om foderbytet inte ger tillräcklig effekt kan vete- rinären _____ mediciner som innehåller kaliumcitrat eller bikarbonat.",
+        "options": [
+            "intubera",
+            "ordinera",
+            "remittera",
+            "preskribera"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Sett över en längre period hade Sveriges bruttonationalprodukt (BNP) utvecklats något svagare än i många andra EU-länder. Eftersläpningen _____ dock i mitten av 1990-talet. Från denna tidpunkt har Sveriges _____ legat i nivå med många jämför- bara länders, eller till och med något över.",
+        "options": [
+            "tilltog – standard",
+            "eskalerade – ekonomi",
+            "stagnerade – status",
+            "upphörde – tillväxt"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "I det sammanhanget kan jag berätta ännu en belysande _____. Under tiden som den inledningsvis nämnda utställningen på Uppsala konstmuseum pågick, slank jag en kväll in på mitt _____ för att dricka öl. Där träffade jag en ung herre, som jag var _____ bekant med.",
+        "options": [
+            "teori – favorithak – centralt",
+            "historia – grannkvarter – strikt",
+            "anekdot – stamlokus – perifert",
+            "gimmick – mingelställe – adekvat"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Det finns gott om djur som anpassar sitt beteende till kommande tider. När vintern närmar sig flyger svalorna söderut och björnarna går i ide. Men den typen av _____ kan mycket väl vara styrda av mer eller mindre fasta beteendeprogram, snarare än av inre _____ om en ny situation i framtiden.",
+        "options": [
+            "insikter – farhågor",
+            "avvikelser – instinkter",
+            "arrangemang – upplevelser",
+            "förberedelser – föreställningar – 10 –"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Sverige har en mycket liberal presslagstiftning. En av dess hörnstenar är systemet med ansvarig utgivare. Det _____ till exempel på den som är ansvarig utgivare att avgöra om en bild ska publiceras eller inte.",
+        "options": [
+            "ingår",
+            "tillträder",
+            "utövar",
+            "ankommer"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "Många av de barnfilmer som är i produktion för närvarande är _____ filmer som bygger på kända förlagor. När det gäller den mer _____ filmen, som exempelvis speglar barnens egen verklighet, har den stora svårigheter att få finansiering.",
+        "options": [
+            "publikdragande – utmanande",
+            "grandiosa – karaktäristiska",
+            "utländska – inhemska",
+            "animerade – populistiska – 11 –"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "What is the main point here?",
+        "options": [
+            " Age-related changes in personality have pre- viously been overstated. ",
+            " Researchers have finally been able to under- stand how age shapes our personality.",
+            " Age-related diseases affecting one’s personality appear to be on the increase.",
+            " Researchers have found separate personality patterns among people under and over 30."
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "What is said here concerning executions in Britain?",
+        "options": [
+            " The death penalty was not abolished until the mid-19th century.",
+            " Public executions stopped when the Victorians found less primitive forms of amusement.",
+            " There is no consensus about the reason why public hangings finally ended. ",
+            " Even upper-class people found pleasure watching public executions."
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "What is the main argument in the opening paragraph?",
+        "options": [
+            " People may differ a great deal concerning the amount of money they donate.",
+            " Different churches favour different ways of collecting money from people.",
+            " People tend to give away more money if they know they are being watched. ",
+            " Social factors are relevant regarding people’s willingness to donate money."
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "What are we told about goodness of heart as a human property?",
+        "options": [
+            " It seems to be viewed with a great deal of scep- ticism nowadays. ",
+            " It has been proved to be an illusion that does not pass the test of reality.",
+            " It can be seen as wishful thinking dressed up as religious dogma.",
+            " It is a noble instinct that is becoming increasingly rare these days."
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "What, according to the writer, is especially problematic about discussions of charity?",
+        "options": [
+            " The notion that giving away money is an accept- able way of boosting one’s moral ego. ",
+            " The fact that only wealthy people can afford to buy a clear conscience.",
+            " The idea that giving money to those in need is politically unacceptable.",
+            " The argument that only completely unselfish donations are truly ethical. "
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "How can the author’s main view of charity best be summarized?",
+        "options": [
+            " Some of its psychological consequences are highly questionable.",
+            " What counts is its effects, not the causes under- lying donors’ will to help. ",
+            " Its results so far demonstrate its severe practical limitations. ",
+            " Regardless of its benefits, recipients risk getting long-term dependent on it. "
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "Which of the following words most clearly reflects the specific risk discussed by the author in relation to “ethical consumerism”?",
+        "options": [
+            " Self-denial",
+            " Self-protection",
+            " Self-satisfaction",
+            " Self-consciousness – 14 – – 15 –"
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "What is said in this text with regard to the decline in infant mortality?",
+        "options": [
+            " It would have been less pronounced without the MDGs.",
+            " The effect of the MDGs has not yet been clearly established. ",
+            " The MDGs initiated the positive trend in the early 21st century.",
+            " Only a minor role appears to have been played by the MDGs."
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What is said about king penguins?",
+        "options": [
+            " Their orange color is thought to function as a visual mating signal.",
+            " They make use of color markings that cannot be perceived by humans. ",
+            " They show greater within-species color variation than other species do.",
+            " Their orange patches gradually fade after they have found a mating partner. "
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    },
+    {
+        "question": "7m children aged five or under died) was one of the UN’s Millennium Development Goals (MDGs), a set of eight development targets for 2015 approved at a UN summit in 2000. Working out the extent to which the MDGs were responsible for this decline has become a big part of the debate over whether they were a success or not. The main difficulty is to guess what would have happened had the MDGs not been set; during the 1990s, the number of child deaths was already falling steeply. King Penguins Tall in stature and long of beak, king penguins bear strik- ing color patches along their necks, ear regions, and the sides of their beaks. In the visible light spectrum, these beak patches appear orange. Penguins are able to see into the ultraviolet region of the electromagnetic spectrum, however, and can detect additional patches of ultraviolet color along the lower bill that are imperceptible to human eyes. Scientists hypothesize that these beak markings signal sexual maturity and make penguins more attrac- tive to mates. As a king penguin matures, the ultra violet hue of the beak markings increases. In wild penguin stud- ies, scientists have documented higher ultraviolet reflec- tance in recently formed male-female pairs. ELF Question",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 40,
+        "answer": ""
+    }
+]

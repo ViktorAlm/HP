@@ -1,0 +1,102 @@
+[
+    {
+        "question": "",
+        "options": [
+            "i (1) men ej i (2) == Den information som ges i (I) är tillräcklig. Enbart in­ formationen i (2) räcker inte till. ",
+            "i (2) men ej i (1) == Den information som ges i (2) är tillräcklig. Enbart in­ formationen i ( 1) räcker inte till. ",
+            "i ( 1) tillsammans med (2) == För att få tillräcklig information måste man an­ vända både påstående (I) och (2). Enbart (1) eller en­",
+            "i ( 1) och (2) var för sig== Antingen ( 1) eller (2) kan användas, eftersom båda var för sig innehåller tillräckligt mycket information. ",
+            "� genom de båda påståendena == inte ens genom att utnyttja både ( 1) och (2) kan man få tillräcklig information. ",
+            "i (1) men ej i (2) ",
+            "i (2) men ej i (1) ",
+            "i ( 1) tillsammans med (2) ",
+            "i (1) och (2) var för sig ",
+            "� genom de båda påståendena Informationen i påstående ( 1) räcker för att besvara frågan. Informa­",
+            "i (1) tillsammans med (2) "
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "Mervärdesskatten (momsen) höjdes den 8 september 1980 till 23,46 procent. Hur stor var momsen före denna höjning? (1) Momsen höjdes med 13,72 procent. (2) Momsen höjdes med 2,83 procentenheter.",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "Ett vattenhjul har en diameter på 4 m. Hur många m/min rör sig en punkt på hjulets omkrets när hjulet är i rörelse? ( 1) Hjulet snurrar 16 varv per minut. (2) Hjulets omkrets är 12,6 meter.",
+        "options": [
+            "i (2) men ej i ( 1) , I "
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "Hur mycket högre var år 1982 den genomsnittliga produktions­ kostnaden i kronor per m2 för flerbostadshus jämfört med små­ hus? (1) Den genomsnittliga produktionskostnaden per m2 för små­ hus var 88 procent av produktionskostnaden för flerbo­ stadshus. Produktionskostnaden per m2 i flerbostadshus var i genomsnitt 5 000 kr. (2) Den genomsnittliga produktionskostnaden för flerbostads­ hus var 600 kr högre per m2 jämfört med motsvarande kost­ nad för småhus.",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "Antalet elever i grundskolan redovisas varje läsår av SCB. Hur många elever fanns det i grundskolan läsåret 1986/87? (1) Det fanns 84 284 färre elever i grundskolan läsåret 1986/87 än under läsåret 198 1/82. (2) Indextalet för antalet elever i grundskolan läsåret 1986/8 7 var 91,7 med läsåret 1981/82 som basår (index = 100). A B C D E i (1) men ej i (2) i (2) men ej i (1) i (1) tillsammans med (2) i ( 1) och (2) var för sig � genom de båda påståendena",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "Ar 1982 arbetade 1,2 miljoner människor på obekväm arbetstid i Sverige. Hur stor andel av dessa var kvinnor? (1) 32 procent av den kvinnliga arbetskraften arbetade på obekväm arbetstid. (2) 26 procent av den manliga arbetskraften arbetade på .)",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "Hur många soffor och personer fanns det i rummet? (1) Om man placerade 5 personer i varje soffa, blev 4 personer utan sittplats. (2) Om man placerade 4 personer i en soffa och 6 personer i var och en av de övriga, fick alla personer sittplats.",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "En dammsugare såldes till nedsatt pris. Hur stor var rabatten i procent? (1) Rabatten var 40 kr, vilket var en tjugondel av ordinarie pris. (2) Efter rabatt såldes dammsugaren till 9 5 procent av ordi- narie pris.",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "USA och Sverige tillhör de telefontätaste länderna i världen. Hur många telefoner per 1 000 invånare fanns det i Sverige år 1983? ( 1) I USA och Sverige fanns det 248 respektive 239 gånger fler telefoner per 1 000 invånare än i Indien. (2) I USA fanns det 27 fler telefoner per 1 000 invånare än i Sverige och 741 fler telefoner per 1 000 invånare än i Indien. )",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "Gunilla tar en lott ur en urna som innehåller 200 lotter. Bland vinstlotterna finns såväl hög- som lågvinster. Hur stor är sanno­ likheten för Gunilla att få en högvinst om hon skulle ta en vinst­ lott? (1) I urnan finns 1 72 nitlotter. (2) Sannolikheten att fä en högvinst är 0,04.",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    }
+]

@@ -1,0 +1,481 @@
+[
+    {
+        "question": "",
+        "options": [
+            "tillställning",
+            "förberedelse",
+            "kartläggning",
+            "skapelse",
+            "inredning"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "vinna gehör",
+        "options": [
+            "bli framgångsrik",
+            "uppfatta tydligt",
+            "få medhåll",
+            "lyssna in",
+            "få en fördel"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "fradga",
+        "options": [
+            "rök",
+            "ånga",
+            "kyla",
+            "skum",
+            "vätska"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "rådvill",
+        "options": [
+            "målmedveten",
+            "oförnuftig",
+            "välmenande",
+            "obeslutsam",
+            "tankfull"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "genmäle",
+        "options": [
+            "eko",
+            "svar",
+            "utrop",
+            "fråga",
+            "påstående"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "retro-",
+        "options": [
+            "ny-",
+            "för-",
+            "utåt-",
+            "mot-",
+            "tillbaka-"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "läckergom",
+        "options": [
+            "skämtare",
+            "hedersman",
+            "snygging",
+            "finsmakare",
+            "charmör"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "differentiera",
+        "options": [
+            "dra ner på",
+            "bedöma",
+            "lista ut",
+            "avskärma",
+            "skapa variation i"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "bilateral",
+        "options": [
+            "ömsesidig",
+            "jämställd",
+            "målinriktad",
+            "inofficiell",
+            "motstridig"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "allegori",
+        "options": [
+            "grov överdrift",
+            "debattskrift",
+            "bildlig framställning",
+            "högtidstal",
+            "visdomsord – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Textförfattaren nämner att deltagande i fritidsverksamhet är frivillig. Varför gör han det?",
+        "options": [
+            "För att visa på konsekvenserna av att göra fritidsverksamheten obligatorisk.",
+            "För att ta upp frågan vad skolan egentligen menar med fritid.",
+            "För att påminna om att barnen själva bör få vara med och bestämma över sin tid.",
+            "För att uppmärksamma att fritidsverksamheten diskuteras som om den vore obligatorisk."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Vilket påstående överensstämmer bäst med texten?",
+        "options": [
+            "Övertygande forskning om fritidshemmens roll i skolan är en bristvara.",
+            "Politiska intressen har ofta gått före barns behov när beslut tagits kring fritidshem.",
+            "Ju fler som deltar i diskussionen om fritidshem- men, desto bättre är det.",
+            "Beslutsfattare bör fundera över vilka alternativ som finns till fritidshem."
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Vilket ord beskriver bäst den upplevelse som merparten av patienterna i studien hade av vårdmötena?",
+        "options": [
+            "Samhörighet.",
+            "Osäkerhet.",
+            "Tillfredsställelse.",
+            "Kommunikationsproblem."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Ansåg läkarna, enligt enkäten, att mötet med patienterna medförde något specifikt problem?",
+        "options": [
+            "Ja, läkarna menade att tolkarnas språk var förenklat.",
+            "Ja, läkarna upplevde i viss mån tidspress.",
+            "Ja, läkarna ansåg att de fick felaktig information.",
+            "Nej, läkarna ansåg inte att mötet medförde något specifikt problem. "
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Hur uppfattar textförfattaren Jan Lööfs teckningar?",
+        "options": [
+            "Som naiva och äventyrliga.",
+            "Som vardagliga och lättolkade.",
+            "Som detaljerade och fängslande.",
+            "Som tillrättalagda och undervisande."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Textförfattaren menar att Lööf har en speciell förmåga. Hur skulle den kunna beskrivas?",
+        "options": [
+            "Förmågan att via det enkla och jordnära vidröra det tidlösa. ",
+            "Förmågan att avbilda en värld som tilltalar såväl barn som vuxna.",
+            "Förmågan att berätta en historia utan att krångla till det.",
+            "Förmågan att visa hur till synes svåra saker egentligen är ganska enkla. "
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vad är det yttersta syftet med det forsk- ningsprojekt som texten beskriver?",
+        "options": [
+            "Att överföra vissa önskvärda egenskaper mellan olika sorters kassava.",
+            "Att studera kassavans genetiska bakgrund och jämföra den med andra grödor.",
+            "Att kartlägga samspelet mellan kassavans gen- uppsättning och dess växtmiljö.",
+            "Att genom växtförädling ge vild kassava ett förbättrat näringsinnehåll."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Vad gör enligt texten den odlade kassavan till ett intressant studieobjekt?",
+        "options": [
+            "Grödans användbarhet inom den genetiska grundforskningen.",
+            "Grödans förmåga att klara torka och sjukdoms- angrepp.",
+            "Grödans ekonomiska och sociala betydelse i odlingsländerna.",
+            "Grödans ovanligt komplexa genetiska struktur."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Hur har forskarna skapat den så kallade kartläggningspopulationen, enligt texten?",
+        "options": [
+            "Med hjälp av upprepade korsningar.",
+            "Med hjälp av storskaliga odlingsförsök.",
+            "Med hjälp av datorstödd förädling.",
+            "Med hjälp av avancerade gentester."
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Vilket problem har uppstått under Anna Westerberghs forskningsprojekt?",
+        "options": [
+            "Projektet har fördröjts av Sidas byråkratiska funktionssätt.",
+            "Själva korsningsarbetet har tagit oväntat lång tid.",
+            "Kulturskillnaderna mellan Sverige och Colombia har varit svåra att överbrygga.",
+            "Skadeinsekter och sjukdomar har drabbat grö- dorna."
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Eftersom oxytocinsystemet i grunden är ett däggdjurssystem innebär det stora för- delar att forska om djur och människor ____. Alla däggdjur reagerar precis likadant. Stryker man en råtta på magen cirka fyrtio gånger per minut sjunker blodtrycket och ____ stresshormon minskar.",
+        "options": [
+            "alternativt – procenten",
+            "experimentellt – graden",
+            "selektivt – andelen",
+            "parallellt – halten"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "Det troliga är att valen ____ individernas talanger, det vill säga de väljer den utbildning som passar dem bäst.",
+        "options": [
+            "kompletterar",
+            "framhäver",
+            "avspeglar",
+            "förstärker"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Årtusendets första sekunder kom att ____ av en särskild intensitet: Y2K-buggen, att allt skulle upphöra att fungera eftersom ettorna och nollorna inte klarade av över- gången från 99 till 00, var samtalsämnet på var mans läppar. Det ____ tillvaron en visshet om att vi alla hängde samman i en ny digital gemenskap. ____ nog blev vi med- vetna om denna gemenskap i exakt samma ögonblick som dess sammanbrott förkun- nades.",
+        "options": [
+            "lysa – tillförde – Tacksamt",
+            "vibrera – förlänade – Ironiskt",
+            "domineras – medförde – Tråkigt",
+            "eskalera – försäkrade – Märkligt"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Det dessa nya rön ____ är att vattenmolekyler på månen skapas av solvindspartiklar som slår ner på månens yta. Månens yta är täckt av regolit, som består av oregelbund- na dammpartiklar. När solpartiklarna träffar månens yta fastnar de mellan dammpartik- larna och ____ sedan med syret i måndammet, vilket skapar vattenmolekyler.",
+        "options": [
+            "förklarar – interagerar",
+            "bevisar – kombinerar",
+            "studerar – harmonierar",
+            "beskriver – assimilerar"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "När de åtta biskopskandidaterna intervjuades nämndes inte vid något tillfälle bety- delsen av en hög kvalitet på ____, trots att just dop, vigslar och begravningar är den främsta anledningen för många att vara medlemmar i Svenska kyrkan.",
+        "options": [
+            "livsgärningarna",
+            "installationerna",
+            "förrättningarna",
+            "konventionerna"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Regeringen ____ också frågan om en ____ för lärarna i särskolan, så att behörighets- reglerna inte börjar gälla för dem redan 2015.",
+        "options": [
+            "diskuterar – deadline ",
+            "tangerar – behörighet",
+            "planerar – paus",
+            "bereder – tidsfrist"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Inom primärvården uppgick under 2011 antalet skrivna recept på fysisk aktivitet till över 2 000. All legitimerad sjukvårdspersonal har rätt att ____ fysisk aktivitet på re- cept.",
+        "options": [
+            "underteckna",
+            "bestyrka",
+            "attestera",
+            "förskriva"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Lagen om ____ upphandling (LOU, 2007:1091) reglerar köp som görs av myndigheter och andra organisationer som är finansierade med ____ medel.",
+        "options": [
+            "optionell – statliga",
+            "officiell – likvida",
+            "objektiv – ideella",
+            "offentlig – allmänna"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Det finns åtskilliga argument som brukar användas mot förslaget om en enda regering för hela världen. Det vanligaste är att förslaget är ____ och omöjligt. De som använ- der detta argument tänker, liksom flertalet av dem som ____ en världsregering, på en världsstyrelse som ____ genom ett avtal.",
+        "options": [
+            "trivialt – anbefaller – startats upp ",
+            "visionärt – bedyrar – satts i verket",
+            "arketypiskt – värdesätter – fått sin grund",
+            "utopiskt – förordar – kommit till stånd "
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "Det är ytterligt viktigt att upptäcka risken för vibrationsskada så tidigt som möjligt; endast då kan ____ åtgärder sättas in. En person kan till exempel rekommenderas alternativa arbetsformer så att utvecklingen av en vibrationsskada därigenom förhind- ras.",
+        "options": [
+            "profylaktiska",
+            "farmakologiska",
+            "antiseptiska",
+            "diagnostiska"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "31.",
+        "options": [
+            "during",
+            "against",
+            "beyond ",
+            "despite"
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "32.",
+        "options": [
+            "consistently ",
+            "rarely ",
+            "barely",
+            "regularly"
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "33.",
+        "options": [
+            "goods ",
+            "material",
+            "data ",
+            "prices"
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "34.",
+        "options": [
+            "splash out ",
+            "cash in",
+            "hold back ",
+            "stand by"
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "35.",
+        "options": [
+            "if",
+            "after",
+            "unless",
+            "although – 11 – FORTSÄTT PÅ NÄSTSID»",
+            "review of a book by Nicholas Thomas Nicholas Thomas’s new book, Islanders: The Pacific in the Age "
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "What is implied about the Pacific in the opening paragraph?",
+        "options": [
+            "Its history of travelling is shorter than was once thought.",
+            "It was first explored by seafaring people from various European countries.",
+            "Its far-off islands were practically unknown before 1800.",
+            "It has been crossed by different kinds of people since ancient times."
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "Which of the following expressions best reflects the relationship between the Pacific islanders and their European visitors as viewed by Nicholas Thomas?",
+        "options": [
+            "Mutual influence. ",
+            "lack of equality.",
+            "Constant suspicion.",
+            "sense of fairness."
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "In what way, according to the text, do Epeli Hau’ofa and Nicholas Thomas differ in relation to the Pacific islanders?",
+        "options": [
+            "Hau’ofa tends to stress dissimilarities between different groups of islanders.",
+            "Thomas is chiefly interested in the intellectual achievements of the islanders. ",
+            "Hau’ofa views the islanders as making up one people united by the sea. ",
+            "Thomas is mainly concerned with what distinguishes the islanders from other people."
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What was special about Pacific voyages, according to Nicholas Thomas?",
+        "options": [
+            "They were chiefly made by people from outside the region. ",
+            "They had a considerable mental impact on the travellers’ native countries. ",
+            "They may be regarded as early examples of mass tourism in the modern sense.",
+            "They gave an idyllic impression of life in this part of the world."
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

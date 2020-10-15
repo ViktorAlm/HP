@@ -1,0 +1,480 @@
+[
+    {
+        "question": "",
+        "options": [
+            "utspädning",
+            "nybildning",
+            "sönderdelning",
+            "förkortning",
+            "spridning"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "magnifik",
+        "options": [
+            "högtidlig",
+            "förhärligad",
+            "överordnad",
+            "praktfull",
+            "förfinad"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "valör",
+        "options": [
+            "mängd",
+            "värde",
+            "standard",
+            "form",
+            "växel"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "etsa sig in",
+        "options": [
+            "blanda sig i",
+            "vänja sig vid",
+            "kämpa sig igenom",
+            "ta kontroll över",
+            "bränna sig fast"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "lobotomi",
+        "options": [
+            "blodanalys",
+            "skiktröntgen",
+            "tarmundersökning",
+            "hjärnoperation",
+            "ögonbehandling"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "uppfordrande",
+        "options": [
+            "upprepande",
+            "utvärderande",
+            "uppmanande",
+            "utmärkande",
+            "upplysande"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "bifall",
+        "options": [
+            "medverkan",
+            "synpunkt",
+            "tilltal",
+            "lydnad",
+            "samtycke"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "svartmåla",
+        "options": [
+            "förtala",
+            "utmärka",
+            "förstöra",
+            "dölja",
+            "förfula"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "hårdragen",
+        "options": [
+            "obetydlig",
+            "långsökt",
+            "plågsam",
+            "finkänslig",
+            "svårsmält"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "lekamen",
+        "options": [
+            "redskap",
+            "kropp",
+            "partikel",
+            "gräns",
+            "tecken – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Hur förhöll sig den redovisade studiens resultat till tidigare studiers, enligt texten?",
+        "options": [
+            "Det bekräftade att det inte finns några genetiska skillnader mellan sill och strömming.",
+            "Det visade att de genetiska skillnaderna mellan sill och strömming är färre men mer omfattande än ",
+            "Det bekräftade att det finns få genetiska skillna- der mellan sill och strömming.",
+            "Det visade att de genetiska skillnaderna mellan sill och strömming är mindre omfattande än man "
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Inom vilken forskning kan studier av sill och strömming vara användbara, enligt texten?",
+        "options": [
+            "Forskning om geners betydelse för klassificering av arter och bestånd.",
+            "Forskning om hur arvsanlag påverkas av miljö- relaterade faktorer.",
+            "Forskning om vad som är arter och vad som bara bör klassificeras som underarter.",
+            "Forskning om hur individuella avvikelser uppstår i miljöer med likartade livsbetingelser."
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Vad vill textförfattaren ha sagt med sitt resonemang om förhållandet mellan härmning och ”eget språk”?",
+        "options": [
+            "Att det egentligen är meningslöst att tala om dem som två skilda saker.",
+            "Att de båda sakerna bör hållas isär om språk- utvecklingen ska bli gynnsam.",
+            "Att härmandet är det första steget på vägen mot ett eget språk.",
+            "Att det i själva verket inte finns något härmande eftersom allt tillhör det egna språket."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Vad är det textförfattaren vill belysa när hon berör copyright?",
+        "options": [
+            "Att språket har kommit att bli alltmer allmänt i sin talade form.",
+            "Att imitation utgör den vanligaste formen av språkanvändning.",
+            "Att många språkliga uttryck inte kan betraktas som ”egna”.",
+            "Att de ”egna” orden och uttrycken blivit allt svårare att skydda."
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Vad tycks recensenten finna motsägelse- fullt i boken Tsar Putin?",
+        "options": [
+            "Att den både kritiserar och beundrar Putins sätt att leda landet.",
+            "Att den får Putin att framstå som både en orsak till och en följd av det ryska samhället.",
+            "Att den både betvivlar och befäster föreställ- ningen om ryssars oförmåga att skapa demokrati.",
+            "Att den beskriver rysk despotism med utgångs- punkt i både biologiska och sociala förklarings-"
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "”Trots titeln handlar boken inte om Putin”, skriver recensenten. I vilken egen- skap är Putin ändå intressant för Anna Arutunyans skildring?",
+        "options": [
+            "Som firad offentlig gestalt.",
+            "Som historiskt jämförelseobjekt.",
+            "Som manipulativ och maktlysten person.",
+            "Som representant för en auktoritär ordning. "
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vilket av följande skilde inte interven- tionsgruppen från kontrollgruppen, enligt texten?",
+        "options": [
+            " Andelen patienter som tre dagar efter operation hade gasavgång. ",
+            "Tidpunkten för det kirurgiska ingreppet. ",
+            " Andelen patienter med diagnoserna kolontumör respektive divertikulit.",
+            " Vårdtiden efter operation. "
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Vilket skäl anges för att ge just den stude- rade gruppen patienter näringsdryck inför operation?",
+        "options": [
+            " De är ofta i dålig kondition före operation. ",
+            "De har ofta svårt att äta fast föda dagarna före operation.",
+            " De är ofta dåliga på att tillgodogöra sig den näring de erbjuds just före operation.",
+            " De har ofta svårt att äta efter operation. "
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Vad anger textförfattarna som stöd för att de patienter som fick kolhydrattillskott upplevde det som positivt?",
+        "options": [
+            " Patienternas vårdtid förkortades något jämfört med om de inte skulle ha fått tillskottet.",
+            " Patienterna har visat intresse för att upprepa proceduren i samband med senare kirurgiska ",
+            " Patienternas postoperativa gas- och faecesavgång skedde avsevärt tidigare än om de inte hade fått ",
+            " Patienterna har inte på något sätt antytt att tarmfunktionen skulle ha blivit sämre. "
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Vad är enligt texten anledningen till att patienter hittills inte fått näringsdryck timmarna före operation?",
+        "options": [
+            " Det har saknats lämpligt kosttillskott. ",
+            " Det har inte efterfrågats. ",
+            " Det har ansetts vara en för stor påfrestning.",
+            " Det har inte varit tillåtet. – 8 –"
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Tiggarmunkarna tillhörde en ny typ av ____ som ägnade sig åt att predika och under- visa i stället för att leva bakom klostermurarna. De kallades tiggarmunkar därför att de levde på ____.",
+        "options": [
+            "munkordnar – allmosor",
+            "klosterceller – gengåvor ",
+            "broderskap – eftergifter ",
+            "trotjänare – munskänkar"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "Ibland ____ makthavare uttalanden som de överhuvudtaget inte har gjort, normalt då av motståndare.",
+        "options": [
+            "tillskrivs",
+            "tillämpar",
+            "tillgodoräknas",
+            "tillbakavisar"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Kompressionsstrumpor användes ursprungligen inom den medicinska vården för att ____ blodcirkulationen och minska svullnad i benen, men på senare år har man börjat använda strumporna även inom idrotten eftersom de kan ____ koncentrationen av mjölksyra och andra ____ som uppstår i samband med träning.",
+        "options": [
+            "upprätthålla – förbättra – mineraler ",
+            "hämma – balansera – kroppsvätskor",
+            "underlätta – minska – slaggprodukter",
+            "befrämja – öka – födoämnen"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Omfånget av Rembrandts kända produktion har med tiden stabiliserat sig någonstans mellan 250 och 300 målningar. Risken för att förfalskningar ska vara i omlopp ____ idag genom en rad metoder som med stor säkerhet gör det möjligt att bestämma om en målning är en Rembrandt eller ej.",
+        "options": [
+            "verifieras",
+            "minimeras",
+            "optimeras",
+            "approximeras"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Hur ska Sverige kunna ____ sig i den internationella konkurrensen och förstärka sin position som en ledande kunskapsnation? Ett första steg är att titta på de ____ som styr fördelningen av statliga forskningsmedel.",
+        "options": [
+            "aktivera – kunskaper",
+            "markera – behov",
+            "hävda – kriterier",
+            "anförtro – institutioner"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Riktiga skor är på väg ut, medan gymnastikskorna breder ut sig. Följande ____ väcker numera inget uppseende: kavaj, byxor med pressveck och vita sneakers.",
+        "options": [
+            "manér",
+            "klädsamhet",
+            "ekipage",
+            "mundering"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Svenska journalister i allmänhet och filmkritiker ____ är överlag en trendmedveten skara som gärna ligger i ____ vad gäller nya politiska och psykologiska strömningar.",
+        "options": [
+            "för den delen – tiden",
+            "dessutom – centrum",
+            "förvisso – framkant",
+            "i synnerhet – frontlinjen"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Marie C. Nelson och Staffan Förhammar har gjort en historisk studie av sanatoriet Apelviken och tagit fasta på två ____: den socialpolitiska och den vetenskapliga. I båda fallen var den studerade perioden, 1900-talets tre första decennier, en ____ mellan olika synsätt. ”Studien ger bland annat en bild av övergången från privat ____ till en begynnande välfärdsstat”, säger Förhammar.",
+        "options": [
+            "perspektiv – samordning – antroposofi",
+            "aspekter – brytningstid – filantropi",
+            "förhållanden – sammansmältning – diakoni",
+            "angreppspunkter – övergångsålder – autonomi "
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Det är som om själva ____ har blivit en subkultur i USA, avskild från mediernas rapporteringar och diskussioner där rena påhitt snabbt etableras som vedertagna sanningar.",
+        "options": [
+            "verkligheten",
+            "skrivandet",
+            "religionen",
+            "ljugandet"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "Ett av de utmärkande dragen hos ”flow” är total koncentration och därmed en _____ förmåga att reagera på andra _____ än de som tillhör uppgiften. Detta är inte alltid så lyckat om problemlösningen förutsätter samarbete och ett fungerande rollspel.",
+        "options": [
+            "bristande – stimuli",
+            "ökad – impulser",
+            "naturlig – situationer",
+            "oöverträffad – direktiv"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "What is implied here?",
+        "options": [
+            "The Metropolitan Police are working hard to cut down on greenhouse gases.",
+            "New Scotland Yard need to reassess their consumption of electricity. ",
+            "The Metropolitan Police have never been a guiding light for people in London.",
+            "New Scotland Yard have lost the confidence of the British people. "
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "What is said about evolution in this text?",
+        "options": [
+            "Historically, many animals have early global warming to thank for their existence.",
+            "The extensive spread of animals across our globe millions of years ago led to global warming. ",
+            "The original spread of animal life throughout the planet was probably helped by melting ice. ",
+            "Millions of years ago, melting ice almost put an end to animal life on earth."
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "What is true according to the opening paragraph?",
+        "options": [
+            "There were more Africans sold as slaves to India than to the West Indies.",
+            "Not all Africans in India were imported as slaves.",
+            "There are hardly any traces left in India of the Africans who were once slaves.",
+            "Most slaves in India were of African origin."
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "What is implied in relation to the kingdom of Oudh?",
+        "options": [
+            "It had been ruled by the British military for ages.",
+            "Its king started the uprising as a result of British oppression.",
+            "It was notorious among the British for its slave trade.",
+            "Its people refused to be subjected to British rule. "
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "In what way can the fighting in Lucknow be characterized as somewhat paradoxical, according to the text?",
+        "options": [
+            "The Indians and the Africans took part in the conflict for different reasons. ",
+            "The British soldiers did not expect African women to serve as soldiers in Wajid Ali Shah’s army. ",
+            "The Africans defended their slave owner against the anti-slavery British. ",
+            "The British were only able to defeat Wajid Ali Shah with the help of his former slaves."
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "What are we told in connection with the import of Africans to India?",
+        "options": [
+            "It was exclusively for military purposes that Indian kings were eager to buy slaves from Africa. ",
+            "Africans had been brought to India long before the Indian Mutiny. ",
+            "It was common for Indian rulers to use both men and women from Africa as slave labour. ",
+            "The Indian Mutiny was triggered by the Africans who were brought to India."
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "What was the British government’s atti- tude towards former African slaves in India?",
+        "options": [
+            "It usually refused to take responsibility for them.",
+            "Its policy with regard to economic help to them was inconsistent. ",
+            "It offered no compensation for their loss of income when freed. ",
+            "Its recognition of their human rights was ahead of its time."
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "What is implied in this text about TV psychology?",
+        "options": [
+            "Recent evidence suggests that it has no lasting therapeutic impact. ",
+            "Viewers in general tend to dismiss it as a rather boring trend with little real drama.",
+            "There is a consensus that its disadvantages outweigh its good effects. ",
+            "People taking part run the risk of personally sensitive issues becoming public knowledge. "
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What is the main claim here about language use in the U.S.?",
+        "options": [
+            "In 1950, teenagers found it easier to understand adult language than they do today.",
+            "Today, teenagers are more eager to use non- adult language than 50 or 100 years ago. ",
+            "Due to more contact with adults, teenagers usually learned more words in 1950 than today.",
+            "The relationship between the language of teen- agers and adults is the same today as in 1915. "
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

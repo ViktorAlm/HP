@@ -1,0 +1,480 @@
+[
+    {
+        "question": "",
+        "options": [
+            "risktagande",
+            "investering",
+            "vägval",
+            "kampanj",
+            "uppgång"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "frimodig",
+        "options": [
+            "rörlig",
+            "frågvis",
+            "hederlig",
+            "okritisk",
+            "rättfram"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "målsägande",
+        "options": [
+            "domare",
+            "åtalad person",
+            "försvarsadvokat",
+            "brottsutsatt person",
+            "åklagare"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "ordinera",
+        "options": [
+            "förmana",
+            "konstatera",
+            "föreskriva",
+            "utskänka",
+            "fördela"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "aperitif",
+        "options": [
+            "bakverk",
+            "garnering",
+            "fördrink",
+            "efterrätt",
+            "tilltugg"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "eminent",
+        "options": [
+            "framstående",
+            "känslosam",
+            "erfaren",
+            "utåtriktad",
+            "enväldig"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "ackumulation",
+        "options": [
+            "tillvänjning",
+            "avskiljande",
+            "sammanställning",
+            "anhopning",
+            "uppvärmning"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "oförskyllt",
+        "options": [
+            "oförtjänt",
+            "oförlåtligt",
+            "osjälviskt",
+            "oförskämt",
+            "otacksamt"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "prygla",
+        "options": [
+            "strimla",
+            "hålla fast",
+            "hetsa",
+            "markera",
+            "spöa"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "estrad",
+        "options": [
+            "teaterbyggnad",
+            "ljusramp",
+            "upphöjd plattform",
+            "sceningång",
+            "dansgolv – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Hur förhåller sig, enligt recensentens reso- nemang, böckerna Infans och Det barnsliga manifestet till varandra?",
+        "options": [
+            "Manifestets tes motsägs av framställningen i Infans.",
+            "Infans förenklar manifestets huvudbudskap.",
+            "Manifestets tes gestaltas konstnärligt i Infans.",
+            "Infans saknar manifestets eleganta form."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Vilken kritik riktar recensenten mot He- lena Granströms resonemang i Det barns- liga manifestet?",
+        "options": [
+            "Han menar att Granström gör sig skyldig till samma sak som hon själv invänder mot.",
+            "Han menar att Granström bekämpar idéer som inte finns i realiteten.",
+            "Han menar att Granström inte presenterar en egen sammanhållande idé.",
+            "Han menar att Granström inte ger några kon- kreta exempel på det hon argumenterar för."
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Ger texten något entydigt svar på frågan varför lågutbildade äldre förskrivs fler läkemedel än högutbildade äldre, och i så fall vilket?",
+        "options": [
+            "Ja, lågutbildade äldre har ofta sjukdomsbilder med flera diagnoser.",
+            "Ja, lågutbildade äldre ges oftare äldre och billigare läkemedel.",
+            "Ja, lågutbildade äldre påverkar läkarna till högre förskrivning.",
+            "Nej, texten ger inget klart svar på frågan."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Vilket av följande efterlyses i texten?",
+        "options": [
+            "Bättre fortbildning för läkare i äldrevården.",
+            "Skärpta regler för receptförskrivning.",
+            "Mer forskning om vad som ligger bakom för- skrivningsmönstren.",
+            "Tydligare information om de negativa effekterna av polyfarmaci."
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Vad talar enligt texten för att man kan få fram en röd allergifri jordgubbe?",
+        "options": [
+            "Allergin har inget samband med jordgubbens röda färgämne.",
+            "Allergin kan förhindras genom att antikroppar tillsätts.",
+            "Allergin kan motverkas genom att aktiva protei- ner identifieras.",
+            "Allergin finns inte i själva bäret utan kommer från odlingsförhållandena."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Inom vilket område kan Rikard Alms forskningsresultat framför allt komma att tillämpas, enligt texten?",
+        "options": [
+            "Allergimedicin",
+            "Odlingsskydd",
+            "Växtförädling",
+            "Näringsforskning Jordgubbar utan allergier"
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Hur kan man utifrån textens referat av Berglunds avhandling bäst beskriva 1800-talets fadersfigur?",
+        "options": [
+            "Som känslig och flexibel.",
+            "Som dominerande men tillåtande.",
+            "Som aktiv och delaktig.",
+            "Som passiv men insiktsfull."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Hur framställs, enligt texten, föräldraska- pet i den uppfostringslitteratur som Berg- lund studerat?",
+        "options": [
+            "Som ett ansvar som främst fadern förväntades ta på sig.",
+            "Som en uppgift som båda föräldrarna hanterade gemensamt.",
+            "Som ett område där familjen tidvis fick ta strid mot samhällskrafterna.",
+            "Som en angelägenhet som skola och stat i slutänden tog över."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Hur förhåller sig enligt texten Thomas Berglund i sin forskning till den så kallade tvåsfärsteorin?",
+        "options": [
+            "Han vidareutvecklar teorin med nya forsknings- resultat.",
+            "Han visar att teorin saknar genusperspektiv.",
+            "Han finner att teorin endast har betydelse för fadersrollen.",
+            "Han ifrågasätter teorins allmänna giltighet."
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Vad anser recensenten om källmaterialet som Berglund använder i avhandlingen?",
+        "options": [
+            "Materialet är alltför magert för att kunna stödja Berglunds slutsatser.",
+            "Materialet ger belägg för att även 1800-talets modersroll genomgick en påtaglig förändring.",
+            "Materialet är intressant, men Berglunds analys av det kunde ha utvecklats teoretiskt.",
+            "Materialet ger viss inblick i 1800-talets föräld- raskap, men det påverkar inte tvåsfärs teorins "
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Aktivitetsersättning kan beviljas ungdomar som med anledning av funktionsnedsätt- ning har en förlängd skolgång. Utredningen menar att denna särlösning bör avskaffas, och föreslår istället ____ av det ordinarie studiestödssystemet.",
+        "options": [
+            "avveckling",
+            "besparingar",
+            "inrättande",
+            "anpassningar"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "Denna drottning verkar ha varit en extremt ____ person snarare än en tvålfager modell. Antagligen tillhörde hon den typ av människor som så fort de kliver in i ett rum blir centrum för uppmärksamheten; utåtriktad, talför och med en attraktiv aura som ofta ____ framgångsrika personer.",
+        "options": [
+            "hårdhudad – uppehåller ",
+            "intelligent – kringgår ",
+            "karismatisk – omger",
+            "förbehållsam – utmärker"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Här finns cirka 10 000 arter blomväxter varav 80 % är endemiska, cirka 250 fågelarter varav omkring 75 % är endemiska samt 33 unika arter av lemurer. Andra områden med minst samma höga ____ avseende endemism och skyddsvärde är Galapagosöarna och Hawaii.",
+        "options": [
+            "division",
+            "komponent",
+            "dignitet",
+            "expansion"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Man får en hög tanke om dåtidens ____: handstilstolkningen måste ha legat på en ____ nivå, bland annat hos dem som skulle ta hand om B:s ____.",
+        "options": [
+            "sättare – aktningsvärd – manuskript",
+            "gravörer – klandervärd – alster ",
+            "revisorer – berömvärd – partitur",
+            "grafologer – läsvärd – utgåvor"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Träning spelar roll för skelettets uppbyggnad. Minst en halvtimmes fysisk aktivitet 2–3 gånger i veckan kan ge bättre bentäthet, och för kvinnor som har passerat klimakteriet finns ____ att fysisk träning kan förhindra ____.",
+        "options": [
+            "argument för – inaktivitet",
+            "reaktioner på – benskörhet",
+            "belägg för – frakturer",
+            "resultat på – överansträngning"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Den avmattning som kunde märkas på bostadsmarknaden redan i våras hängde delvis samman med en mera ____ utlåning från bankerna, men även med högre bolåneräntor och höga energipriser.",
+        "options": [
+            "frikostig",
+            "expansiv",
+            "okritisk",
+            "restriktiv"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Men veckans dispyt är bara ett förspel till ____, som handlar om mer än en enskild vd:s öde. Den grundläggande fråga som veckans schism reser är vad staten egentligen ska ha Vattenfall till. Är det ett energiföretag som i likhet med sina konkurrenter bör skötas marknadsmässigt? Eller ska bolaget ____ en bricka i det politiska spelet?",
+        "options": [
+            "den verkliga kontroversen – reduceras till",
+            "den huvudsakliga poängen – modifieras som",
+            "det viktiga beslutet – avvecklas till",
+            "den stora knäckfrågan – exploateras av "
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Floder som rinner över en slätt har en ____ att anta ett ____ lopp i meanderbågar. Skarpa krökar kan ____ till korvsjöar.",
+        "options": [
+            "förmåga – krökt – strömma in",
+            "benägenhet – slingrande – snöras av",
+            "tendens – förnyat – mynna ut",
+            "fördel av – strömt – skäras av"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Ytterligare ____ som nu diskuteras hett i Sverige är att införa ingångslöner för bland annat ungdomar. Ingångslönen är ofta, men inte alltid, den lägstalön som ____ har av- talat om i kollektivavtal.",
+        "options": [
+            "en åtgärd – parterna",
+            "en påföljd – ledningen",
+            "ett fenomen – de anställda",
+            "en paragraf – arbetsförmedlarna"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "Vid betalning vill kunden ofta att fakturan märks med en speciell referens, vanligen den person eller avdelning hos kunden som ska ____ fakturan.",
+        "options": [
+            "attestera",
+            "inkassera",
+            "arvodera",
+            "kreditera"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "31.",
+        "options": [
+            "pronounced",
+            "nonspecific ",
+            "characteristic",
+            "irrelevant"
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "32.",
+        "options": [
+            "at least ",
+            "barely",
+            "at once",
+            "fully"
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "33.",
+        "options": [
+            "familiar with",
+            "distant from ",
+            "dependent on ",
+            "intolerant of"
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "34.",
+        "options": [
+            "unless ",
+            "as",
+            "although",
+            "why "
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "35.",
+        "options": [
+            "involved ",
+            "affected",
+            "implemented",
+            "caused – 11 – FORTSÄTT PÅ NÄSTSID»"
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "What can be concluded from the first paragraph?",
+        "options": [
+            "Popular science writers rely primarily on intuition",
+            "Science is most efficient if based on laypeople’s ideas ",
+            "It is rather difficult to explain science to laypeople",
+            "Readers’ intuitive notions are often confirmed in scientific reports"
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "What is suggested about popular science in the text?",
+        "options": [
+            "Popular science is falsified information about research in social sciences ",
+            "Popular science is interpreted according to people’s own opinions ",
+            "Popular science is focused on people’s social and intellectual background ",
+            "Popular science is common beliefs presented by psychologists"
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "What does the author note in relation to the books Social Intelligence and Multiple Intelligences?",
+        "options": [
+            "The notion of intelligence has limited applica- bility in scientific research",
+            "The books present the latest research on intuition and intelligence",
+            "The concept of intelligence is one of today’s most important scientific areas",
+            "The books are well written but pay too little attention to psychometrics"
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What are we told about Gardner’s work on intelligence?",
+        "options": [
+            "Gardner was the researcher who found that intelligence is one single substance",
+            "Gardner’s research has turned out to strengthen rather than question the conventional concept ",
+            "Gardner, in cooperation with Goleman, has come up with the psychological theory of multi-",
+            "Gardner’s inventive research on intelligence has changed the field of psychometrics"
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

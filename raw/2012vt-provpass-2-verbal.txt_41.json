@@ -1,0 +1,491 @@
+[
+    {
+        "question": "",
+        "options": [
+            "brevarkiv",
+            "mobilt bibliotek",
+            "illustrerat häfte",
+            "samling lagtexter",
+            "mapp med arbetsprover"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "sympatisör",
+        "options": [
+            "medbrottsling",
+            "livsnjutare",
+            "anhängare",
+            "samordnare",
+            "jämlike"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "supera",
+        "options": [
+            "berusa sig",
+            "fullborda något",
+            "äta en sen måltid",
+            "göra sitt bästa",
+            "överdriva"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "gäckande",
+        "options": [
+            "retfullt",
+            "envist",
+            "fåfängt",
+            "lustigt",
+            "ivrigt"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "omedgörlig",
+        "options": [
+            "impulsiv",
+            "obeveklig",
+            "handlingsförlamad",
+            "obehärskad",
+            "mekanisk"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "tillstymmelse",
+        "options": [
+            "komplement",
+            "föraning",
+            "beskyllning",
+            "antydan",
+            "likhet"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "strata",
+        "options": [
+            "mätning",
+            "skikt",
+            "fakta",
+            "skydd",
+            "strålning"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "pastörisera",
+        "options": [
+            "tömma",
+            "konservera",
+            "fi nfördela",
+            "upphetta",
+            "skumma"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "pseudo-",
+        "options": [
+            "evig",
+            "oäkta",
+            "upphöjd",
+            "själslig",
+            "föråldrad"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "lagfart",
+        "options": [
+            "arbetstillstånd",
+            "snabbt överklagande",
+            "inregistrering av fastighetsköp",
+            "högsta tillåtna hastighet",
+            "gällande lagstiftning – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vad är det som bildligt talat trampas sönder tillsammans med isen på vatten- pölarna?",
+        "options": [
+            "Poststrukturalismens övertro på teorier.",
+            "Föreställningen om en harmonisk helhet.",
+            "Idén om ett möte mellan människa och djur.",
+            "Feminismens längtan efter akademiskt erkännande."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Vilken funktion fyller Sara Lidmans fråga ”vars är du barnfödd då?” i textförfatta- rens resonemang?",
+        "options": [
+            "Den tar fasta på det som skiljer människor åt.",
+            "Den antyder att människan är något mer än sitt ursprung.",
+            "Den gör gällande att alla människor i grunden är lika.",
+            "Den pekar på problemet med att göra män- niskan till en abstraktion."
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Vad var enligt texten gemensamt för de fåglar som försågs med sändare?",
+        "options": [
+            "De rastade både på Lesbos och på Kreta.",
+            "De genomförde sin allra första tropikfl yttning.",
+            "De hade från början så kallad mager kropps- massa.",
+            "De byggde upp fettreserverna snabbare än andra fåglar. "
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Vad utmärkte enligt texten trädgårds- sångarnas uppehåll på Kreta, om man jämför med andra uppehåll som de gör under sin fl ytt söderut?",
+        "options": [
+            "Fåglarnas fettreserv var ovanligt opåverkad av ditfärden.",
+            "Fåglarnas dagliga födointag var ovanligt stort.",
+            "Fåglarna stannade kvar ovanligt länge.",
+            "Fåglarna tycktes ovanligt opåverkade av magnet- fältet."
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Vad framhålls inom Freuds tidiga förförel- seteori som avgörande för att hysterisk sjukdom ska uppstå?",
+        "options": [
+            "Upplevelser som med tiden får traumatisk kvalitet.",
+            "Minnen i det undermedvetna som inte aktualise- ras.",
+            "Bortträngning av tidigt upplevda fantasier.",
+            "Infantil sexualitet som inte bejakas."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Vilken senare insikt hos Freud handlar texten om?",
+        "options": [
+            "Att det egentligen inte fi nns några hållbara förklaringar till hur hysterisk sjukdom uppstår.",
+            "Att hysterisk sjukdom är en lång process av yttre och inre påverkan.",
+            "Att sexualiteten inte ensam kan förklara varför hysterisk sjukdom utvecklas.",
+            "Att det i huvudsak är människans inre värld som förklarar uppkomsten av hysterisk sjukdom."
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Textförfattaren för ett resonemang med utgångspunkt från naturvetenskapliga fakulteten i Uppsala. Vilken är hennes slut- sats?",
+        "options": [
+            "Att längre sammanfattningar på engelska kan vara ett sätt att minska ”risken för domänför-",
+            "Att det kan bli aktuellt att byta språk för att klara övergången från en genre till en annan.",
+            "Att ”risken för domänförlust” kan få allvarligare konsekvenser för engelskan än för svenskan.",
+            "Att valet av språk kan ha stor betydelse för hur genreindelningen ser ut i praktiken."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Hur kan man bäst sammanfatta textför- fattarens ståndpunkt i frågan om universi- tetens språkval?",
+        "options": [
+            "Språkvalet bör anpassas till den aktuella målgrup- pen.",
+            "Språkvalet bör anpassas till de kunskaper som förmedlarna har.",
+            "Språkvalet bör anpassas till forskarnas behov.",
+            "Språkvalet bör anpassas till lärarnas och studen- ternas behov."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Hur anser textförfattaren att de svenska universiteten bör förhålla sig till valet mel- lan det svenska och det engelska språket?",
+        "options": [
+            "Utbildning bör kommuniceras på både svenska och engelska, forskning och forskningsinforma-",
+            "Forskning och utbildning bör oftast kommunice- ras på engelska, forskningsinformation däremot ",
+            "Forskning bör oftast kommuniceras på engelska, forskningsinformation på svenska, utbildning på ",
+            "Forskning och forskningsinformation bör kom- municeras på både svenska och engelska, utbild-"
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Hur kan texten bäst karaktäriseras?",
+        "options": [
+            "Presentation av en forskningsstudie",
+            "Kritik av ett framlagt förslag",
+            "Utvärdering av en reform",
+            "Inlägg i en debatt – 8 –"
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Medan Evanders berättarteknik har varierat under årens lopp har hans grundläggande värderingar, som handlar om att människor är i behov av medmänskliga relationer byggda på förtroende och självaktning, varit ____.",
+        "options": [
+            "humana",
+            "nyanserade",
+            "konstanta",
+            "relevanta"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "De förändringar i de sysselsattas fysiska arbetsförhållanden som studien påvisar ger en bild av både förbättringar och försämringar. Den yttre arbetsmiljön har förbättrats ____ fuktiga och dragiga arbetsplatser blivit färre, liksom utomhusarbeten vid sträng kyla och jobb som ger svår nedsmutsning. Det har ____ skett en ökning av jobb som utsätter individen för skakningar och vibrationer, ensidiga arbetsrörelser och olämp- liga arbetsställningar.",
+        "options": [
+            "under förutsättning att – dessutom",
+            "på grund av att – temporärt ",
+            "så till vida att – däremot ",
+            "på så vis att – sammantaget "
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Att språkförbistringen mellan öns båda folk blivit ett problem inför en framtida återförening påverkar många som vi träffar på Cypern. Grekiska och turkiska är svåra språk och inget man lär sig ____.",
+        "options": [
+            "på en höft",
+            "med en axelryckning",
+            "på rak arm",
+            "i en handvändning"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Nästäppa som inte orsakas av förkylning kan bero på exempelvis allergi mot pollen eller pälsdjur, eller hypersensibilitet mot olika ämnen som cigarettrök, dieselavgaser eller damm. Nästäppa är också ett symtom vid näspolyper. Om nästäppan beror på något av detta riktas behandlingen mot grundorsaken, det vill säga allergin, ____ eller polyperna.",
+        "options": [
+            "nässvullnaden",
+            "överkänsligheten",
+            "förkylningen",
+            "luftföroreningarna NY PROVDEL"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Den så kallade ”infl ationsteorin” kan förklara varför en viss mängd massa plötsligt började utvidga sig, den kan ____ varför allting fördelade sig en aning ojämnt, så att det ____ bildades stjärnor och galaxer, och den kan förklara varför universum är ”plant” till sin ____, så att en rät linje verkligen är en rät linje.",
+        "options": [
+            "uppge – underhand – natur ",
+            "förklara – sedermera – karaktär ",
+            "bekräfta – tidvis – utformning",
+            "ifrågasätta – följaktligen – läggning"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Kanske var denne visionär helt enkelt för ____, för aggressiv, för politisk. Han var mer av en ____ än en konsensusperson.",
+        "options": [
+            "fördragsam – idealist",
+            "klarsynt – realist",
+            " stridbar – agitator",
+            "skarpsinnig – diplomat "
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Vindelälvens unika forskaraktär och därtill knutna miljövärden innebär således en värderesurs och har enligt vår bedömning ____ som världsarv. Resursen bör därför fortsatt bevaras och kan utvecklas både ____ och symboliskt för såväl turistiska som vetenskapliga ändamål. Därmed ____ och vidareutvecklas också viktiga natur- och kulturmiljöer för ortsbefolkningen.",
+        "options": [
+            "soliditet – fi nansiellt – utvidgas",
+            "potential – reellt – vidmakthålls",
+            "ambition – objektivt – tillskapas",
+            "relevans – ideellt – fullbordas"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Vid sidan av ortnamn som ____ från nordiska språk och ____ föregångare förekom- mer i Norden även fi nska och samiska namn.",
+        "options": [
+            "härrör – dessas",
+            "utformas – dess",
+            "stammar – dessa",
+            "framgår – deras"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Arten nötkreatur anses ha uppkommit genom att människan ____ och förändrat uroxen så att den kommit att passa hennes behov.",
+        "options": [
+            "domesticerat",
+            "stävjat",
+            "kultiverat",
+            "etablerat"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "Det fi nns en brist på fl exibilitet, en oförmåga att se det unika i en situation, brist på förändringsperspektiv och en ovilja att lära sig av sina erfarenheter. I stället sker en ____ av en teori, vetenskaplig eller annan.",
+        "options": [
+            "krass defi nition",
+            "sublim tolkning",
+            "rigid tillämpning",
+            "cynisk förståelse"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "What can be concluded from this text?",
+        "options": [
+            "Women’s brains usually stop developing earlier than men’s",
+            "Differences between girls’ and boys’ brains may be educationally relevant",
+            "The brains of adult men and women seem to function in different ways",
+            "The developmental differences between boys’ and girls’ brains are small"
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "What is suggested about Shakespeare?",
+        "options": [
+            "He remained a countryman throughout his life ",
+            "He envied the London middle class their culture and power",
+            "He wrote mainly about the countryside and its people",
+            "He showed an understanding of poor people ",
+            "Chinese Billionaire Several mysteries surrounded the career of Rong Yiren. "
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "What are we told about Rong Yiren in the fi rst paragraph?",
+        "options": [
+            "He and his family decided to sell all their belong- ings during the Cultural Revolution",
+            "He was not allowed into the Communist Party because of his wealth ",
+            "He managed to keep and run his companies during the Cultural Revolution",
+            "He was known as one of China’s most promi- nent politicians "
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "What is implied about the regime during the Cultural Revolution?",
+        "options": [
+            "It promoted education for artists and people in the cultural sectors ",
+            "It accepted special treatment for people with links to politicians ",
+            "It allowed young people to enter the labour market ",
+            "It destroyed all relationships and collaboration between trade and politics "
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "Why, according to the text, was Rong Yiren chosen by Deng Xiaoping to work with commerce?",
+        "options": [
+            "He had received a traditional Chinese upbringing",
+            "He had started the Chinese red capitalist movement ",
+            "He was an experienced and fl exible Chinese businessman",
+            "He was a loyal member of the Chinese Commu- nist Party "
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "What are we told about CITIC?",
+        "options": [
+            "The organisation provided the Chinese people with international currency",
+            "Deng, who initiated CITIC, soon realised that it was an economic burden for China ",
+            "It widened China’s economic ownership as well as allowed private business",
+            "Rong Yiren took over CITIfrom the Chinese state in the 1990s "
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "Which of the following statements about Rong Yiren is most in line with the text?",
+        "options": [
+            "He foresaw that China would need to revert to capitalism",
+            "He lied about his capital and business engagements ",
+            "He gave everything he owned away to the government ",
+            "He prepared the confi scation of private property – 14 –",
+            "recent biography of Henry James written by Sheldon M. Novick has its distinct virtues. Novick superbly par-"
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "13 in the U.S., giving it one of the lowest birth rates in the world. Question",
+        "options": [
+            ""
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What is suggested about the situation on the Galapagos Islands?",
+        "options": [
+            "Most people coming to the Galapagos Islands are old-fashioned",
+            "Tourists may need to adapt to stricter rules of consumption ",
+            "The local community offers a variety of modern facilities",
+            "It is hard for the population to sympathize with the tourists"
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    },
+    {
+        "question": "What is implied about Henry James?",
+        "options": [
+            "His political convictions were fi rm and consistent ",
+            "He was a politician with a keen interest in the theater",
+            "He was very proud to be born American",
+            "He was in two minds about his home country "
+        ],
+        "article": "",
+        "id": 40,
+        "answer": ""
+    }
+]

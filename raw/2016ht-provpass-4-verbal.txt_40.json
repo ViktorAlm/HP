@@ -1,0 +1,481 @@
+[
+    {
+        "question": "",
+        "options": [
+            "påverka",
+            "inleda",
+            "erbjuda",
+            "placera",
+            "utföra"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "i ottan",
+        "options": [
+            "i morgon",
+            "tidigt",
+            "för det mesta",
+            "snart",
+            "i enrum"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "otidsenlig",
+        "options": [
+            "konstant",
+            "otraditionell",
+            "försenad",
+            "omodern",
+            "evig"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "selektion",
+        "options": [
+            "omval",
+            "förstahandsval",
+            "tillval",
+            "valbarhet",
+            "urval"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "futilitet",
+        "options": [
+            "nödvändighet",
+            "förebild",
+            "utfyllnad",
+            "misstag",
+            "obetydlighet"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "resonans",
+        "options": [
+            "missljud",
+            "omtagning",
+            "återklang",
+            "motstånd",
+            "taktfasthet"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "simpa",
+        "options": [
+            "fiskart",
+            "svampsort",
+            "blåsinstrument",
+            "huvudbonad",
+            "maträtt"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "röja",
+        "options": [
+            "utlösa",
+            "avslöja",
+            "förstöra",
+            "avfärda",
+            "undersöka"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "gångbar",
+        "options": [
+            "trolig",
+            "stadig",
+            "rörlig",
+            "säker",
+            "giltig"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "filantrop",
+        "options": [
+            "människovän",
+            "hästtämjare",
+            "predikant",
+            "konstsamlare",
+            "växtförädlare – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vilket av följande påståenden om sprid- ningen av ornithos/psittakos har stöd i texten?",
+        "options": [
+            "En fågel som uppvisar symtom sprider sjuk- domen lättare än en symtomfri fågel.",
+            "Sjukdomens smittväg går oftare från vilda till tama fåglar än tvärtom.",
+            "Sjuka tamfåglar innebär en större smittorisk för fåglar än för människor.",
+            "Sjukdomen tas upp och sprids via redan för- svagade individer."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Vilken omständighet gör det svårt att be- kämpa psittakos, av texten att döma?",
+        "options": [
+            "Att korrekt sjukdomsdiagnos kan ställas endast efter det att individen har dött.",
+            "Att bakterien som orsakar sjukdomen är spridd bland många individer och arter.",
+            "Att sjukdomssymtomen skiljer sig åt mellan olika fågelarter.",
+            "Att smittan som orsakar sjukdomen sprids på oförutsägbara sätt."
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Hur skulle man utifrån texten bäst kunna beskriva delningsekonomi?",
+        "options": [
+            "Som ett sätt att protestera mot politiska beslut.",
+            "Som ett sätt att bättre utnyttja existerande resurser.",
+            "Som ett sätt att utveckla nya ideologier.",
+            "Som ett sätt att utradera kapitalismens negativa sidor."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Vilka politiska konsekvenser kommer delningsekonomin att få, enligt textför- fattaren?",
+        "options": [
+            "Den kommer att utmana etablerade politiska tolkningsmodeller.",
+            "Den kommer successivt att få stöd från alla politiska läger.",
+            "Den kommer att ge upphov till en ny syn på politik.",
+            "Den kommer att visa sig ligga utom räckhåll för politiska åtgärder."
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Varför har textförfattaren svårt att hitta en bra svensk översättning till ”sharing economy”?",
+        "options": [
+            "Det är så oklart vad sharing economy egentligen står för.",
+            "Sharing economy saknar en tydlig politisk förankring.",
+            "Ingen vet vad sharing economy kommer att utvecklas till.",
+            "Sharing economy har så många olika sidor."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Hur tror textförfattaren själv att delnings- ekonomin kommer att fungera i fram- tiden?",
+        "options": [
+            "Som en lösning på dagens konsumtions- och miljökris.",
+            "Som ett första steg mot en helt ny ekonomisk modell.",
+            "Som ett tillskott inom ramen för marknads- ekonomin.",
+            "Som ett intressant experiment utan bredare tillämpning."
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Lämningar från det nära förflutna kan, enligt texten, påverka människors intresse för historien. Vad beror det på?",
+        "options": [
+            "Att lämningarna främst synliggör så kallat vanligt folks historia.",
+            "Att lämningarna dokumenterar vad nu levande människor själva upplevt.",
+            "Att lämningarna undersöks också av andra än professionella arkeologer.",
+            "Att lämningarna utlöser känslor och tankar hos betraktaren."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Vad tycks, av texten att döma, vara huvud- syftet med Mats Burströms bok?",
+        "options": [
+            "Att presentera samtidsarkeologin som forsk- ningsfält och verksamhetsområde.",
+            "Att sammanfatta resultaten av hittills gjorda samtidsarkeologiska undersökningar.",
+            "Att argumentera för ökade satsningar på sam- tidsarkeologi från kulturmiljövårdens sida.",
+            "Att utifrån hittills gjorda utgrävningar ge en bild av samtidsarkeologins fortsatta utveckling."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Hur tycks Mats Burström anse att den offentliga kulturmiljövården agerar i de frågor som texten beskriver?",
+        "options": [
+            "Uppenbart okunnigt.",
+            "Alltför passivt.",
+            "Överdrivet kritiskt.",
+            "Onödigt försiktigt."
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Vilken blir den logiska konsekvensen av Mats Burströms resonemang kring tids- gränsen mellan historisk arkeologi och samtidsarkeologi?",
+        "options": [
+            "Att tidsgränsen efter hand kommer att förflyttas framåt.",
+            "Att tidsgränsen efter hand kommer att bli svårare att urskilja. ",
+            "Att den historiska arkeologin med tiden kommer att trängas tillbaka av samtidsarkeologin.",
+            "Att den historiska arkeologin med tiden kommer att bli en konkurrent till samtidsarkeologin."
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Kommunen ska på ett miljömässigt hållbart sätt förse medborgarna med ett gott dricksvatten, ta hand om avloppsvatten och ____ avfall. Kommunen ska därutöver, genom information och kommunikation med omvärlden, arbeta aktivt och målmed- vetet för att minska miljöpåverkan och skapa förutsättningar för ett ____ hållbart kretsloppssamhälle.",
+        "options": [
+            "debitera – framtida",
+            "deportera – alternativt",
+            "denaturalisera – resursstarkt",
+            "deponera – långsiktigt"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "I flertalet länder begränsades möjligheten att bilda nätverk där många stationer kunde sända samma program. Här i Sverige var detta tillåtet. I praktiken hade Sverige därmed den förmodligen mest ____ lagstiftningen i västvärlden på detta område.",
+        "options": [
+            "innovativa",
+            "relevanta",
+            "liberala",
+            "detaljerade"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Vilken bild är den första som dyker upp i huvudet när du hör ordet tango? ____ av en man och en kvinna tätt omslingrade i en dramatisk ____? En nätstrumpklädd kvinnofot i en omöjligt hög stilettklack? En mörk främling med en ros mellan tänderna? Denna den mest mytomspunna av danser omges av många kända ____.",
+        "options": [
+            "Sinnebilden – piruett – visioner",
+            "Närvaron – miljö – symboler",
+            "Silhuetten – pose – klichéer",
+            "Kombinationen – förening – emblem"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Den tekniska utvecklingen i världen har gått i en rasande fart, men vår hjärna fungerar likadant som för 40 000 år sedan. Våra stenålderskopplingar i hjärnan gör att vi i vissa situationer kan agera ____ fastän agerandet ____ förnuftigt där och då.",
+        "options": [
+            "slumpmässigt – påstås",
+            "irrationellt – ter sig",
+            "gammalmodigt – inverkar",
+            "aggressivt – anses"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Huvudpersonen P är en ytterst excentrisk medicine studerande. Trots sin cyniska ____, som ständigt kretsar kring människokroppens inre, tycks han inte kunna vänja sig vid operationer och ____.",
+        "options": [
+            "karaktär – stetoskop",
+            "humor – mediciner",
+            "egenhet – skalpeller",
+            "jargong – obduktioner"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Gruvområdena ____ sommaren 1993 som ett led i ett forskningsprojekt vid Ájtte, Svenskt fjäll- och samemuseum, varvid ett flertal dittills okända gruvor och prov- brytningar, så kallade skärpningar, påträffades.",
+        "options": [
+            "inventerades",
+            "exploaterades",
+            "initierades ",
+            "projekterades"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Ett liknande mönster syns när man tittar på ungdomars parbildning över ____ och nationella gränser, en viktig men förbisedd ____ på olika gruppers integration i ett samhälle. De svenska gymnasieelever som har en partner med bakgrund utanför Norden ____ att i större utsträckning än andra ha en positiv syn på invandrare.",
+        "options": [
+            "internationella – trend – förefaller",
+            "relationella – faktor – kommer",
+            "religiösa – prognos – föredrar",
+            "etniska – indikator – tenderar"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Jag tror inte att någon egentligen drömmer om en ____ arbetsplats; det skulle för- modligen vara lika ointressant att jobba på en kvinnodominerad arbetsplats som på en mansdominerad.",
+        "options": [
+            "homosocial",
+            "ekvivalent",
+            "heterosexuell",
+            "androgyn"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Vid läsningen av Skogsliv vid Walden framgår att Thoreau är medveten om att det inte är alla människor ____ att ha de materiella förutsättningarna att ____ sitt oberoende, även om fler än man tror har möjligheten.",
+        "options": [
+            "ålagt – bejaka",
+            "förunnat – odla",
+            "beviljat – kanalisera",
+            "uppgivet – tillgodose"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "Att helt slippa reklam är i princip omöjligt. Men reklamen uppfattas inte heller alltid som en objuden gäst. Ibland fungerar den närmast som en konstform, en populär- kulturell ____ som människor aktivt söker upp, i stället för tvärtom.",
+        "options": [
+            "genre",
+            "tendens",
+            "bransch",
+            "norm"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "31.",
+        "options": [
+            "cut",
+            "spread",
+            "raise ",
+            "end"
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "32.",
+        "options": [
+            "In contrast ",
+            "For example",
+            "In consequence",
+            "For reference"
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "33.",
+        "options": [
+            "decrease",
+            "progress",
+            "advance ",
+            "vary "
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "34.",
+        "options": [
+            "However",
+            "Unfortunately",
+            "Instead ",
+            "Subsequently"
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "35.",
+        "options": [
+            "reason",
+            "debate ",
+            "relevance",
+            "belief – 11 –",
+            "review of Vaccine by Arthur Allen ELF16B_Del 2.indd 12 2016-06-27 14:38:54"
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "What are we told in the opening paragraph?",
+        "options": [
+            "It took a long time for doctors to put Jenner’s ideas into large-scale practice. ",
+            "Jenner’s sensational discovery was given a mixed reception. ",
+            "The public found it difficult to believe Jenner’s surprising claims.",
+            "The usefulness of Jenner’s vaccine was widely doubted in medical circles."
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "What is implied about Jenner’s vaccine in relation to the general health situation in the United States in the last century?",
+        "options": [
+            "Its role in bringing about longer lives for many people has been exaggerated.",
+            "It was gradually found to be effective against a variety of life-threatening diseases.",
+            "Its use was long resisted by the American public health authorities.",
+            "It was one of several important factors behind improvements in public health. "
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "What are we told about the 1950s, from a medical point of view?",
+        "options": [
+            "It was a time of justified optimism about the possible elimination of all infectious diseases. ",
+            "Parents were asked to do their utmost to pre- vent their children from getting certain diseases.",
+            "It was a period of especially dangerous outbreaks of infectious diseases throughout the United States. ",
+            "There was an awareness that some diseases posed a greater threat to adults than to children. "
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What, according to the text, is Arthur Allen’s attitude to vaccination skeptics?",
+        "options": [
+            "He agrees with those who say that research into the effects of vaccines should not be trusted. ",
+            "He is suspicious of the kind of arguments put forward by many antivaccinists. ",
+            "He fails to understand why parents should worry about the risks of vaccines.",
+            "He is convinced that personal views on vaccina- tion should carry the same weight as scientific "
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

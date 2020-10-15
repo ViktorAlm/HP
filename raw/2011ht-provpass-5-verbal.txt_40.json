@@ -1,0 +1,480 @@
+[
+    {
+        "question": "",
+        "options": [
+            "lugnande preparat",
+            "magkatarr",
+            "missbildning",
+            "kirurgisk öppning",
+            "muskelstelhet"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "alarmerande",
+        "options": [
+            "aggressiv",
+            "avskräckande",
+            "oroande",
+            "provocerande",
+            "uppfordrande"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "grynna",
+        "options": [
+            "boplats för djur",
+            "litet grund",
+            "hästsele",
+            "sagoväsen",
+            "kokkärl"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "hänföras",
+        "options": [
+            "bli lurad",
+            "upplysas",
+            "förtjusas",
+            "förvirras",
+            "bli bortförd"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "förefalla",
+        "options": [
+            "tyckas",
+            "tolka",
+            "anta",
+            "inträffa",
+            "påstå"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "utfästelse",
+        "options": [
+            "tomt hot",
+            "kungligt valspråk",
+            "orimligt krav",
+            "avslöjande",
+            "offentligt löfte"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "pittoresk",
+        "options": [
+            "storslaget praktfull",
+            "välordnad",
+            "behagligt stillsam",
+            "gammaldags",
+            "charmigt idyllisk"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "schablonmässigt",
+        "options": [
+            "invant och mekaniskt",
+            "snabbt och fartfyllt",
+            "lugnt och rogivande",
+            "kortfattat och sakligt",
+            "stelt och behärskat"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "repertoar",
+        "options": [
+            "övningstillfälle",
+            "privat loge",
+            "scen",
+            "återutsändning",
+            "programutbud"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "seraf",
+        "options": [
+            "ängel",
+            "demon",
+            "furste",
+            "krigare",
+            "trollkarl – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vad i Bronfmans bok är recensenten kri- tisk till?",
+        "options": [
+            "Det i huvudsak populärkulturella perspektivet.",
+            "Ointresset för Karibiens möjliga framtid.",
+            "Avsaknaden av förklaringar till bokens upplägg.",
+            "De generaliserande slutsatserna om Karibien."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Vad verkar vara Bronfmans huvudsakliga syfte med boken?",
+        "options": [
+            "Att lyfta fram Karibiens mångskiftande nutidshis- toria.",
+            "Att lyfta fram globaliseringens positiva inverkan på Karibien.",
+            "Att lyfta fram det gemensamma i Karibiens nutidshistoria.",
+            "Att lyfta fram även mindre smickrande detaljer om Karibien."
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Hur utförs de mätningar som texten beskri- ver?",
+        "options": [
+            "Observationer upprepas och jämförs över tid.",
+            "Stickprov samlas in och bildar underlag för prognoser.",
+            "Avvikelser registreras och dokumenteras.",
+            "Genomsnitt beräknas och omvandlas därefter till längre mätserier."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Vad kan man konstatera om de geodetiska observationer som texten beskriver?",
+        "options": [
+            "De ger på sikt svar om orsaken till klimatföränd- ringarna.",
+            "De utgör en svensk teknik som nu fått ny uppmärksamhet.",
+            "De ger en säkrare bild av utsläppen av växthus- gaser.",
+            "De utgör exempel på praktiskt vetenskapligt samarbete."
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Vilket beslut ska enligt texten fattas innan den sjukskrivne återgår i arbete?",
+        "options": [
+            "Ett beslut om huruvida den sjukskrivne ska träna med andra sjukskrivna.",
+            "Ett beslut om huruvida den sjukskrivne ska byta arbetsuppgifter och/eller arbetsplats.",
+            "Ett beslut om hur den fortsatta medicinska rehabiliteringen av den sjukskrivne ska gå till.",
+            "Ett beslut om vilken typ av ekonomisk ersättning den sjukskrivne kan kräva."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "I vilken situation kan det enligt texten bli aktuellt för en person att återgå i arbete genom deltidssjukskrivning?",
+        "options": [
+            "När personen till en början behöver hjälp med vissa arbetsmoment.",
+            "När personen redan till en början har viss arbetsförmåga.",
+            "När personen ännu har behov av medicinsk vård.",
+            "När personen fortfarande behöver arbetsträning. Hur börja jobba igen?"
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vad framgår av den ”förhistoria” som Metzger presenterar i sin avhandling?",
+        "options": [
+            "Att ”svenska” och ”icke-svenska” mattraditioner påverkat och inspirerat varandra genom ",
+            "Att frågan om mattraditioners nationella ursprung sällan uppmärksammas i äldre tiders ",
+            "Att utländska mattraditioner via kokböcker har förmedlats till svenska läsare under fl era hundra ",
+            "Att mattraditionerna i Sverige och Frankrike fi ck sin nuvarande form under ungefär samma "
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Hur använder Metzger ”icke-svensk” mat- kultur i sina analyser?",
+        "options": [
+            "Som en prolog. ",
+            "Som en förklaringsfaktor.",
+            "Som ett föredöme.",
+            "Som ett jämförelseobjekt."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Vad är enligt texten ett av syftena med Metzgers avhandling?",
+        "options": [
+            "Att utforska hur välfärdssamhället präglat och format mattraditionen i Sverige.",
+            "Att undersöka i vilken mån nya tankeströmningar i samhället avspeglar sig i kokböckerna.",
+            "Att visa att mattraditionen i Sverige har äldre historiska rötter än de fl esta tror.",
+            "Att jämföra Sverige och andra länder i fråga om intresset för mat från främmande länder."
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Vad framhåller recensenten beträffande Metzgers avhandlingsämne?",
+        "options": [
+            "Att det ryms inom ett forskningsfält som just nu är på frammarsch.",
+            "Att det avspeglar svenska folkets ökade intresse för omvärlden.",
+            "Att det är ett uttryck för ambitionen att göra forskning mera populärt.",
+            "Att det är intressant också för en stor del av allmänheten."
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Förskolan i Sverige omfattar barn från ett års ålder och ____ första steget i ett lång- siktigt utbildningssystem. Trots lång förskoletradition och en i stort sett total ____ av förskolan har vi idag endast begränsad kunskap om dess effekter på barns lärande.",
+        "options": [
+            "beskriver – privatisering ",
+            "behandlar – bedömning ",
+            "tar – omsorg ",
+            "utgör – utbyggnad "
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "Han är en av landets mest begåvade fi lmare. Dokumentären om J. väcker beundran – och undran. En fi lmare kan välja ____ sin dokumentär, men de fi lmade kan också vilseleda fi lmaren.",
+        "options": [
+            "perception för",
+            "att skildra",
+            "vinkling på ",
+            "att vilseleda"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Inget säljer lösa blad som en fast tronföljarförbindelse. Kvällspressens scoop mitt under huvudstadens sportlovsvecka, när de ordinarie hovreportrarna tillfälligt tappat kontakten med sina ____, kom som en välsignelse för båda kvällstidningarna. Och inte bara för dem, förresten; det var inte lätt att skilja storstadens alla ____ åt dagen efter den ____ förlovningen.",
+        "options": [
+            "turturduvor – pamfl etter – annonserade",
+            "bevakningsobjekt – löpsedlar – tillkännagivna ",
+            "tronarvingar – sensationer – bordlagda",
+            "nyhetsförmedlare – publikationer – tillkommande"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "I ett särskilt avsnitt av den svensk-norska renbeteskonventionen, Lappkodicillen, ____ därför, till gagn för renägarna, rätten att bedriva renskötsel på samma gränsöverskrid- ande sätt som tidigare, oavsett på vilken sida av gränsen de ansågs ha sin ____.",
+        "options": [
+            "stadfästes – hemvist",
+            "bestreds – jokk",
+            "förvisades – hjord",
+            "reducerades – rätt NY PROVDEL"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Vad gjorde Adam och Eva när de hade bitit i äpplet? Just det, de klädde på sig. Och på den tiden var det skinn som gällde, egenhändigt ____, tuggat med spott. Den metoden slipper vi idag.",
+        "options": [
+            " garvat",
+            "fållat",
+            "patinerat",
+            "kardat"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Förutom sina akademiska åtaganden var Stobaeus också en ____ läkare, som behand- lade fattiga och sjuka på sin privata mottagning och gav dem gratis medicin. Även om Ramlösa brunn ursprungligen ____ av Stobaeus tidigare handledare Döbelius, var det Stobaeus som gjorde brunnen populär som kurort. På äldre dagar använde han brunn- nen för att behandla sina egna ____; bland annat migrän och ryggbesvär.",
+        "options": [
+            "kompetent – inrättades – klienter",
+            "empatisk – framställdes – krämpor",
+            "botfärdig – grundades – patienter",
+            "hängiven – etablerades – åkommor"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Den avgörande invändningen mot D’s framställning är dock att han ____ att nämna att det inte fanns någon diskrepans mellan grundprincipen i landets utrikespolitik och det viktiga militära fredssamarbetet med de allierade.",
+        "options": [
+            "föregriper",
+            "utger sig för ",
+            "förbehåller",
+            " underlåter"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "En stor del av denna forskning är grundforskning, inriktad på psykiska företeelser och beteenden utan hänsyn till vilken praktisk nytta man kan ha av forskningsresultaten. Men i motsats till detta fi nns också en omfattande målforskning, inriktad på ____ i olika livssituationer.",
+        "options": [
+            "enkäter och observationer ",
+            "tillämpning av vetandet",
+            "utbyte av kunskap ",
+            "hypotetiska resonemang"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Civil olydnad i allmänhet är ett välkänt fenomen. Det fi nns ____ en vanlig missupp- fattning om att civil olydnad skulle vara mer berättigad då den som agerar följer sitt samvetes röst. Men ett gott samvete är aldrig någon ____ för riktigt handlande. Jag har ingen rätt att hänvisa till att det jag gjorde kändes rätt, om det jag gjorde var djupt omoraliskt.",
+        "options": [
+            "emellertid – garant ",
+            "dessvärre – ersättning",
+            "likväl – ursäkt",
+            "sålunda – försäkring"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "Kompostering sker när organiskt material bryts ned av luftens syre. Det är en så kall- lad ____ process.",
+        "options": [
+            "eutrof",
+            "mykologisk",
+            "aerob",
+            "oxymoron"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "31.",
+        "options": [
+            "irresponsible",
+            "unnatural",
+            "irrelevant",
+            "unpredictable "
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "32.",
+        "options": [
+            "For",
+            "But",
+            "Thus",
+            "So"
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "33.",
+        "options": [
+            "numbers ",
+            "facilities ",
+            "qualities",
+            "interests"
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "34.",
+        "options": [
+            "view",
+            "basis",
+            "target ",
+            "fact"
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "35.",
+        "options": [
+            "suffer from",
+            "lack ",
+            "depend on",
+            "skip – 11 – FORTSÄTT PÅ NÄSTSID»"
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "Which of the following statements best refl ects how Crick feels about writing a history of the United Kingdom?",
+        "options": [
+            "He fi rmly believes that historians must remain neutral in relation to their subject ",
+            "His basic attitude is that there is only one way to present historical facts as far as human societies ",
+            "He accepts the idea that history will always involve clear elements of propaganda",
+            "His general view is that decisions about selection and presentation can never be made only on "
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "What does the writer mean by saying that traditionalists “might also fi nd under- currents of bias in [Crick’s] treatment of the Thatcher and Blair administrations”?",
+        "options": [
+            "In some places Crick appears to show where his political sympathies lie ",
+            "Crick’s presentation suffers from a complete lack of historical fairness",
+            "Many readers will object to Crick’s consistent support of right-wing values",
+            "Crick takes pride in not hiding his own left-wing views on British politics"
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "What is the writer’s main impression of the way Crick’s essay is written?",
+        "options": [
+            "He is disturbed by Crick’s occasional disregard for his readers ",
+            "He thinks the essay would have benefi ted from a teamwork approach",
+            "He appreciates the presence of a single voice throughout the essay ",
+            "He is surprised by the rather formal style of Crick’s work"
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What, according to the writer, is the basic message of Crick’s version of British his- tory?",
+        "options": [
+            "Britain today has a more welcoming attitude to immigrants than before",
+            "Large-scale immigration is a fairly recent phe- nom enon in most parts of Britain",
+            "Today’s integration problems in Britain are nothing compared to yesterday’s",
+            "Britain’s national identity is not opposed to the identities of immigrant cultures"
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

@@ -1,0 +1,480 @@
+[
+    {
+        "question": "",
+        "options": [
+            "berömma",
+            "avlasta",
+            "charma",
+            "uppfylla",
+            "glädja"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "oblat",
+        "options": [
+            "marmorpelare",
+            "silverbricka",
+            "gammalt mynt",
+            "skuldebrev",
+            "nattvardsbröd"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "rationell",
+        "options": [
+            "pålitlig",
+            "föränderlig",
+            "sparsam",
+            "lättbegriplig",
+            "förnuftig"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "algebra",
+        "options": [
+            "räkning med heltal",
+            "huvudräkning",
+            "talserie",
+            "procenträkning",
+            "räkning med symboler"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "sporadiskt",
+        "options": [
+            "på enklaste sätt",
+            "av en slump",
+            "vid enstaka tillfällen",
+            "av skilda slag",
+            "på ren impuls"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "trojka",
+        "options": [
+            "diktator",
+            "generalstab",
+            "departement",
+            "tremannavälde",
+            "domstol"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "abonnera",
+        "options": [
+            "leverera",
+            "göra tillgänglig",
+            "förhandsbeställa",
+            "komma överens",
+            "återbetala"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "lamell",
+        "options": [
+            "kägla",
+            "skiva",
+            "tygbit",
+            "frans",
+            "rulle"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "rundlig",
+        "options": [
+            "riklig",
+            "måttlig",
+            "lämplig",
+            "tillräcklig",
+            "överskattad"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "eutanasi",
+        "options": [
+            "bedövning",
+            "självbehärskning",
+            "dödshjälp",
+            "balansrubbning",
+            "aptitlöshet – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vilken uppfattning om begreppet ”flick- konst” överensstämmer bäst med Kajsa Widegrens?",
+        "options": [
+            "Det var lämpligt för sin tid men måste idag ges ett radikalt annorlunda innehåll.",
+            "Det är accepterat hos konstnärerna men blir sexistiskt i händerna på konstrecensenterna.",
+            "Det är ett konstgjort begrepp som fått ersätta en seriös och genusinriktad forskning.",
+            "Det kan i sig accepteras och vara användbart men måste hanteras varsamt."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Vad är enligt texten innebörden av flick- rummet som feministisk metafor?",
+        "options": [
+            "Flickrummet är en personlig plats med egen tids- och rumsdimension.",
+            "Flickrummet kan betyda såväl frigörelse som förtryck.",
+            "Flickrummet kan tolkas i genustermer utan moraliska pekpinnar.",
+            "Flickrummet uttrycker den nödvändiga avskild- het där kvinnlig identitet formas."
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Vad är en förutsättning för att skyddsjakt ska få ske, enligt textens referat av den gällande lagstiftningen?",
+        "options": [
+            "Att skyddsjakten är inriktad på några specifika djurarter.",
+            "Att alla möjligheter förutom skyddsjakt är uttömda.",
+            "Att skyddsjakten utförs av särskilt utsedda jägare.",
+            "Att miljön förbättras som ett resultat av skydds- jakten."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Hur vill SOF att skyddsjakt ska tillämpas i fortsättningen, enligt texten?",
+        "options": [
+            "På ett mer långsiktigt och effektivt sätt.",
+            "På ett mer resurssnålt och planerat sätt.",
+            "På ett mer förebyggande och flexibelt sätt.",
+            "På ett mer sparsamt och reglerat sätt. Skyddsjakt"
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Vad ville man ta reda på genom de be- skrivna experimenten?",
+        "options": [
+            "Huruvida placeboeffekter kan komma till uttryck som omedvetna smärtupplevelser.",
+            "Huruvida intryck som uppfattas omedvetet kan ge upphov till placeboeffekter.",
+            "Huruvida placeboeffekter kan uppstå trots att individen är omedveten om dem.",
+            "Huruvida smärtupplevelser kan utlösas som en följd av omedvetna placeboeffekter."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Forskarna genomförde två experiment som båda bestod av en inlärningssekvens och en testsekvens. När kunde placebo- och noceboeffekter observeras?",
+        "options": [
+            "I det första experimentets båda sekvenser.",
+            "I det andra experimentets båda sekvenser.",
+            "I båda experimentens inlärningssekvenser.",
+            "I båda experimentens testsekvenser. Placebosvar vid smärta"
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vilket antagande har Anita Söderlund ut- gått från i sin avhandling?",
+        "options": [
+            "Att det kan vara gynnsamt för barns utveckling om vuxna i deras närhet samarbetar.",
+            "Att skillnader i barns socioekonomiska bakgrund kan kompenseras av samarbete mellan olika slags ",
+            "Att barns trivsel i skolan påverkas av deras tidigare erfarenhet av fritidshem.",
+            "Att samspelet mellan barn speglar samspelet mellan hem och skola."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Vilken skillnad framhåller textförfattaren mellan de tre studier som nämns i texten?",
+        "options": [
+            "Studierna har olika infallsvinklar på samarbets- formerna inom skolan.",
+            "Studierna presenterar olika förslag på sam- arbeten inom skolan.",
+            "Studierna fokuserar på olika yrkeskategorier inom skolan.",
+            "Studierna analyserar olika elevgrupper inom skolan. "
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "På vad grundade Anita Söderlund sin be- dömning av elevernas kunskapsnivå?",
+        "options": [
+            "Lärarskattningar och intervjuer med eleverna.",
+            "Skolans samarbetsform och elevernas provresultat.",
+            "Lärarskattningar och elevernas provresultat.",
+            "Skolans samarbetsform och intervjuer med personalen."
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Vilka tre faktorer gav störst genomslag i resultaten i Anita Söderlunds studie?",
+        "options": [
+            "Elevernas kulturella bakgrund, kunskapsnivå och sociala utveckling.",
+            "Pedagogisk metod, kunskapsnivå och samarbets- form i skolan.",
+            "Uppväxtmiljö, pedagogisk metod och elevernas kulturella bakgrund.",
+            "Fritidshemserfarenhet, uppväxtmiljö och sam- arbetsform i skolan."
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Uppsvinget för vinylskivan sammanfaller med en kraftig ökning av både fildelning och legal, digital musikförsäljning. Och kanske är vinyltrenden delvis ____ den digitala tren- den.",
+        "options": [
+            "en stegring av",
+            "ett bevis på",
+            "en anledning till",
+            "en motreaktion på "
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "Stora delar av världens befolkning är analfabeter och ____ en skriftlig berättartradi- tion. Romankonsten är ju en relativ nymodighet jämfört med det ____ berättandet och musiken.",
+        "options": [
+            "avvarar – traderade",
+            "saknar – muntliga",
+            "förmedlar – traditionella",
+            "behöver – uråldriga"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Åse Hanssons studie visar att detta är en alltför komplex och ____ fråga för att ____ till att gälla katederundervisning eller elevcentrerad undervisning. Både lärarens och elevens ____ i lärprocessen är av avgörande betydelse för en framgångsrik undervis- ning.",
+        "options": [
+            "flerdimensionell – reduceras – engagemang",
+            "sammansatt – förändras – deltagande",
+            "elementär – förminskas – tillvaro",
+            "komplicerad – hänföras – kunskaper"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Såbädden bereds genom utjämning och ____ av plöjd mark med harv, eller genom fräsning till lämpligt sådjup.",
+        "options": [
+            "gödsling",
+            "luckring",
+            "odling",
+            "röjning"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Det enda sättet för mig som barn att kunna bryta in i samtal var att säga något kul. Det började med att jag en gång oavsiktligt sade något ____ som fick samtalet att tystna. Från den stunden insåg jag att skämt gav mig ____ de vuxnas konversation.",
+        "options": [
+            "spontant – förtroende för ",
+            "ironiskt – inblick i",
+            "dråpligt – tillträde till ",
+            "lakoniskt – övertag över"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Tillgången på bioråvara är begränsad. Därför måste den ____ på bästa möjliga sätt. Att i energikrävande processer göra etanol av spannmål är inte ____ hållbart. Nya studier visar att sådant bränsle överhuvudtaget inte ger några minskningar av växthusgaser jämfört med bensin, utan i vissa fall till och med ökar ____.",
+        "options": [
+            "framställas – biologiskt – förbrukningen",
+            "användas – långsiktigt – utsläppen",
+            "förädlas – ekonomiskt – effekten",
+            "återvinnas – miljömässigt – uttaget"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Kemisk intolerans innebär att man får kraftiga symptom av vardagliga lukter som andra inte reagerar på. ____ liknar astma och allergi, men de kemiskt intoleranta ____ inte med ökad histaminfrisättning.",
+        "options": [
+            "Diagnosen – utsöndras",
+            "Förloppet – hotas",
+            "Symptomen – insjuknar",
+            "Åkomman – reagerar"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Äntligen stod prästen i predikstolen. Församlingens huvuden lyftes. Så, där var han ändå! Det skulle inte bli ____ denna söndagen såsom den förra och många söndagar förut.",
+        "options": [
+            "knäfall",
+            "skyfall",
+            "mässfall",
+            "syndafall"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Sjukgymnasterna hade hög status, jämförbar med läkarnas. Under 1800-talet var sjuk- gymnastik en statligt ____ vetenskap, ett ”läkemedel” som ansågs ha stor ____: såväl tuberkulos som gonorré angreps med sjukgymnastik.",
+        "options": [
+            "censurerad – verkan",
+            "verifierad – utbredning",
+            "oberoende – frihet",
+            "sanktionerad – räckvidd"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "De stycken som beskriver äventyren på land är rätt monotona och ibland närmast pojkboksartade, medan skildringen av naturen och särskilt havet faktiskt ____ en lit- terär talang.",
+        "options": [
+            "röjer",
+            "anar",
+            "hyllar",
+            "formar"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "What is suggested here?",
+        "options": [
+            "new remedy has been discovered and tested for easing unwanted behaviour in patients with ",
+            "Conventional drugs in combination with psy- cho logical treatment might have an effect on ",
+            "Dopamine has been found to help patients with Tourette’s syndrome.",
+            "Habits seem to play only a minor role for patients with Tourette’s syndrome."
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "What is the main point in this text?",
+        "options": [
+            "Wagnerian sopranos are usually rather big. ",
+            "Sopranos at the Salzburg festival need to be well-built to fit into their costumes. ",
+            "Today’s famous soprano singers are mostly slender. ",
+            "Very few present-day sopranos can match Joan Sutherland and Montserrat Caballé."
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "What are we told in the first two paragraphs?",
+        "options": [
+            "Researchers are surprised by how storytelling is used by humans. ",
+            "Narration is regarded as one of several universal human characteristics. ",
+            "Storytelling has been found to be an ineffective way to change people’s minds. ",
+            "Narratives differ from ordinary storytelling, according to psychological research."
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "What is said in relation to Michael Gazzangia?",
+        "options": [
+            "He was the first to discover the practical aspect of the left brain hemisphere.",
+            "He argues that storylines may be used to explain intuitive decision-making.",
+            "He claims that unintentional thoughts are more common than previously believed. ",
+            "He has studied the difference between intuition and logical reasoning."
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "Which of the following statements about narratives is most in line with the text?",
+        "options": [
+            "They differ in their functions depending on the individual narrator. ",
+            "They are overrated as a way to understand how people think and act. ",
+            "They are used to gain insight into people’s secret wishes. ",
+            "They function as a way for individuals to expand their world views. "
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "What, according to the text, has been found in recent brain-scanning research?",
+        "options": [
+            "X-raying improves a person’s ability to under- stand their own internal reasoning.",
+            "Action films release stronger reactions in the brain than reading stories. ",
+            "The human brain uses similar zones regardless of narrative genre.",
+            "Reading stories has been found to enhance human learning. "
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "In what way is the expression “survival benefits” related to narratives?",
+        "options": [
+            "Narratives have always been important for mutual understanding and socialising.",
+            "Narratives are often used in therapy to promote basic instincts. ",
+            "Narratives are necessary for survival in the modern life of networking.",
+            "Narratives have survived because children in all cultures need storytelling. "
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "What is said about people from China and India as regards tourism?",
+        "options": [
+            "The majority of them can now afford to travel abroad.",
+            "They appear unwilling to cross their own national borders.",
+            "So far their travels have tended to cover rela- tively short distances. ",
+            "It will take a long time before they are likely to visit far-off countries."
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What is suggested about the future of tourism?",
+        "options": [
+            "Tourism will be chiefly oriented toward global travel by rich people.",
+            "Travelling abroad and within one’s own country will be increasingly integrated. ",
+            "Domestic tourism will be drastically reduced due to the impact of international travel.",
+            "The travel industry will have to find new destina- tions for mass tourism."
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

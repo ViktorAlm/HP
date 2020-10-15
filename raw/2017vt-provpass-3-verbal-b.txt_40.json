@@ -1,0 +1,484 @@
+[
+    {
+        "question": "",
+        "options": [
+            "respekt",
+            "ärlighet",
+            "disciplin",
+            "tapperhet",
+            "stolthet"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "abrupt",
+        "options": [
+            "oklart",
+            "konstigt",
+            "plötsligt",
+            "onormalt",
+            "kortvarigt"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "torgföra",
+        "options": [
+            "förnedra",
+            "öppet uttrycka",
+            "sammanträda",
+            "kraftigt protestera",
+            "underhålla"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "preferenser",
+        "options": [
+            "något förutbestämt",
+            "förhoppningar",
+            "något man förmodar",
+            "förberedelser",
+            "något man föredrar"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "nischad",
+        "options": [
+            "övertygad",
+            "nivågrupperad",
+            "instängd",
+            "specialiserad",
+            "nekad tillträde"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "domän",
+        "options": [
+            "nivå",
+            "område",
+            "rättighet",
+            "församling",
+            "ledarskap"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "svulstig",
+        "options": [
+            "drömmande och poetisk",
+            "behaglig",
+            "alltför utsmyckad",
+            "högljudd",
+            "enformig och ointressant"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "celiaki",
+        "options": [
+            "glutenintolerans",
+            "syrebrist",
+            "blodförgiftning",
+            "halsinfektion",
+            "ryggmärgsskada"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "såta vänner",
+        "options": [
+            "nära vänner",
+            "rika vänner",
+            "falska vänner",
+            "hemliga vänner",
+            "gemensamma vänner"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "försitta",
+        "options": [
+            "nöta",
+            "förbereda",
+            "dröja",
+            "gå över",
+            "missa – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vad av följande tycks enligt textförfattaren bidra till elevernas problem med termer- na diameter och radie?",
+        "options": [
+            "Att eleverna förväntas använda termerna på helt nya sätt.",
+            "Att eleverna oftast har svårt att växla mellan två termer som betyder samma sak.",
+            "Att eleverna är vana vid den ena termen medan läroböckerna använder endast den andra.",
+            "Att eleverna sällan hittar entydiga förklaringar till termerna när de själva söker efter dem."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Vad framstår som författarens huvudsak- liga syfte med texten?",
+        "options": [
+            "Att förklara skillnaden mellan termerna radie och diameter.",
+            "Att förmedla en egen pedagogisk erfarenhet.",
+            "Att argumentera för fler minnesregler i under- visningen.",
+            "Att föreslå en metod för att undvika genvägar i undervisningen.",
+            "som i Diameter •"
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Enligt textförfattarna kan det vara så att ett och samma beteende är accepterat då man är barn men inte då man är äldre. Vad ligger bakom denna skillnad?",
+        "options": [
+            "Den undervisning som ges i den moderna skolan.",
+            "Vuxnas omedvetenhet om barns utveckling.",
+            "Trycket från samhällets normer.",
+            "De värderingar som bygger på människors faktiska utveckling."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Vad menar textförfattarna med att beha- vioristerna uppfattar socialisation som ett ”tekniskt problem”?",
+        "options": [
+            "Behavioristerna anser att barnet glöms bort när den perfekta skolmiljön ska utformas.",
+            "Behavioristerna anser att samhället måste börja tillgodose det enskilda barnets behov.",
+            "Behavioristerna ser människor som individer som har rätt att utvecklas på skilda sätt.",
+            "Behavioristerna ser människor som objekt som kan styras i en given riktning."
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Vad är i grunden kännetecknande för vux- nas socialisationsprocesser, enligt texten?",
+        "options": [
+            "De uttrycker individens önskan att tillägna sig gruppens normer och värderingar.",
+            "De utgör möten mellan egna och andras normer och värderingar. ",
+            "De syftar till att nå enighet om vad som är bäst för majoriteten.",
+            "De leder till yrkesmässiga och/eller personliga svårigheter."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Vari består, enligt texten, den mest väsent- liga skillnaden mellan behavioristisk (B) och utvecklingspsykologisk (U) tradition när det gäller synen på barnet och dess utveckling?",
+        "options": [
+            "betonar olikheterna, U betonar likheterna.",
+            "ser barnet som process, U ser det som identitet.",
+            "ser barnet som subjekt, U ser det som objekt.",
+            "vill ingripa och påverka, U vill förstå. Reg 17 Version 4 ar.indd 5 2017-01-18 09:05:56"
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vad är, av texten att döma, kärnan i Leesons resonemang kring piraternas sätt att organisera sin verksamhet?",
+        "options": [
+            "Att den ekonomiska framgången var beroende av piraternas individuella förutsättningar.",
+            "Att de enskilda piraternas strävan naturligt gav upphov till en gemensam ordning.",
+            "Att maktdelningen ombord övergick i auktoritärt styre när piraterna befann sig i strid.",
+            "Att piraternas egenartade demokrati uppstod till följd av att deras aktiviteter var olagliga."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Hur, i huvudsak, har Leeson valt att stu- dera 1700-talets pirater?",
+        "options": [
+            "Som banbrytande strateger.",
+            "Som demokratiska förkämpar.",
+            "Som ekonomiska aktörer.",
+            "Som kriminella element."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Vad framhålls i texten som en viktig orsak till den höga graden av medbestämmande ombord?",
+        "options": [
+            "Strävan att minimera de externa kostnaderna.",
+            "Strävan att minimera antalet kostsamma strider.",
+            "Strävan att minimera kostnaderna av ett kollek- tivt beslutsfattande.",
+            "Strävan att minimera antalet kostsamma fel- beslut."
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Vilket av följande påståenden fångar, av texten att döma, bäst det budskap som Leeson vill förmedla med sin bok?",
+        "options": [
+            "En fri marknad leder till fria individer.",
+            "En fri marknad leder till effektiva arbetsformer.",
+            "En fri marknad leder till solidariska handlingar.",
+            "En fri marknad leder till organiserad brottslighet. Reg 17 Version 4 ar.indd 7 2017-01-18 09:05:57"
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "En av montessoripedagogens främsta uppgifter är att observera eleverna för att ge dem ____ handledning i relation till deras mognad.",
+        "options": [
+            "disparat ",
+            "intrikat",
+            "obstinat",
+            "adekvat"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "En för landet gemensam vårdgaranti ____ den 1 november 2005. Målet med vård- garantin var att öka tillgängligheten till planerad vård samt att ____ köer och förkorta väntetider.",
+        "options": [
+            "fastslogs – definiera",
+            "infördes – avveckla",
+            "tillämpades – kringgå",
+            "grundades – effektuera"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Att minnet av Förintelsen försvagas ____ är oundvikligt. Dokumenten gulnar, vittnena dör och levande erfarenhet blir ____ historia. Förintelsen har efter hand också kom- mit att jämföras med andra historiska händelser och blivit föremål för ständigt nya beskrivningar och tidvis rentav ____ förklaringar.",
+        "options": [
+            "med tiden – inlärd – motstridiga",
+            "i tid och otid – avdankad – vinklade",
+            "över tid – förfluten – belysande",
+            "i sinom tid – vissnad – traditionella"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Efter att tillfälligt ha slutat med måleri arbetade han i sitt konstnärskap med två motsatta spår. Samtidigt som han gjorde sina mest abstrakta bilder arbetade han i andra teckningar alltmer ____. Det abstrakta kunde bli för mycket ”konst”, och han uppskattade därför ____ i det föreställande som gav honom en nödvändig näring i arbetet.",
+        "options": [
+            "metaforiskt – provokationen",
+            "förskönande – surrealismen",
+            "figurativt – direktheten",
+            "imaginärt – perceptionen"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Enligt vissa teorier finns det en ____ bakgrund till reumatism; ett starkt och aktivt immunsystem har varit en överlevnadsfördel i tider när många människor dukat under i infektioner.",
+        "options": [
+            "evolutionär ",
+            "rudimentär",
+            "supplementär",
+            "reaktionär"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Att ____ i kultur- och fritidsnämnden vill ge en miljon kronor till socialnämnden beror inte på att kultur- och fritidsnämnden har för mycket pengar. Anledningen är i stället att den miljon som projektanställningen av Ale Möller och världsmusik- ensemblen skulle ha kostat var ____ för just det projektet. Då kan pengarna inte användas för att fylla andra hål i nämndens verksamhet.",
+        "options": [
+            "ordföranden – hårdragen",
+            "styrelsen – knäsatt",
+            "oppositionen – öronmärkt",
+            "motionen – fingervisad"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "I Majgull Axelssons uppgörelsepjäs med folkhemmet, Helgonlegender, finns en intres- sant ____ där en hemlös kvinna berättar att hon föredrar att tigga på Östermalm, för där köper sig folk fria från skuld genom att demonstrativt lägga pengar i den framsträckta muggen.",
+        "options": [
+            "passad",
+            "passage",
+            "passopp",
+            "passning"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "De heliga templen rivs vart tjugonde år och byggs sedan upp igen, exakt likadana. Det är tempel som ständigt förnyas, precis som allt i naturen, vars ____ är det enda som ____.",
+        "options": [
+            "obeständighet – består",
+            "tidlöshet – förlöper",
+            "harmoni – återfinns",
+            "cirkulation – bibehålls"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Om vi nu inte kan se eller med vårt eget förstånd bevisa ____ av till exempel elek- troner, innebär då detta att de inte finns? Nej, naturligtvis inte. Men vi människor ____ förbluffande ofta som om det vore så; som om var och en av oss med just våra kunskaper, erfarenheter och ____ skulle gälla som någon slags universell mall för existensens villkor.",
+        "options": [
+            "existensen – verkar – proportioner",
+            "närvaron – framträder – bevis",
+            "definitionen – resonerar – upplysningar",
+            "förekomsten – agerar – insikter"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "Vid arbetsrotation kan rotationstiden variera från några minuter, när det är frågan om ____ och rutinbetonade arbetsuppgifter, till månader, när det gäller mer omväxlande och intellektuellt krävande arbete.",
+        "options": [
+            "oansenliga",
+            "senfärdiga",
+            "vanskliga",
+            "enahanda"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "What is the main news value in this text?",
+        "options": [
+            "Vaccines must be protected from the African heat. ",
+            "The new meningitis vaccine is most effective in hot climates. ",
+            "Earlier meningitis vaccines have been ineffective in Africa.",
+            "recently developed vaccine is less sensitive to high temperatures. "
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "What is said in this text?",
+        "options": [
+            "People living in India rarely need to know more than one language.",
+            "Knowing two languages keeps an individual mentally alert for a longer period of time. ",
+            "For people diagnosed with dementia, higher education leads to a longer life.",
+            "The more languages you know, the better your mental health will remain late in life.",
+            "New Vaccine In what may prove to be a major advance for Africa’s ",
+            "chorus of wonks and professors say that bad schools will undermine America’s competitiveness in future. Most "
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "What is the main issue in American edu- cation, according to the first paragraph?",
+        "options": [
+            "The fall in results among high-school students in recent years.",
+            "failure to realize the full learning potential of all young people.",
+            "denial of the need for paying more attention to gifted students. ",
+            "The lack of equality between schools in different parts of the US. "
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "What is said about American interest in national standards?",
+        "options": [
+            "It has been expressed chiefly by officials at local level.",
+            "It has a long but so far largely unsuccessful history. ",
+            "It is hardly strong enough to influence US educational policy.",
+            "It is still regarded with suspicion in some pedagogical circles. "
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "How, according to the text, can “No Child Left Behind” best be characterized?",
+        "options": [
+            "As a national attempt to get things moving in the right direction. ",
+            "As a bureaucratic plan to implement national standards.",
+            "As yet another failure to improve students’ rights. ",
+            "As a way of protecting individual states’ right to set aside federal school law."
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "Which of the following statements is most in line with the text? The NGA and CCSSO …",
+        "options": [
+            "intend to promote the same teaching routines for all American states.",
+            "are developing new methods for implementing overall national goals.",
+            "wish to ensure that all high-school students get an equivalent education. ",
+            "are considering the introduction of a new grading system throughout the US."
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "What is claimed about the introduction of national educational standards in America?",
+        "options": [
+            "It will have a number of consequences, involving time and money. ",
+            "It is unlikely to significantly affect ordinary students’ learning situation. ",
+            "It may be outdated even before it has been accepted by all US states.",
+            "It is doubtful whether the benefits are greater than the large costs involved."
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "What is implied here?",
+        "options": [
+            "Moms often tend to show greater understanding than dads for shy children.",
+            "Current social ideals tend to encourage children with an extrovert personality.",
+            "Introvert children are generally seen as more intelligent than others.",
+            "Pushy parents may affect children’s chances of school success negatively."
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What may be concluded from this text?",
+        "options": [
+            "In today’s society, language tests can never be both fair and just.",
+            "Cooperation between testers and educational politicians is needed in order to ensure ",
+            "Language testers can contribute to greater impartiality in decisions made concerning ",
+            "National policies have changed the way language tests are produced. ",
+            "Green Classic If Silent Spring, Rachel Carson’s classic from 1962, gave "
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

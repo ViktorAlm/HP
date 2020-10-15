@@ -1,0 +1,481 @@
+[
+    {
+        "question": "",
+        "options": [
+            "tillfälligtvis",
+            "lite varstans",
+            "huvudsakligen",
+            "gradvis ökande",
+            "omåttligt"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "utfall",
+        "options": [
+            "ersättning",
+            "möjlighet",
+            "sannolikhet",
+            "avvikelse",
+            "resultat"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "ta i anspråk",
+        "options": [
+            "förmoda",
+            "nyttja",
+            "tillrättavisa",
+            "besluta",
+            "önska"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "polenta",
+        "options": [
+            "majsgryn",
+            "bröd",
+            "fårost",
+            "dryckeskärl",
+            "baljväxt"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "tvehågsen",
+        "options": [
+            "obeslutsam",
+            "mångbottnad",
+            "tvåfaldig",
+            "konfl ikträdd",
+            "dubbeltydig"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "axiom",
+        "options": [
+            "grundsats",
+            "ensidighet",
+            "nytt perspektiv",
+            "visdomsord",
+            "jämvikt"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "fysionomi",
+        "options": [
+            "själsliv",
+            "utseende",
+            "energiförbrukning",
+            "välbefi nnande",
+            "självbild"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "särdeles",
+        "options": [
+            "bara",
+            "ganska",
+            "utomordentligt",
+            "tveksamt",
+            "tudelat"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "kanapé",
+        "options": [
+            "smycke",
+            "vagn",
+            "bakverk",
+            "peruk",
+            "versmått"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "remittera",
+        "options": [
+            "ge eftervård",
+            "kalla till återbesök",
+            "hänvisa till specialist",
+            "ge upprepade behandlingar",
+            "återanpassa till arbetslivet – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Enligt texten kunde de studerade verk- samheterna kombinera två huvudsyften för de unga. Vilka två?",
+        "options": [
+            "Fostran och kontroll.",
+            "Undervisning och vård.",
+            "Omsorg och stöd.",
+            "Utbildning och lek."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Vilket av nedanstående förslag passar bäst som alternativ rubrik för texten?",
+        "options": [
+            "Unga bryter med invand passivitet.",
+            "Unga i gränsöverskridande forskning.",
+            "Unga söker identitet genom fostran.",
+            "Unga i normalitetens gränsland. Unga i särskilda verksamheter"
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Vilken är den viktiga informationen i tex- ten?",
+        "options": [
+            "Telomerer är inte en del av kroppens DNA.",
+            "Telomerer kopieras inte vid celldelning.",
+            "Telomerer behövs för att skydda arvsmassan.",
+            "Telomerer kan ersätta okodat DNA."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Vad kan telomerernas längd vara ett mått på, enligt texten?",
+        "options": [
+            "I vilken grad kromosomerna innehåller DNA.",
+            "I vilken grad kroppen kan reparera skador.",
+            "I vilken grad DNkopieras vid celldelningar.",
+            "I vilken grad kroppen har utsatts för genetiska vävnadsförändringar."
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Vad menar textförfattaren är det viktigas- te budskapet i Grossis bok?",
+        "options": [
+            "Att man måste bli mindre fi entligt inställd till det som orsakar känslan av stress.",
+            "Att man gradvis kan träna bort stressen genom att kontrollerat utsätta sig för långvarig stress.",
+            "Att man måste inse att man inte är så oersättlig som man tror.",
+            "Att man ska värdesätta sin sömn och börja tänka positivt."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Vilken slutsats om stress är rimligast att dra utifrån textens resonemang?",
+        "options": [
+            "Stress är i hög grad en produkt av individens egna föreställningar.",
+            "Stress måste hanteras genom att man förkastar omgivningens krav.",
+            "Stress uppstår stegvis genom små svårupptäckta förändringar.",
+            "Stress har lika många uttryck som det fi nns stressade personer."
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Ger Anders Ottossons avhandling något svar på vad konfl ikten mellan manliga sjukgymnaster och läkare under 1800-ta- lets andra hälft handlade om, och i så fall vilket?",
+        "options": [
+            "Ja, det var en strid inom de övre borgerliga skikten om prestige, ursprung och social status.",
+            "Ja, det var en strid om sjukgymnastikens vetenskap- liga och medicinska legitimitet och trovärdighet.",
+            "Ja, det var en strid om huruvida kvinnor skulle tillåtas träda in i mansdominerade yrkesdomäner eller inte.",
+            "Nej, Ottossons avhandling ger inget svar på den frågan."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "På vilket sätt anser recensenten att Ottos- sons avhandling skiljer sig från den gängse genusforskningen?",
+        "options": [
+            "Den ser maktkampen mellan män och kvinnor som ett neutralt tomrum.",
+            "Den ser striden inom ett yrkesområde utifrån klassaspekter, inte utifrån könstillhörighet.",
+            "Den fokuserar inte på maktförhållanden mellan män och kvinnor.",
+            "Den fokuserar inte på vare sig manliga eller kvinnliga värderingar, utan på historiska fakta."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Vad präglade enligt texten sjukgymnasti- ken under den period som Anders Ottos- sons avhandling handlar om?",
+        "options": [
+            "Ett stort vetenskapligt anseende.",
+            "En stark inspiration från naturvetenskapen.",
+            "Ett sökande efter nya metoder och tillämpningar.",
+            "En kritisk hållning till Linggymnastiken."
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Vad i Anders Ottossons historiska avhand- ling värderar textförfattaren högst?",
+        "options": [
+            "Jämförelsen med kvinnliga erfarenheter inom vårdyrket.",
+            "Analysen gjord utifrån dagens könsteoretiska kunskaper.",
+            "Skildringen av motsättningen mellan tradition och modernitet.",
+            "Inriktningen på konfl ikten inom det medicinska området."
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Dockmakaren Oscar Nilsson har lagt på muskler och senor, hud, hår och ögon på en kopia av ____. Förutsättningarna för att ta fram den sanne Bockstensmannen har varit bättre än för många andra ____ som gjorts i arkeologins och rättsväsendets tjänst.",
+        "options": [
+            "ansiktet – rekreationer",
+            "skelettet – renoveringar",
+            "torson – realiseringar",
+            "kraniet – rekonstruktioner"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "Vintermörkret sänker sig över stadsdelen Hillbrow i Johannesburg där tre gatubarn gör sina läxor i ljuset från ett skyltfönster. En av dem kastar en ____ blick på mig, tvekar och förklarar sedan att de inte längre pratar med främmande vita personer.",
+        "options": [
+            "förstulen",
+            "förvuxen",
+            "förgäten",
+            "förfl ackad"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Om landets högste polischef vänder sig till landets statsminister och uttrycker ____ landets justitieminister kan utgöra ett säkerhetsproblem, då är detta alldeles uppen- bart en fråga av största allmänintresse vilket motiverar publicitet, även om medie- bevakningen kan inkräkta på ____. Statsministern ____ dock kategoriskt mediernas uppgifter och hävdade att påståendet var ”lögn och förbannad dikt”.",
+        "options": [
+            " farhågor för att – privatlivets helgd – dementerade",
+            "misstankar om att – regeringsarbetet – konfi rmerade",
+            "frustration över att – rättsprocessen – desarmerade",
+            "omdömeslösheten att – den personliga integriteten – underströk"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Statens beredning för medicinsk utvärdering, SBU, konstaterade nyligen i en rapport att läkemedelsgenomgångar är en av fl era ____ som kan lösa problemen med de äldres onödiga mediciner. Regeringen har också ____ särskilda bidrag till läkemedels- granskningar.",
+        "options": [
+            "anspråk – öronmärkt ",
+            "uppslag – avsatt",
+            "insatser – riktat",
+            " processer – åtgärdat NY PROVDEL"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Hardingfelan har sin utbredning i Vestlandet samt i dalgångarna innanför denna region, medan den vanliga ____ förekommer i resten av landet.",
+        "options": [
+            "cellon",
+            "fl öjten",
+            "nyckelharpan",
+            "fi olen"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Enligt de nya reglerna betalar arbetsgivaren 15 procent av sjuklönen efter de första två veckornas sjukskrivning. När beslutet kom om denna så kallade medfi nansiering startade en ____ debatt, och fortfarande får ____ arbetsgivare i olika läger att ____.",
+        "options": [
+            "hätsk – reformen – resa ragg ",
+            "saklig – resolutionen – slå på stora trumman",
+            "het – reglerna – hugga i sten",
+            "intensiv – lagförslaget – två sina händer"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Begreppet stress kan enligt Seyles defi nieras som den ”energimobilisering” som kan uppstå vid hotfulla eller utmanande situationer. Stress är alltså en fysiologisk reaktion, och handlar inte om ____. Dessa å sin sida kallas i Seyles terminologi för stressorer.",
+        "options": [
+            "de retningar som äger rum i nervernas ändpunkter ",
+            "de förhållanden som framkallar reaktionen ",
+            "de biokemiska processerna",
+            "de invärtes förutsättningarna "
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Den enda som opponerade sig mot almstridens trädkramare var fi nansborgarrådet M., när han ställde den lika ____ som impopulära frågan: Ska trädkramare ha rätt att ____ våldsmetoder mot parlamentariskt fattade beslut som de ogillar?",
+        "options": [
+            "relevanta – tillgripa",
+            "intressanta – tillåta",
+            "impulsiva – tillkalla",
+            "moraliska – tillta"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Riktigt hur det går till när gökhonan för första gången väljer bo åt sina ägg är det ingen som vet. En teori är att hon återvänder till platsen där hon föddes. En annan teori är att hon, som nykläckt unge, ____ sina fosterföräldrar och sedan söker upp samma art.",
+        "options": [
+            "känns vid ",
+            "präglas på",
+            "indoktrineras av",
+            "erinrar sig"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "För ____ spelade självhushållning fortfarande en dominerande roll, trots att skogsbru- ket gav kontantinkomster; detta bedrevs huvudsakligen under vintrarna och kunde lätt kombineras med skötseln av jordbruk.",
+        "options": [
+            "det urbana samhället ",
+            "de nomadiska familjerna",
+            "den agrara befolkningen",
+            "de extroverta individerna"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "What is implied in this text?",
+        "options": [
+            "The beauty industry has always been known to be particularly careful about what its products ",
+            "It is only with great scepticism that the beauty industry is now trying to use environmentally ",
+            "Most people are sceptical about the interest shown by the beauty industry in biodynamically ",
+            "The beauty industry has been slow to use plants grown in an environmentally friendly way in its "
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "What is the main point here?",
+        "options": [
+            "Charles Darwin was a man who was concerned about what family and friends thought of him ",
+            "The new database has primarily been set up to bridge the gap between science and religion ",
+            "Charles Darwin is now considered to have been a loving family man more than a hardworking ",
+            "The new database provides a complex represen- tation of Charles Darwin",
+            "review of a book by Susan Pinker Why do girls on average lead boys for all their years in "
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "What is suggested in the opening para- graphs?",
+        "options": [
+            "Once out of school, girls tend to lead the way into professional careers",
+            "Boys have recently improved their results in school ",
+            "Girls need to be encouraged to continue to higher education",
+            "Boys do not perform as well in school as their later careers indicate"
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "What is said about 15-year-olds?",
+        "options": [
+            "Most studies show that boys are better than girls in math",
+            "Girls tend to lose the lead in most school subjects",
+            "Boys show great variation in math results ",
+            "While boys in the US perform very well, the opposite is true in Europe"
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "What is Pinker’s main point about sex discrimination in society?",
+        "options": [
+            "It is of minor importance as regards women’s careers ",
+            "It prevents women from making professional careers",
+            "It has come to play an ever-increasing role for everyone",
+            "It was more infl uential in the past than it is today"
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "Why is an Ivy League professor quoted in the book?",
+        "options": [
+            "To demonstrate that Pinker is not alone in believing in the importance of scientifi c ",
+            "To strengthen Pinker’s view on the impact of biology on girls’ professional choices ",
+            "To emphasize how important societal views are to people’s lives",
+            "To show the importance of career paths within the educational sector"
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "Which of the following statements is most in line with the reviewer’s thoughts on dif- ferences between the sexes?",
+        "options": [
+            "They are an invention by the feminist movement",
+            "Their existence can be explained by biological facts alone",
+            "They exist but need to be discussed in a careful manner",
+            "There is no scientifi c evidence that they actually exist"
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "What is claimed here?",
+        "options": [
+            "Psychologists have made economists question their own motives",
+            "Economic activities are as a rule guided by instinct rather than reason",
+            "Economic theories have tended to play down emotional factors ",
+            "Brain researchers may soon be taking the place of economic theorists "
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "How does the writer feel about Sheila Kitzinger’s views?",
+        "options": [
+            "She is deeply sceptical ",
+            "She shares most but not all of them",
+            "She does not really take a stand",
+            "She thinks they have been misunderstood "
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

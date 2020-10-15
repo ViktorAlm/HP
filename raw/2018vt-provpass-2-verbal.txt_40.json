@@ -1,0 +1,481 @@
+[
+    {
+        "question": "",
+        "options": [
+            "utnyttja",
+            "förstärka",
+            "ersätta",
+            "förgylla",
+            "bearbeta"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "begrundan",
+        "options": [
+            "övertygelse",
+            "synsätt",
+            "uppskattning",
+            "kunskap",
+            "eftertanke"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "resonabel",
+        "options": [
+            "tillförlitlig",
+            "rättvis",
+            "samstämmig",
+            "vettig",
+            "pratsam"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "gemene man",
+        "options": [
+            "nära släkting",
+            "finare sällskap",
+            "känd person",
+            "folk i allmänhet",
+            "ondsint människa"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "avhandla",
+        "options": [
+            "beställa",
+            "rådfråga",
+            "diskutera",
+            "meddela",
+            "prestera"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "kallskänk",
+        "options": [
+            "donation från en okänd",
+            "plats för tillredning av mat",
+            "känsla av övergivenhet",
+            "rituell överlämning av gåva",
+            "obehaglig överraskning"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "arla",
+        "options": [
+            "klart",
+            "tidigt",
+            "vackert",
+            "enkelt",
+            "svalt"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "fonologi",
+        "options": [
+            "läran om språkljuden",
+            "läran om talekonsten",
+            "läran om dialekterna",
+            "läran om skriftspråken",
+            "läran om tryckkonsten"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "mani",
+        "options": [
+            "vanesak",
+            "stark rädsla",
+            "inbillningssjuka",
+            "överdrivet intresse",
+            "nedstämdhet"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "umbärlig",
+        "options": [
+            "onödig",
+            "sällskaplig",
+            "varsam",
+            "bristfällig",
+            "omständlig – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vad menar Qaisar Mahmood, enligt text- författaren, att man kan skaffa sig med hjälp av en ”social nyckel”?",
+        "options": [
+            "Inblick i litteraturen.",
+            "Tillträde till en gemenskap.",
+            "Verklig kulturell kompetens.",
+            "Mod att bryta mot normen."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Vilket påstående om konstens funktion överensstämmer bäst med textförfatta- rens konstsyn?",
+        "options": [
+            "Konsten symboliserar kulturellt kapital.",
+            "Konsten för oss ut i det oförutsägbara.",
+            "Konsten utgör den verkliga kanon.",
+            "Konsten ger oss tillgång till sociala samman- hang. "
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Vad av följande framstår som en viktig an- ledning till det namnbyte som diskuteras i texten?",
+        "options": [
+            "Att ny forskning gjort att Willis och Ekboms tidiga rön nu blivit erkända som korrekta.",
+            "Att senare vetenskapliga studier konstaterat att symtomen kan bero på flera sjukdomar.",
+            "Att sjukdomens gamla namn var missvisande, vilket medförde problem för patienterna.",
+            "Att beteckningen syndrom har visat sig vara felaktig för att beskriva patienternas symtom."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Textförfattaren redogör för framsteg som nyligen gjorts beträffande Willis–Ekboms sjukdom. Vad handlar dessa framsteg framför allt om?",
+        "options": [
+            "Möjligheterna att förebygga sjukdomen.",
+            "Kunskapen om sjukdomssymtomens orsaker.",
+            "Utsikterna att kunna forska om sjukdomen.",
+            "Insikterna om sjukdomssymtomens kon- sekvenser."
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Vad ser textförfattaren som en trolig utveckling vad beträffar läkemedel mot Willis–Ekboms sjukdom?",
+        "options": [
+            "Att medicinering får en successivt minskad roll till förmån för annan behandling.",
+            "Att de dopaminpåverkande preparaten förbätt- ras så att deras bieffekter undviks.",
+            "Att de effektiva läkemedlen blir fler och valet mellan dem mer individanpassat.",
+            "Att behandlingen inriktas mer på läkemedel som påverkar blodcirkulationen."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Vilket var sir Thomas Willis viktigaste bidrag till forskningen om Willis-Ekboms sjukdom, av texten att döma?",
+        "options": [
+            "Han var den förste som identifierade orsaken till sjukdomen.",
+            "Han var först med att samla sjukdomssymtomen under ett gemensamt namn.",
+            "Han var den förste som dokumenterade sjuk- domens symtom.",
+            "Han var först med en lyckad behandling av en neurologisk sjukdom. "
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vad lyfts fram i texten som får just tillit att framstå som något särskilt viktigt i samband med bussförarnas situation efter avregleringen?",
+        "options": [
+            "Tillit kan kompensera för bussförarnas förlorade kontroll. ",
+            "Tillit kan motivera bussförarna att byta arbets- givare.",
+            "Tillit kan bidra till att stärka sammanhållningen mellan bussförarna.",
+            "Tillit kan signalera till arbetsgivaren att buss- förarna trots allt är lojala."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Vad avgör, enligt texten, i vilken mån en anställd känner tillit till sin arbetsgivare?",
+        "options": [
+            "Företagets formellt uttalade målsättningar och förpliktelser.",
+            "De konkreta och vardagliga händelserna på arbetsplatsen.",
+            "Utformningen av löner och andra anställnings- villkor.",
+            "Företagets bemötande av och rykte bland kunderna."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Vilket motsägelsefullt förhållande utgör en viktig slutsats i Tommy Nilssons avhand- ling?",
+        "options": [
+            "Huvudmännens besparingsiver har snarast lett till att deras utgifter ökat.",
+            "Individuella bussförare ställs emot yrkesgruppens kollektiva intressen. ",
+            "Företag driver sina anställda att agera tvärtemot företagets behov. ",
+            "Avregleringarna har lett till ökad detaljstyrning av kollektivtrafiken."
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Hur bedömer textförfattaren Tommy Nils- sons avhandling?",
+        "options": [
+            "Som något förenklad men slagkraftig.",
+            "Som tidstypisk och motsägelsefull.",
+            "Som mycket ambitiös men ofullgången.",
+            "Som knapphändig och sökande. Uppgifter"
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "I Buenos Aires är tango inte bara kultur, utan också business. Inte sällan används tangons känslouttryck som ____: Här och ingen annanstans kan du uppleva den sanna tangons passion, sensualitet och nostalgi.",
+        "options": [
+            "bruksanvisning",
+            "resedokument",
+            "innehållsdeklaration",
+            "försäljningsargument"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "Turville är själva ____ för en liten engelsk by, givetvis komplett med en utmärkt liten pub som ____ i Morden i Midsomer och flera andra filmer och tv-serier.",
+        "options": [
+            "avstampet – debuterat",
+            "beteckningen – plagierats",
+            "urtypen – figurerat",
+            "grundvalen – regisserats"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Inom ____ späder man ut påstått verksamma ämnen i vätska så många gånger att det inte kan finnas några molekyler kvar av det ursprungliga ämnet. Ändå hävdar anhäng- arna att medlen botar allt från sår till cancer. Att ____ behandlingar ändå tycks hjälpa vissa patienter beror enligt författarna uteslutande på ____; patientens förväntningar gör att medlet tycks ge effekt.",
+        "options": [
+            "naprapatin – kompletterande – psykologi",
+            "zonterapin – traditionella – terapieffekten",
+            "läkekonsten – alternativa – optimism",
+            "homeopatin – verkningslösa – placeboeffekten"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Grundprincipen är, enligt FN-stadgans artikel 51, att hot om eller användning av våld är ____, med två undantag: när det specifikt har ____ av säkerhetsrådet, eller som själv- försvar mot ett väpnat angrepp tills säkerhetsrådet agerar.",
+        "options": [
+            "rättsstridigt – förmenats",
+            "tillåtet – bekräftats",
+            "sanktionerat – reglerats ",
+            "uteslutet – bemyndigats delprov mek – meningskomplettering"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Under 1930-talet framhölls särskilt delar av socialpolitiken och sysselsättnings politiken som ____ för den svenska medelvägen mellan kapitalism och socialism.",
+        "options": [
+            "utmärkande",
+            "avvikande",
+            "utpekande",
+            "avgränsande"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Visst känner många svenskar till att åtskilliga finländare kan svenska, men man antar gärna att det är ett språk ____ i skolmiljö, ungefär som vi lär oss engelska. Det är förvisso sant att en hel del finnar har lärt sig svenska i skolan, men de som är finlands- svenskar har ____ inte gjort det. De har lärt sig svenska i barndomshemmet, lika naturligt som de flesta svenskar gör.",
+        "options": [
+            "absorberat – in natura",
+            "förvärvat – per definition",
+            "integrerat – da capo",
+            "beläst – in absurdum"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Ett urvalstest måste ha prediktiv eller prognostisk ____, alltså på ett säkert sätt kunna förutsäga till exempel framgång i utbildningen eller yrket.",
+        "options": [
+            "analys",
+            "validitet",
+            "selektion",
+            "konsensus"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Förra året klarade sig aktiva pensionssparare bättre än passiva, enligt PPM. Men förfat- taren pekar på en undersökning som visar att hushåll som gör många ____ på sikt har sämre avkastning än de som gör få. Kvinnor är också bättre ____ än män eftersom de gör färre fondbyten. Nackdelarna med att göra många affärer är avgiften, ____, och att skillnaderna i pris mellan köp- och säljkurs är en kostnad som påverkar värdet på fonder negativt vid stor omsättning.",
+        "options": [
+            "fusioner – investerare – embargot",
+            "transaktioner – placerare – courtaget",
+            "kommissioner – ekonomer – royaltyn",
+            "depositioner – mäklare – taxeringen"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Till de vanligaste arterna hör låga örter med breda, bågnerviga blad i rosett. De grön- eller brunaktiga blommorna sitter samlade i långa ax i toppen av de upprättstående, bladlösa ____.",
+        "options": [
+            "stänglarna",
+            "kapslarna",
+            "ståndarna",
+            "kronbladen"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "Den tyska historieskrivningen om första världskriget har länge varit en ____ för samtidens kontroverser snarare än ett förutsättningslöst sökande efter orsaker och samband. När tyska bokhandlar nu fylls av böcker i samband med 100-årsminnet av krigsutbrottet verkar det dock som om kriget har tjänat ut som ____.",
+        "options": [
+            "täckmantel – världsarena",
+            "mittpunkt – referensram",
+            "teaterkuliss – historiescen ",
+            "projektionsyta – samtidsspegel"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "31.",
+        "options": [
+            "further",
+            "yet ",
+            "mostly",
+            "then"
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "32.",
+        "options": [
+            "turned in",
+            "looked after",
+            "set out ",
+            "left open"
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "33.",
+        "options": [
+            "luckily",
+            "therefore",
+            "confidently",
+            "however "
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "34.",
+        "options": [
+            "prone to ",
+            "rejected by",
+            "eager for ",
+            "dependent on"
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "35.",
+        "options": [
+            "for",
+            "although ",
+            "so",
+            "because ELF 18Del 2.indd 11 2017-12-18 12:00:35",
+            "review of 1493: Uncovering the New World Columbus Created by Charles C. Mann Globalisation is commonly seen as a distinctly modern "
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "What is argued in the first two paragraphs?",
+        "options": [
+            "Widespread historical notions have little connec­ tion with reality. ",
+            "Modern international relations are less extensive than often believed.",
+            "Commercial incentives are not enough to build an interconnected world.",
+            "Today’s globalisation can be seen as little else than a popular myth."
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "What is the reviewer’s opinion about the focus of Mann’s book?",
+        "options": [
+            "It tends to make it difficult to follow his main line of presentation of early trade relations.",
+            "It is too restrictive to allow general conclusions about commercial relations in the post­",
+            "It serves his purpose of showing the nature and unpredictable impact of early international trade. ",
+            "It can be seen as self­evident in view of Spain’s dominance in the post­1493 world of sea trade."
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "In what way does Mann shed new light on the role of Europe in the colonisation of the New World?",
+        "options": [
+            "He points out important variations between the colonising countries. ",
+            "He considers underlying similarities more rele­ vant than superficial differences among colonist ",
+            "He specifically addresses the moral issues involved in colonisation. ",
+            "He stresses the attraction of silver for all the European countries colonising South America."
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What is claimed about Bolivian silver?",
+        "options": [
+            "It helped to improve relations between Europe and China.",
+            "In the long run, exporting it to Spain cost far more than was financially acceptable. ",
+            "In the end, working conditions at the mines brought production to a halt. ",
+            "Its abundance gave rise to economic and social instability in opposite parts of the globe. "
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

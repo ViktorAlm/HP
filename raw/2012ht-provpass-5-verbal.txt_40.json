@@ -1,0 +1,480 @@
+[
+    {
+        "question": "",
+        "options": [
+            "mäktig",
+            "rådande",
+            "oroande",
+            "fastslagen",
+            "förödande"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "svarande",
+        "options": [
+            "sakkunnig",
+            "pressansvarig",
+            "part i rättegång",
+            "argumentationsexpert",
+            "nämndeman"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "urskulda",
+        "options": [
+            "försämra",
+            "försöka",
+            "förtala",
+            "förtjäna",
+            "försvara"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "glukos",
+        "options": [
+            "vegetabiliskt fett",
+            "mineralämne",
+            "fruktsyra",
+            "druvsocker",
+            "mjölkprotein"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "till gagn",
+        "options": [
+            "till nöds",
+            "till nackdel",
+            "till glädje",
+            "till nytta",
+            "till vägledning"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "restriktion",
+        "options": [
+            "motståndskraft",
+            "återkoppling",
+            "kvarhållande",
+            "inskränkning",
+            "påtryckning"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "lägga sordin på",
+        "options": [
+            "förstärka",
+            "dölja",
+            "utsmycka",
+            "dämpa",
+            "slutföra"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "flärd",
+        "options": [
+            "smicker",
+            "ytlig prakt",
+            "rikedom",
+            "spänning",
+            "tomt prat"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "andemening",
+        "options": [
+            "egentlig innebörd",
+            "själfullt yttrande",
+            "avvikande uppfattning",
+            "vag betydelse",
+            "religiös idé"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "uppskörtad",
+        "options": [
+            "lurad att betala för mycket",
+            "spänd av förväntan",
+            "fullständigt utmattad",
+            "tvingad att agera",
+            "rädd utan anledning – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Under vilken fas i hårbildningen inaktive- ras genen Lhx2?",
+        "options": [
+            "När stamcellerna börjar föröka sig.",
+            "När hårfollikeln tillbakabildas.",
+            "När hårstråna lossnar från kroppen.",
+            "När hårfollikeln bildats."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Vilken slutsats är mest rimlig att dra av texten?",
+        "options": [
+            "Man kan ha hårbildning utan att ha genen Lhx2.",
+            "Man kan ha hår utan att ha hårfolliklar.",
+            "Man kan ha genen Lhx2 men sakna telogen fas.",
+            "Man kan ha hårfolliklar men sakna hår. Genen Lhx2"
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Vad framför allt saknar textförfattaren i de två böckerna?",
+        "options": [
+            "Ett ifrågasättande av tron på mätbarhetens nytta.",
+            "Ett ifrågasättande av skolans generella utveckling.",
+            "Ett ifrågasättande av begreppet rationalitet.",
+            "Ett ifrågasättande av hela betygssystemet."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Hur kan man bäst beskriva texten?",
+        "options": [
+            "Som en kommenterande recension.",
+            "Som en självkritisk betraktelse.",
+            "Som en debattskrift med detaljsynpunkter.",
+            "Som en kritik av akademisk forskning. Utvärdering"
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Vad utmärkte, enligt textförfattaren, Sal- vador Dalís förhållningssätt till kommersi- ella massmedier?",
+        "options": [
+            "Strategianpassning",
+            "Naivitet",
+            "Framsynthet",
+            "Idealism"
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Vilken slutsats om Vezzolis konstnärskap är mest rimlig att dra av texten?",
+        "options": [
+            "Vezzolis konst och konstnärsroll påminner framför allt om Dalís.",
+            "Vezzolis konst och konstnärsroll påminner framför allt om Warhols.",
+            "Vezzolis konst och konstnärsroll anknyter till såväl Dalí som Warhol fast med en egen touch.",
+            "Vezzolis konst och konstnärsroll värderas inte alls av textförfattaren."
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Hur har textförfattarna inhämtat det ma- terial som deras slutsatser bygger på?",
+        "options": [
+            "De har sammanställt resultaten av andras forsk- ning om reformprocesser.",
+            "De har studerat skriftlig dokumentation och utvärderingar av reformprocesser.",
+            "De har gjort egna direkta studier av reform- processer.",
+            "De har själva drivit och medverkat i reform-"
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Textförfattarna diskuterar begreppet allonymism. Hur skulle man bäst kunna sammanfatta hur de ser på allonymismens betydelse i reformarbetet?",
+        "options": [
+            " Allonymismen regerar",
+            "Allonymismen splittrar",
+            "Allonymismen formar",
+            "Allonymismen utmanar"
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "I vilket avseende skiljer sig textförfattar- nas syn på reformer och idéer från Gabriel Tardes syn?",
+        "options": [
+            "Modecentra snarare förstärker trender än skapar dem.",
+            "Reformer bör ses ur praktisk synpunkt snarare än ur logisk.",
+            "Modecentra har större betydelse idag än i äldre tider.",
+            "Reformer måste ses som organisationers strävan efter oberoende."
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Vad tycks, av texten som helhet att döma, vara viktigast för att en reform ska få stöd?",
+        "options": [
+            "Att den upplevs som nödvändig.",
+            "Att den upplevs som efterfrågad.",
+            "Att den upplevs som nyskapad.",
+            "Att den upplevs som bekant. – 8 –"
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Ett svart hål är egentligen inte ett ”hål” i ____ att det inte finns någonting där. Det är precis tvärtom, ett svart hål är ett objekt i rymden som har otroligt stor massa, så stor att inte ens ljuset kan komma därifrån. Det beror på att ____ i ett svart hål är så stark att ingen materia kan lämna det.",
+        "options": [
+            "betraktelsen – centrifugalkraften",
+            " definitionen – attraktionen",
+            "meningen – intensiteten",
+            " bemärkelsen – gravitationen"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "Barnboksförfattarna Louis Jensen och Oscar K och ____ Dorte Karrebæk och Lilian Brøgger har i sina böcker synbarligen bestämt sig för att visa att barnboken också kan vara Konst, och därmed är fri att ____ allt, handla om vad som helst och se ut på många oväntade sätt, utan skyddsnät. I deras senaste barnböcker faller gamla ____ som bowlingkäglor, när det ena klotet efter det andra kommer susande.",
+        "options": [
+            " förläggarna – behärska – veton ",
+            "debutanterna – kartlägga – deviser",
+            "illustratörerna – undersöka – tabun",
+            "konstnärerna – upptäcka – ridåer"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Skolan måste även hitta ____ till den kunskap som beskrivs i läroplanen, en kunskap som får värde först när den är användbar och kulturellt färgad, där ”de eviga sanning- arna” är förkastade ____ självständigt tänkande och problemlösning, där själva läran- det och bildningen, inte utantillkunskaper, står i fokus.",
+        "options": [
+            "ett förhållningssätt – till förmån för",
+            "en principförklaring – i stället för",
+            "en värderingsgrund – i brist på",
+            "en betydelseutveckling – på grund av "
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Den slutsats man kan dra är att omhändertagandet i sig är givande. Vi vet inte vilken ingrediens som ger effekten, om det är ____, alltså att det är samma behandlare, eller kanske beröringen, kommunikationen eller avslappningen.",
+        "options": [
+            "intimiteten ",
+            "anonymiteten ",
+            "immuniteten",
+            "kontinuiteten NY PROVDEL"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Är det någonsin rätt att bryta mot lagen i en demokrati? Jo, det måste vi nog ____ att det kan vara. Frågan om huruvida civil olydnad kan rättfärdigas eller ej är emellertid inte enkel. Hur vi ser på den beror på vad för slags grundläggande ____ måttstock vi tillämpar.",
+        "options": [
+            "tillstå – moralisk",
+            "hänföra – politisk",
+            "medge – etnologisk",
+            "bestrida – juridisk"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Mode kan både reproducera och utmana könsdikotomin. För att vara subversivt måste mode ifrågasätta och ____ det som idag betraktas som normalt, bäras på icke förväntade platser och visualisera andra möjligheter.",
+        "options": [
+            "representera",
+            "underminera",
+            "legitimera",
+            "auktorisera "
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Tanken att företaget vi hade kontrakterat skulle ta emot pengarna och sedan bara lämna det giftiga slammet i öppen ____ föresvävade mig inte. Inte heller att landets myndigheter skulle låta ____ ett bostadsområde i absolut närhet till det material vi exporterat. Det är alltså flera samverkande beslut, missgrepp och missförstånd som till slut lett till en ____ katastrof.",
+        "options": [
+            "åsyn – inrätta – förgiftad",
+            "dager – uppföra – omfattande ",
+            "ridå – påbörja – sanslös",
+            "grop – bebygga – förödande "
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Dessutom har ____ av våtmarker förstört många av gäddans ursprungliga lekplatser, som utgörs av grunda vikar och tillfälligt översvämmade strandområden, vilka påver- kas av sådan torrläggning.",
+        "options": [
+            "fördämningen ",
+            "utdikningen",
+            "expansionen",
+            "undanröjandet"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Den kulturhistoriska platsen, där han har förrättat sitt konstnärliga ____, vanvårdas grovt. Hustrun låtsas förstås som ingenting. Hon målar upp en bild av ett skärgårds- paradis, ungefär som hon målar upp en bild av sin make som skröplig och gaggig. Förmodligen är hon rädd för att någon ska stjäla honom, rädd för att familjens tjusiga ____ ska krackelera.",
+        "options": [
+            "verk – tillvaro",
+            "yrke – bländverk",
+            "värv – fasad",
+            "kall – idyll"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "Det finns många metoder i vårt samhälle som erbjuder hälsa och välmående. Man bru- kar dela upp de metoder som finns i två stora grupper: dels de ____ eller alternativa, dels de som faller inom hälso- och sjukvården.",
+        "options": [
+            "ordinära",
+            "konventionella",
+            "somatiska",
+            "komplementära"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "31.",
+        "options": [
+            "activate",
+            "relieve",
+            "conceal",
+            "reduce"
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "32.",
+        "options": [
+            "allowed",
+            "illegal",
+            "used",
+            "effective"
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "33.",
+        "options": [
+            "indicates",
+            "prevents",
+            "shows",
+            "requires "
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "34.",
+        "options": [
+            "Consequently",
+            "Indeed",
+            "Thus",
+            "Finally"
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "35.",
+        "options": [
+            "experience",
+            "suffering",
+            "tolerance",
+            "research – 11 – FORTSÄTT PÅ NÄSTSID»"
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "What is suggested about Marlene van Niekerk’s novel Triomf?",
+        "options": [
+            "It was written in a daringly casual language and unconventional style ",
+            "It was the first novel to be awarded a prestigious prize in South Africa",
+            "It is a well-known book about the 1994 demo- cratic election in South Africa ",
+            "It is a drama about white South African politi- cians written in Afrikaans "
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "Why is Johannesburg mentioned in the text?",
+        "options": [
+            "It is the old Afrikaans name for Sophiatown",
+            "It is known for being the capital of jazz music",
+            "It is close to the main location of the novel ",
+            "It is the place where apartheid was brought down"
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "Which of the following statements about Milla de Vet is true, according to the text?",
+        "options": [
+            "She could not have any children of her own",
+            "She was a South African female writer ",
+            "She was the owner of an Afrikaner farm ",
+            "She had been an invalid since the late 1940s "
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What are we told about Agaat and Milla’s relationship?",
+        "options": [
+            "Agaat was the adopted daughter who lived together with Milla ",
+            "Agaat and Milla lived and shared a happy life in the country ",
+            "Agaat was hired as a nurse in Milla’s country household",
+            "Agaat and Milla were attached to each other in complicated ways "
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

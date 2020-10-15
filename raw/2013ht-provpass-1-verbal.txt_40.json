@@ -1,0 +1,480 @@
+[
+    {
+        "question": "",
+        "options": [
+            "bergsbestigning",
+            "fjällräddning",
+            "snöblindhet",
+            "höjdrädsla",
+            "glaciärbildning"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "hospitaliserad",
+        "options": [
+            "inbillningssjuk",
+            "gästvänlig",
+            "läkemedelsberoende",
+            "väl mottagen",
+            "sjukhustillvänjd"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "amnesti",
+        "options": [
+            "påtryckning",
+            "försvar",
+            "uppskov",
+            "förbud",
+            "benådning"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "gestalta",
+        "options": [
+            "fantisera",
+            "utforma",
+            "tyda",
+            "urskilja",
+            "fullborda"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "schabrak",
+        "options": [
+            "grustag",
+            "mullrande ljud",
+            "nederlag",
+            "stort tygstycke",
+            "metallbygel"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "brådstörtat",
+        "options": [
+            "tvärbrant",
+            "smärtsamt",
+            "djupgående",
+            "plötsligt",
+            "stressigt"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "peang",
+        "options": [
+            "klämma",
+            "tunn kniv",
+            "mätinstrument",
+            "liten sax",
+            "väggur"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "kymig",
+        "options": [
+            "barnslig",
+            "olustig",
+            "enformig",
+            "oärlig",
+            "märklig"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "upplåta",
+        "options": [
+            "höja till skyarna",
+            "belöna",
+            "ställa till förfogande",
+            "belysa",
+            "uttrycka glädje"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "subtilitet",
+        "options": [
+            "finess",
+            "stolthet",
+            "upphöjdhet",
+            "påverkan",
+            "ersättning – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Enligt texten ser Madjidian en risk för ”ett slags rundgång”. Vad skulle detta i första hand få för följder?",
+        "options": [
+            "Att samband försvinner.",
+            "Att felaktigheter består.",
+            "Att oklarheter framhävs.",
+            "Att forskningen missförstås."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Vad är det som riskerar att inte upptäckas i den biologiska forskning som Madjidian och Karlsson Green kritiserar?",
+        "options": [
+            "Att många konflikter mellan hanar och honor uppstår medvetet.",
+            "Orsakerna till kunskapsluckorna inom konflikt- forskningen.",
+            "Att könskonflikter i naturen har en mänsklig kontext.",
+            "Orsakerna till könskonflikterna i djurvärlden. Trakasserier och tvång"
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Litteraturen har dåligt självförtroende, skriver textförfattaren. Hur bör man enligt henne argumentera för att återge litteraturen dess självförtroende?",
+        "options": [
+            "Man bör hävda att litteratur är mer än dess konstnärliga värde.",
+            "Man bör hävda att litteratur har ett egenvärde.",
+            "Man bör hävda att den fysiska boken överträffar e-boken.",
+            "Man bör hävda att litteraturläsning främjar språkutvecklingen."
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Vilket av följande påståenden stämmer bäst överens med resonemanget i texten?",
+        "options": [
+            "Det är viktigare att man läser än vad man läser.",
+            "Biblioteken bör arbeta med ett vidare litteratur- begrepp än i dag.",
+            "E-böcker saknar litterärt värde.",
+            "Värdet av god litteratur ska inte mätas i nytta. Litteraturen och biblioteken"
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Vad har forskarna analyserat för att kom- ma fram till det beskrivna resultatet?",
+        "options": [
+            "Mikrober i benrester.",
+            "Återskapade mitokondrier.",
+            "Förändringar i DNA.",
+            "Energitillverkande proteiner."
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Vad rensade forskarna bort ur undersök- ningsmaterialet för att få fram resultatet, enligt texten?",
+        "options": [
+            "Arvsmassa från främmande organismer.",
+            "DNA-sekvenser med oklar funktion.",
+            "Gener med skador av olika slag.",
+            "Förändrade och felaktiga celler. Neandertalarna"
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vilken är den centrala motsättning som texten vill belysa?",
+        "options": [
+            "Motsättningen mellan värderingar och lärande.",
+            "Motsättningen mellan vuxenvärlden och barnen.",
+            "Motsättningen mellan intentioner och verklighet.",
+            "Motsättningen mellan individen och gruppen."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Vad nämner textförfattarna som ett pro- blem med läroplanens formuleringar?",
+        "options": [
+            "Att de är alltför ambitiösa.",
+            "Att de är alltför resurskrävande.",
+            "Att de är föremål för politisk debatt.",
+            "Att de är öppna för skiftande tolkningar."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Vad behövs enligt textförfattarna för att förskolan verkligen ska kunna erbjuda ”möjlighetsrum” för alla?",
+        "options": [
+            "Normer och värden.",
+            "Analys och reflektion.",
+            "Policy och modeller.",
+            "Samtal och samspel."
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Vad är uppenbarligen textförfattarnas syfte med texten?",
+        "options": [
+            "Att redovisa några av de erfarenheter de själva gjort i såväl forskning som yrkesarbete.",
+            "Att ifrågasätta några av de grundläggande värde- frågorna såsom de framläggs i läroplanen.",
+            "Att ge pedagogiskt intresserade läsare en bild av arbetssituationen för förskollärare.",
+            "Att diskutera de problem och möjligheter för- skolan möter när den ska hantera värdefrågorna."
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Diskbråck i ländryggen kan påverka nervrötterna i ryggen och ge utstrålande smärta i benet, även kallad ____.",
+        "options": [
+            "artros",
+            "ischias",
+            "skolios",
+            "whiplash"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "En historiker vill gärna sätta in olika händelser i en ordningsföljd för att visa hur de förhåller sig till varandra, men det är svårt att upprätta ____ över den förhistoriska tiden eftersom de tidsuppgifter man har att tillgå är mycket ____.",
+        "options": [
+            "en kronologi – vaga",
+            "ett schema – föråldrade",
+            "en tidsstudie – knappa",
+            "en hierarki – diffusa"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Prästyrket uppfattades som ____, och knöts också till en speciell manlighet och till en speciell livsstil. Detta berörde inte endast prästen själv, utan hela prästfamiljen ____ av denna livsstil. Till exempel tjänstgjorde prästen på söndagar och vid de stora helgerna, när den övriga befolkningen uppmanades att följa sabbatsbudet och ____.",
+        "options": [
+            "ett ämbete – vägleddes – gå i kyrkan",
+            "ett hantverk – påverkades – stanna hemma",
+            "en gudagåva – invigdes – helga vilodagen",
+            "ett kall – omfattades – avstå från arbete"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Den gängse bilden av Zorn som ursvensk och fast i det gamla är inte rättvis; hans akvareller byggde inte sällan på fotografier, och han var definitivt en ____ orienterad målare.",
+        "options": [
+            "inhemskt",
+            "erkänt",
+            "klassiskt",
+            "internationellt"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "Rymdsamarbetet fortsatte in på 1960-talet. Hösten 1961 beslutade Sverige att inte gå med i ELDO, medan ESRO-konventionen undertecknades påföljande år. Två år senare trädde den i kraft, och Sverige ____ konventionen. Under samma tid pågick också för- handlingar om var ESRO skulle ____ sina anläggningar.",
+        "options": [
+            "certifierade – omsätta",
+            "sanktionerade – anrätta",
+            "ratificerade – förlägga",
+            "auktoriserade – bebygga"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Albumet innehåller popmusik i gränslandet mellan ringsignaler och pojkbandspop, med en hållbarhet sämre än en liter mjölk. Man kan nynna varenda refräng efter två genomlyssningar, och man är ____ på dem efter fem.",
+        "options": [
+            "såld",
+            "utled",
+            "insnöad",
+            "ledsam"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Vandringslederna längs den vildvuxna och sköna Lummeråns ____ ger möjligheter till naturupplevelser i toppklass. Området hyser en unik och varierad samling ____, utan tvekan bland det bästa svensk natur har att erbjuda.",
+        "options": [
+            "urskog – reservat",
+            "vattendrag – servitut",
+            "dalgång – biotoper ",
+            "strömfåra – strövtåg"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "Bostads- och kontorshus har traditionellt ____ med takstommar av trä, med takstolar som primärt ____ element. Dessa takstolar, som placeras på ett visst ____ centrum- avstånd (t.ex. 1,20 m), förbinds med längsgående åsar.",
+        "options": [
+            "utrustats – sammanhållande – övergripande",
+            "förbundits – utvalt – gemensamt",
+            "utförts – inbyggt – standardiserat",
+            "försetts – bärande – inbördes"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Alloy kallas i skandinaviskt ____ språkbruk det pulver som blandas med kvicksilver till amalgam. Numera används andra fyllnadsmaterial inom tandvården.",
+        "options": [
+            "odontologiskt",
+            "kardiologiskt",
+            "dermatologiskt",
+            "toxikologiskt"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "De eventuella ____ som är förenade med denna publikation, såsom uppenbara över- drifter, logiska felslut, rent felaktiga sakuppgifter, äreröriga ____, likheter med i verklig- heten levande personer och jag vet inte vad, får alltså helt och hållet tillskrivas denna spillkråka. Jag fritar mig absolut från allt ansvar.",
+        "options": [
+            "avbrott – avvikelser",
+            "brister – beskyllningar",
+            "antydningar – analyser",
+            "bekännelser – bagateller"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "What are we told here?",
+        "options": [
+            "Future buildings will hardly need less repair than those built in the 20th century",
+            "New building materials will be more resistant to extreme weather conditions than the traditional ",
+            "The building industry seems to have learnt its lesson from the mistakes of the 20th century",
+            "Recent developments in building technology are likely to be the end of traditional materials"
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "What is the main point here?",
+        "options": [
+            "Older women taking part in physical activities improve their short-term memory",
+            "Ordinary exercise is beneficial for the intellec- tual functions of older people",
+            "Women over 65 have been medically assessed in order to evaluate their mental status",
+            "Mental health does not seem to be related to people’s physical activities"
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "Which of the following statements is most in line with the text?",
+        "options": [
+            "Music is understood in much the same way regardless of people’s origins ",
+            "Music has been viewed as part of religious spiri tual healing ",
+            "Music and mathematics trigger the same emo- tions in people",
+            "Music brings out unexpected reactions in people according to recent research "
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "What is said about music and language?",
+        "options": [
+            "Research has found no connection between language and musical ability ",
+            "Grammar skills are needed to be able to com- pose music",
+            "Broca’s area is used for experiencing music and using language ",
+            "Musical skills are far more complex than lan- guage skills"
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "What has been found in research on music in relation to autistic people?",
+        "options": [
+            "Autistic children are not touched emotionally by any kind of music",
+            "Research has revealed no difference in the way autistic and non-autistic people can perform ",
+            "Autistic children can distinguish between various feelings when listening to music ",
+            "Research suggests that autistic people in many ways benefit from listening to music"
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "Why, according to the text, is fast modern music popular among people who exer- cise?",
+        "options": [
+            "They are too impatient to listen to classical music",
+            "This kind of music activates the brain’s basic drive system",
+            "They want to show that they are young at heart ",
+            "This kind of music reduces pain "
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "What are we told about the medical ef- fects of music?",
+        "options": [
+            "Only cheerful music has an effect when you are feeling down ",
+            "Music is a worthwhile alternative to medicine for heart-related illnesses ",
+            "All kinds of music have been used to eliminate stress",
+            "Music has been found to have a positive impact on several health problems "
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "What is said in the text?",
+        "options": [
+            "Parents are responsible for their children’s unruly behaviour in class ",
+            "Teachers and parents should cooperate in raising standards of behaviour in the classroom",
+            "Pupils who are disruptive should be sent to special classes",
+            "Teachers are the only ones able to improve classroom management and pupils’ behaviour"
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What is said about beliefs in connection with brain activity?",
+        "options": [
+            "Researchers reject the view that religious beliefs are different from other beliefs",
+            "Non-religious beliefs are dealt with in the same manner regardless of gender",
+            "Researchers claim that religion needs to be investigated further ",
+            "Religious beliefs leave special marks in the brain according to new research"
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]

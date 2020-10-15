@@ -1,0 +1,480 @@
+[
+    {
+        "question": "",
+        "options": [
+            "klagomål",
+            "förolämpning",
+            "antydan",
+            "punktinsats",
+            "hotelse"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": ""
+    },
+    {
+        "question": "marginaliserad",
+        "options": [
+            "upprepad",
+            "förlorad",
+            "hjälplös",
+            "föråldrad",
+            "åsidosatt"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": ""
+    },
+    {
+        "question": "plädering",
+        "options": [
+            "umgängesregel",
+            "undersökning",
+            "uppskattning",
+            "utläggning",
+            "ursäkt"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": ""
+    },
+    {
+        "question": "stipulera",
+        "options": [
+            "fastställa",
+            "uträtta",
+            "konfrontera",
+            "betala",
+            "förneka"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": ""
+    },
+    {
+        "question": "cysta",
+        "options": [
+            "broskskiva",
+            "inre blödning",
+            "tarmficka",
+            "vätskefylld blåsa",
+            "muskelbristning"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": ""
+    },
+    {
+        "question": "arrogant",
+        "options": [
+            "irriterande",
+            "överlägsen",
+            "utlämnande",
+            "avvisande",
+            "motstridig"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": ""
+    },
+    {
+        "question": "ynnest",
+        "options": [
+            "förmån",
+            "hyllning",
+            "begåvning",
+            "överdrift",
+            "förlåtelse"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": ""
+    },
+    {
+        "question": "tillika",
+        "options": [
+            "sammanlagt",
+            "dessutom",
+            "eventuellt",
+            "fullständigt",
+            "exempelvis"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": ""
+    },
+    {
+        "question": "kartlägga",
+        "options": [
+            "arrangera",
+            "lägga grund för",
+            "systematiskt utforska",
+            "pussla ihop",
+            "förbereda"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": ""
+    },
+    {
+        "question": "instans",
+        "options": [
+            "beslutsnivå",
+            "närvaro",
+            "grundprincip",
+            "kännetecken",
+            "betänketid – 2 – – 3 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": ""
+    },
+    {
+        "question": "Vad blev utfallet i mål nr 3692-12, enligt texten?",
+        "options": [
+            "HFavstod helt från att göra en rättsprövning av regeringens handläggning och beslut.",
+            "HFprövade regeringens handläggning och beslut enbart för vissa sökande.",
+            "HFhittade brister i regeringens handläggning och beslut som berörde vissa sökande.",
+            "HFfann att regeringens handläggning och beslut helt uppfyllde de rättsliga kraven."
+        ],
+        "article": "",
+        "id": 11,
+        "answer": ""
+    },
+    {
+        "question": "Enligt texten avvisade HFD vissa av ansökning- arna om rättsprövning av fattade regerings- beslut. Varför?",
+        "options": [
+            "Det fanns ingen anledning att kritisera reger- ingens handläggning eller ställningstagande i ",
+            "HFvar inte rätt myndighet att pröva beslut fattade enligt artikel 6.1 i Europakonventionen.",
+            "Personerna bakom ansökningarna berördes inte av besluten på ett sådant sätt att det fanns skäl ",
+            "Ansökningarna hade så nära anknytning till andra mål att en separat rättsprövning inte "
+        ],
+        "article": "",
+        "id": 12,
+        "answer": ""
+    },
+    {
+        "question": "Deltamuskeln är mycket användbar i det sam- manhang som texten beskriver, delvis tack vare sina långa fibrer. Varför är fiberlängden så viktig, enligt texten?",
+        "options": [
+            "Muskler med långa fibrer är lättare att studera, vilket ger bättre resultat vid transplantationer.",
+            "Muskler med långa fibrer bibehåller sin funk- tion väl, även om muskelns ursprungliga längd ",
+            "Långa muskelfibrer gör att kirurgen kan bortse från muskelns passiva spänning.",
+            "Långa muskelfibrer är nödvändiga för att funge - rande och skadade muskler ska kunna samman-"
+        ],
+        "article": "",
+        "id": 13,
+        "answer": ""
+    },
+    {
+        "question": "Hur kan man enligt texten ge ryggmärgsskadade patienter som har genomgått operation ökad kraft och rörlighet i armen?",
+        "options": [
+            "Genom att sätta in små stålmarkörer i senorna.",
+            "Genom att sträcka armbågen via kirurgi.",
+            "Genom att stärka den passiva spänningen i musklerna.",
+            "Genom att förbättra patienternas befintliga hjälpmedel."
+        ],
+        "article": "",
+        "id": 14,
+        "answer": ""
+    },
+    {
+        "question": "Vad har undersökts i den forskning som be- skrivs i texten?",
+        "options": [
+            "Huruvida kirurgi kan användas för att hjälpa ryggmärgsskadade.",
+            "Under vilka förutsättningar muskler fungerar optimalt.",
+            "Vilka av kroppens muskler som påverkas mest vid en förlamning.",
+            "Hur nya former för muskelträning kan hjälpa "
+        ],
+        "article": "",
+        "id": 15,
+        "answer": ""
+    },
+    {
+        "question": "Hur kan texten bäst karakteriseras?",
+        "options": [
+            "Som en presentation av pågående forskning.",
+            "Som en beskrivning av ett nytt forskningsfält.",
+            "Som en utvärdering av undersökningsmetoder.",
+            "Som en granskning av nya operationstekniker. Skillnaderna mellan friska och förlamade muskler kan "
+        ],
+        "article": "",
+        "id": 16,
+        "answer": ""
+    },
+    {
+        "question": "Vilken roll spelade myten om den goda littera- turen i kanondebatten, enligt textens referat av Magnus Perssons bok?",
+        "options": [
+            "Den var en given utgångspunkt.",
+            "Den blev efter hand den egentliga stridsfrågan.",
+            "Den diskuterades som en separat fråga.",
+            "Den tillförde debatten en ovanlig dimension."
+        ],
+        "article": "",
+        "id": 17,
+        "answer": ""
+    },
+    {
+        "question": "Vilket är enligt texten det enda sättet att stå fri från myten om den goda litteraturen?",
+        "options": [
+            "Att uteslutande läsa ifrågasatt litteratur.",
+            "Att välja sin egen litteratur.",
+            "Att alltid kritisera litteraturen.",
+            "Att strunta i litteraturen."
+        ],
+        "article": "",
+        "id": 18,
+        "answer": ""
+    },
+    {
+        "question": "Vad noterar recensenten beträffande de ”naiva” argumenten till läsningens försvar?",
+        "options": [
+            "Att de framförs av lekmän som är starkt påver- kade av expertisens åsikter.",
+            "Att de egentligen är politiska men väldigt sällan bemöts som sådana.",
+            "Att de på grund av sin allmänna vällovlighet är svåra att attackera.",
+            "Att de ifrågasätts men sedan i princip upprepas av kritikerna."
+        ],
+        "article": "",
+        "id": 19,
+        "answer": ""
+    },
+    {
+        "question": "Hur ser Magnus Persson själv på litteratur och läsande, enligt texten?",
+        "options": [
+            "Det är inte självklart att läsning alltid medför något gott.",
+            "Läsning kan ge direkta hälsoeffekter.",
+            "God litteratur medför alltid något positivt.",
+            "Det finns både god och ond litteratur. – 8 – – 9 –"
+        ],
+        "article": "",
+        "id": 20,
+        "answer": ""
+    },
+    {
+        "question": "Eftersom landet har ett litet antal dollarmiljardärer men miljontals invånare på fattigdomsgränsen är det _____ att kunna betala de förhållandevis stora summor som krävs för att gå på spännande OS-tävlingar på hemmaplan.",
+        "options": [
+            "allas angelägenhet",
+            "få förunnat",
+            "många om budet",
+            "vars och ens ansvar"
+        ],
+        "article": "",
+        "id": 21,
+        "answer": ""
+    },
+    {
+        "question": "En nysning framkallas normalt av kemisk eller _____ retning av smärtförande nerver i näsans slemhinna. Men även uppvärmning av ansiktet och starkt ljus i ögonen kan _____ reflexen.",
+        "options": [
+            "fysisk – utveckla",
+            "sinnlig – utsända",
+            "mekanisk – utlösa",
+            "invärtes – uttrycka"
+        ],
+        "article": "",
+        "id": 22,
+        "answer": ""
+    },
+    {
+        "question": "Sam Shepards stycke utspelas, likt flera andra av hans berättelser, i en _____ håla någonstans i öknen, en i alla _____ plågsamt utarmad amerikansk _____.",
+        "options": [
+            "avlägsen – bemärkelser – skogsbygd",
+            "övergiven – förhållanden – vildmark",
+            "mystisk – omständigheter – avkrok",
+            "gudsförgäten – avseenden – glesbygd"
+        ],
+        "article": "",
+        "id": 23,
+        "answer": ""
+    },
+    {
+        "question": "Det ska bli tio gånger säkrare att åka bakom ratten i ett självkörande fordon än att, som i dag, själv ratta fordonet. Säkerheten möjliggörs med rejäla backupsystem och hög _____; om en komponent slutar fungera så träder en annan in, så att bilen ändå kan fortsätta att köra på egen hand.",
+        "options": [
+            "auktoritet",
+            "redundans",
+            "soliditet",
+            "intensitet"
+        ],
+        "article": "",
+        "id": 24,
+        "answer": ""
+    },
+    {
+        "question": "För att gå i bräschen för digitaliseringen av svensk skönlitteratur _____ förlaget år 2007 det så kallade 1000-projektet. Genom att digitalisera 1000 titlar av framför allt äldre litteratur ur förlagshusets backlist, ville man ge allmänheten tillgång till böcker som sällan finns att _____ i tryck.",
+        "options": [
+            "sjösatte – tillgå",
+            "landsteg – avkoda",
+            "ankrade – uppbåda",
+            "strandsatte – inköpa"
+        ],
+        "article": "",
+        "id": 25,
+        "answer": ""
+    },
+    {
+        "question": "Vi behandlar ofta knäskador och har tagit fram program för _____ styrke- och koordinationsträning. Det har visat sig att _____ minskar om laget ägnar tio minuter innan fotbollspasset åt till exempel koordinationsövningar.",
+        "options": [
+            "försumbar – skaderiskerna",
+            "effektiv – skadegörelsen",
+            "märkbar – skadekänningarna",
+            "preventiv – skadefrekvensen"
+        ],
+        "article": "",
+        "id": 26,
+        "answer": ""
+    },
+    {
+        "question": "Att avslöja _____ var en dålig idé. Myten kring en okänd författare kommer alltid att överträffa verkligheten.",
+        "options": [
+            "intrigen",
+            "budbäraren",
+            "förläggaren",
+            "pseudonymen"
+        ],
+        "article": "",
+        "id": 27,
+        "answer": ""
+    },
+    {
+        "question": "En person som inte kan styra sina handlingar och inte är _____ att välja mellan rätt och fel har ingen skuld. Kan en människa inte ansvara för sina handlingar är hon _____ och kan alltså inte _____ sig skuld, och bör inte heller dömas.",
+        "options": [
+            "på plats – ansvarsfri – anta",
+            "på vippen – oskyldig – tillskriva",
+            "i stånd – otillräknelig – ådra",
+            "i skick – aningslös – belägga – 10 – – 11 –"
+        ],
+        "article": "",
+        "id": 28,
+        "answer": ""
+    },
+    {
+        "question": "Jag känner igen mig i hans totala förnekande av den meningslösa njutningen, den som livsstilsmagasinen ständigt saluför med _____ som ”Unna dig att njuta!”. Murakami, han njuter minsann inte. Han springer.",
+        "options": [
+            "floskler",
+            "anekdoter",
+            "parafraser",
+            "förebråelser"
+        ],
+        "article": "",
+        "id": 29,
+        "answer": ""
+    },
+    {
+        "question": "Utredaren förde in en moralisk _____ i sitt betänkande, åberopade det allmänna rättsmedvetandet och fann det stötande att likgiltighet och brist på _____ tillåts passera ostraffat i vissa situationer.",
+        "options": [
+            "dimension – civilkurage",
+            "inställning – avsikt",
+            "fas – handlingskraft",
+            "valmöjlighet – pliktkänsla – 11 –"
+        ],
+        "article": "",
+        "id": 30,
+        "answer": ""
+    },
+    {
+        "question": "31.",
+        "options": [
+            "new",
+            "illogical",
+            "ancient ",
+            "odd"
+        ],
+        "article": "",
+        "id": 31,
+        "answer": ""
+    },
+    {
+        "question": "32.",
+        "options": [
+            " attention ",
+            "dependence",
+            " relation",
+            "income"
+        ],
+        "article": "",
+        "id": 32,
+        "answer": ""
+    },
+    {
+        "question": "33.",
+        "options": [
+            " deserve",
+            "accept",
+            " disregard ",
+            " value "
+        ],
+        "article": "",
+        "id": 33,
+        "answer": ""
+    },
+    {
+        "question": "34.",
+        "options": [
+            " although",
+            " unless",
+            " since ",
+            " provided"
+        ],
+        "article": "",
+        "id": 34,
+        "answer": ""
+    },
+    {
+        "question": "35.",
+        "options": [
+            " less ",
+            "not",
+            "more",
+            " so – 12 – – 13 –"
+        ],
+        "article": "",
+        "id": 35,
+        "answer": ""
+    },
+    {
+        "question": "What was shown in Prof. Mischel’s original “marshmallow test”?",
+        "options": [
+            " Young children had more difficulty waiting for a reward than more mature ones. ",
+            " The children’s results were basically determined by the test situation at hand. ",
+            " The age of the children involved was largely irrelevant for the outcome of the study.",
+            " Children in general proved less able than adults to resist immediate temptation. "
+        ],
+        "article": "",
+        "id": 36,
+        "answer": ""
+    },
+    {
+        "question": "Why, in particular, is the marshmallow test of wider psychological interest?",
+        "options": [
+            " When applied to adults, its results tend to be more or less identical to those of young children.",
+            " It has suggested some unexpected perspectives on basic brain dysfunction. ",
+            " It has demonstrated that the same kind of under­ lying reasoning explains a person’s behavior ",
+            " Recent research has indicated its relevance for being able to wait without stress."
+        ],
+        "article": "",
+        "id": 37,
+        "answer": ""
+    },
+    {
+        "question": "Why is Leo Tolstoy mentioned?",
+        "options": [
+            " As a good example of the way many writers’ minds seem to function.",
+            " As an illustration of the conflict between person al ideals and actual behavior.",
+            " As an argument that self­control is not a well­ defined psychological concept.",
+            " As a suitable case for treatment by behavioral therapy. "
+        ],
+        "article": "",
+        "id": 38,
+        "answer": ""
+    },
+    {
+        "question": "What is the basic point of Prof. Mischel’s “if– then” argument?",
+        "options": [
+            " There is no link between personality profiles and observable behavior. ",
+            " Both child and adult personalities are guided by little­known behavioral norms.",
+            " Personality may give rise to a certain behavior only under specific conditions. ",
+            " Neither personality nor behavior can explain the mystery of human action. "
+        ],
+        "article": "",
+        "id": 39,
+        "answer": ""
+    }
+]
