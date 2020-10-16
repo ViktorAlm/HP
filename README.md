@@ -1,6 +1,6 @@
 # WIP
 
-# HöskoleProvet
+# HögskoleProvet
  Ett dataset på svenska HP för att testa modeller. Allt kan struktureras om och ändras. Jag har mest räsat på i den takt jag kunnat med lite reflektion kring tillvägagångsätt. Jag har tyvärr inte riktigt med tid för att göra allt som krävs för att göra den verbala delen av Högskolprovet så bra som möjligt. Om ni själva vill köra experiment eller hjälpa andra att göra experiment så är detta en intressant uppgift på svenska
  
 ## Hjälp
